@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -1647,6 +1648,531 @@
               "2",
               "[@datablend](https://github.com/datablend)/[**yelp-graph**](https://github.com/datablend/yelp-graph)",
               "Clustering of yelp businesses based upon checkin data ",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "658",
+              "[@IgnaceMaes](https://github.com/IgnaceMaes)/[**MaterialSkin**](https://github.com/IgnaceMaes/MaterialSkin)",
+              "Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.",
+              ""
+            ],
+            [
+              "435",
+              "[@maartenba](https://github.com/maartenba)/[**MvcSiteMapProvider**](https://github.com/maartenba/MvcSiteMapProvider)",
+              "An ASP.NET MVC SiteMapProvider implementation for the ASP.NET MVC framework.",
+              ""
+            ],
+            [
+              "178",
+              "[@maartenba](https://github.com/maartenba)/[**GoogleAnalyticsTrack…**](https://github.com/maartenba/GoogleAnalyticsTracker)",
+              "GoogleAnalyticsTracker - A C# library for tracking Google Analytics",
+              ""
+            ],
+            [
+              "133",
+              "[@yreynhout](https://github.com/yreynhout)/[**AggregateSource**](https://github.com/yreynhout/AggregateSource)",
+              "Lightweight infrastructure for doing eventsourcing using aggregates",
+              ""
+            ],
+            [
+              "91",
+              "[@davybrion](https://github.com/davybrion)/[**NHibernateWorkshop**](https://github.com/davybrion/NHibernateWorkshop)",
+              "Examples that I use for my NHibernate training course",
+              "[:arrow_upper_right:](http://thatextramile.be/training/nhibernate)"
+            ],
+            [
+              "85",
+              "[@davybrion](https://github.com/davybrion)/[**Agatha**](https://github.com/davybrion/Agatha)",
+              "Agatha Request-Response Service Layer for .NET",
+              "[:arrow_upper_right:](http://davybrion.github.com/Agatha/)"
+            ],
+            [
+              "68",
+              "[@nickvane](https://github.com/nickvane)/[**Magento-RestApi**](https://github.com/nickvane/Magento-RestApi)",
+              "An async C# client for Magento REST API",
+              ""
+            ],
+            [
+              "63",
+              "[@yreynhout](https://github.com/yreynhout)/[**Projac**](https://github.com/yreynhout/Projac)",
+              "A set of projection libraries",
+              ""
+            ],
+            [
+              "57",
+              "[@ToJans](https://github.com/ToJans)/[**Scritchy**](https://github.com/ToJans/Scritchy)",
+              "CQRS without plumbing",
+              "[:arrow_upper_right:](http://github.com/ToJans/Scritchy/wiki)"
+            ],
+            [
+              "53",
+              "[@KevinDockx](https://github.com/KevinDockx)/[**JsonPatch**](https://github.com/KevinDockx/JsonPatch)",
+              "JSON Patch (JsonPatchDocument) RFC 6902 implementation for .NET",
+              ""
+            ],
+            [
+              "39",
+              "[@ToJans](https://github.com/ToJans)/[**NerdBeers**](https://github.com/ToJans/NerdBeers)",
+              "An app built to demonstrate the awesomeness of NancyFx and Simple.Data, inspired by NerdDinner, backed with AutoTest.Net and MSpec",
+              "[:arrow_upper_right:](http://github.com/ToJans/NerdBeers/wiki)"
+            ],
+            [
+              "38",
+              "[@ToJans](https://github.com/ToJans)/[**MinimalisticCQRS**](https://github.com/ToJans/MinimalisticCQRS)",
+              "CQRS for the lazy *ss",
+              "[:arrow_upper_right:](http://minimalisticCQRS.apphb.com)"
+            ],
+            [
+              "32",
+              "[@sandrinodimattia](https://github.com/sandrinodimattia)/[**RedDog**](https://github.com/sandrinodimattia/RedDog)",
+              "Tools to help you build solutions on the Microsoft Azure platform.",
+              ""
+            ],
+            [
+              "24",
+              "[@GeertBellekens](https://github.com/GeertBellekens)/[**Enterprise-Architect…**](https://github.com/GeertBellekens/Enterprise-Architect-Toolpack)",
+              "Addins and tools for Sparx Systems Enterprise Architect",
+              "[:arrow_upper_right:](http://geertbellekens.github.com/Enterprise-Architect-Toolpack/)"
+            ],
+            [
+              "17",
+              "[@GeertBellekens](https://github.com/GeertBellekens)/[**UML-Tooling-Framewor…**](https://github.com/GeertBellekens/UML-Tooling-Framework)",
+              "Framework for tools and add-ins upon UML Case Tools",
+              "[:arrow_upper_right:](http://geertbellekens.github.com/UML-Tooling-Framework/)"
+            ],
+            [
+              "16",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**PullToRefreshListVie…**](https://github.com/XamlBrewer/PullToRefreshListView)",
+              "XAML ListView with pull-to-refresh capability, for Windows 8.1 Universal apps",
+              ""
+            ],
+            [
+              "16",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**Uwp.CoverFlowSample**](https://github.com/XamlBrewer/Uwp.CoverFlowSample)",
+              "A port of Silverlight Cover Flow Control to the Universal Windows Platform.",
+              ""
+            ],
+            [
+              "15",
+              "[@Mavamaarten](https://github.com/Mavamaarten)/[**YoutubeToMp3**](https://github.com/Mavamaarten/YoutubeToMp3)",
+              "A neat-looking Youtube to mp3 converter written in C#",
+              "[:arrow_upper_right:](http://mavamaarten.be/ytdownloader)"
+            ],
+            [
+              "14",
+              "[@ToJans](https://github.com/ToJans)/[**SaasOvation**](https://github.com/ToJans/SaasOvation)",
+              "This is an alternative approach to facilitate DDD using CQRS on a really low level",
+              ""
+            ],
+            [
+              "14",
+              "[@StephaneDelcroix](https://github.com/StephaneDelcroix)/[**MobileInception.Inte…**](https://github.com/StephaneDelcroix/MobileInception.Interactivity)",
+              "",
+              ""
+            ],
+            [
+              "14",
+              "[@davybrion](https://github.com/davybrion)/[**nhibernatetraining**](https://github.com/davybrion/nhibernatetraining)",
+              "",
+              "[:arrow_upper_right:](http://thatextramile.be/training/nhibernate)"
+            ],
+            [
+              "11",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-Composition-Radi…**](https://github.com/XamlBrewer/UWP-Composition-Radial-Gauge)",
+              "An UWP Radial Gauge Control partially drawn by the Composition API",
+              ""
+            ],
+            [
+              "11",
+              "[@yreynhout](https://github.com/yreynhout)/[**sharptemporalgitalyz…**](https://github.com/yreynhout/sharptemporalgitalyzer)",
+              "CSharp Temporal Method Analyzer for git repositories",
+              ""
+            ],
+            [
+              "11",
+              "[@xavierdecoster](https://github.com/xavierdecoster)/[**ReSharper.RazorExten…**](https://github.com/xavierdecoster/ReSharper.RazorExtensions)",
+              "A ReSharper plug-in to highlight suspicious usage of semicolon literals in Razor syntax.",
+              ""
+            ],
+            [
+              "10",
+              "[@davybrion](https://github.com/davybrion)/[**CircuitBreaker**](https://github.com/davybrion/CircuitBreaker)",
+              "implementation of http://davybrion.com/blog/2008/05/the-ci…",
+              ""
+            ],
+            [
+              "10",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-SQLite-Sample**](https://github.com/XamlBrewer/UWP-SQLite-Sample)",
+              "UWP SQLite Sample",
+              ""
+            ],
+            [
+              "10",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-ImageCropper-**](https://github.com/XamlBrewer/UWP-ImageCropper-)",
+              "An ImageCropper control for UWP.",
+              ""
+            ],
+            [
+              "9",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-SplitView-Sample**](https://github.com/XamlBrewer/UWP-SplitView-Sample)",
+              "UWP SplitView Sample",
+              ""
+            ],
+            [
+              "9",
+              "[@nickvane](https://github.com/nickvane)/[**ServiceStack.Logging…**](https://github.com/nickvane/ServiceStack.Logging.Serilog)",
+              "Adapter for using Serilog as ServiceStack logging",
+              ""
+            ],
+            [
+              "8",
+              "[@sandrinodimattia](https://github.com/sandrinodimattia)/[**EventHubsDemo**](https://github.com/sandrinodimattia/EventHubsDemo)",
+              "Sample real-time log stream with Azure Service Bus Event Hubs",
+              ""
+            ],
+            [
+              "8",
+              "[@ToJans](https://github.com/ToJans)/[**MVCExtensions**](https://github.com/ToJans/MVCExtensions)",
+              "\"Ruby on Rails\"-like lib for Asp.Net MVC",
+              "[:arrow_upper_right:](http://docs.google.com/present/view?id=dgt3mk3c_6fmhrd9c5)"
+            ],
+            [
+              "7",
+              "[@sandrinodimattia](https://github.com/sandrinodimattia)/[**WindowsAzure-IPAddre…**](https://github.com/sandrinodimattia/WindowsAzure-IPAddressRestriction)",
+              "Restrict access to your Cloud Services based on IP addresses",
+              ""
+            ],
+            [
+              "7",
+              "[@Zepheus](https://github.com/Zepheus)/[**ardrone3-pcap**](https://github.com/Zepheus/ardrone3-pcap)",
+              "An ArDrone3 packet sniffer for drones such as Bebop, Rolling Spider, ...",
+              ""
+            ],
+            [
+              "7",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-AdaptiveTrigger-…**](https://github.com/XamlBrewer/UWP-AdaptiveTrigger-Sample)",
+              "Universal Windows Platforml AdaptiveTrigger Sample",
+              ""
+            ],
+            [
+              "6",
+              "[@sandrinodimattia](https://github.com/sandrinodimattia)/[**WindowsAzure-IISAppl…**](https://github.com/sandrinodimattia/WindowsAzure-IISApplicationInitializationModule)",
+              "Sample application explaining how to use the Application Initialization module in Windows Azure",
+              ""
+            ],
+            [
+              "5",
+              "[@KevinDockx](https://github.com/KevinDockx)/[**HttpCache**](https://github.com/KevinDockx/HttpCache)",
+              "Marvin.HttpCache is a complete implementation of the RFC2616 Http Caching standard for use with HttpClient, for all .NET Framework platforms (Windows Store, Windows Phone, WPF, WinForms, Console apps).  Have a look around for the current status and to know what's yet to be implemented.",
+              ""
+            ],
+            [
+              "5",
+              "[@Zepheus](https://github.com/Zepheus)/[**Zepheus_Fiesta**](https://github.com/Zepheus/Zepheus_Fiesta)",
+              "A Fiesta Emulator Project",
+              ""
+            ],
+            [
+              "5",
+              "[@davybrion](https://github.com/davybrion)/[**BuildYourOwnDal**](https://github.com/davybrion/BuildYourOwnDal)",
+              "Full source of the Build Your Own Data Access Layer series",
+              "[:arrow_upper_right:](http://davybrion.com/blog/2009/08/build-your-own-data-access-layer-series/)"
+            ],
+            [
+              "5",
+              "[@ToJans](https://github.com/ToJans)/[**YakShayQRS**](https://github.com/ToJans/YakShayQRS)",
+              "Yak Shaving CQRS - Architectural masturbation",
+              "[:arrow_upper_right:](http://tojans.github.com/YakShayQRS/)"
+            ],
+            [
+              "5",
+              "[@JanJoris](https://github.com/JanJoris)/[**Fastlanium**](https://github.com/JanJoris/Fastlanium)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@sandrinodimattia](https://github.com/sandrinodimattia)/[**AzureServiceBus.Even…**](https://github.com/sandrinodimattia/AzureServiceBus.EventHubs.Samples)",
+              "Samples for the Event Hubs feature in Microsoft Azure Service Bus",
+              ""
+            ],
+            [
+              "5",
+              "[@StephaneDelcroix](https://github.com/StephaneDelcroix)/[**SpriteKitDemo**](https://github.com/StephaneDelcroix/SpriteKitDemo)",
+              "a first playable game using SpriteKit and Xamarin.iOS",
+              ""
+            ],
+            [
+              "5",
+              "[@nickvane](https://github.com/nickvane)/[**GoogleMusic-Api**](https://github.com/nickvane/GoogleMusic-Api)",
+              "C# API for using Google Music features",
+              ""
+            ],
+            [
+              "4",
+              "[@yreynhout](https://github.com/yreynhout)/[**NoBodyToBuild**](https://github.com/yreynhout/NoBodyToBuild)",
+              "DDD modeling issue",
+              ""
+            ],
+            [
+              "4",
+              "[@JefClaes](https://github.com/JefClaes)/[**aspnet-webapi-sample…**](https://github.com/JefClaes/aspnet-webapi-samples-tunisia)",
+              "Code of my session on REST and ASP.NET Web API at the Euricom Tunisia trip.",
+              "[:arrow_upper_right:](http://www.slideshare.net/jclaes/rest-and-aspnet-web-api-tunisia)"
+            ],
+            [
+              "4",
+              "[@xavierdecoster](https://github.com/xavierdecoster)/[**NuGet.Analyze**](https://github.com/xavierdecoster/NuGet.Analyze)",
+              "NuGet extension that provides repository analysis of NuGet package dependencies",
+              ""
+            ],
+            [
+              "4",
+              "[@ToJans](https://github.com/ToJans)/[**ConfReboot**](https://github.com/ToJans/ConfReboot)",
+              "This is the way I would implement the CQRS guidance project",
+              ""
+            ],
+            [
+              "4",
+              "[@JefClaes](https://github.com/JefClaes)/[**ARealDeveloper**](https://github.com/JefClaes/ARealDeveloper)",
+              "A mini-site written trying out WebMatrix.",
+              "[:arrow_upper_right:](http://www.arealdeveloper.com)"
+            ],
+            [
+              "4",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**AnimatedScrollToHubS…**](https://github.com/XamlBrewer/AnimatedScrollToHubSection)",
+              "Animated version of Hub.ScrollToSection",
+              ""
+            ],
+            [
+              "4",
+              "[@tommarien](https://github.com/tommarien)/[**nebula**](https://github.com/tommarien/nebula)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-Lua-Scripting-Sa…**](https://github.com/XamlBrewer/UWP-Lua-Scripting-Sample)",
+              "Demonstrates extending UWP apps with Lua scripting through MoonScript",
+              ""
+            ],
+            [
+              "4",
+              "[@KevinDockx](https://github.com/KevinDockx)/[**OAuth2OIDCAngularASP…**](https://github.com/KevinDockx/OAuth2OIDCAngularASPNET_Course)",
+              "These are the starter files for my \"OAuth2 and OpenID Connect Strategies for Angular and ASP.NET\" course at Pluralsight.",
+              "[:arrow_upper_right:](https://app.pluralsight.com/library/courses/oauth2-openid-connect-angular-aspdotnet/table-of-contents)"
+            ],
+            [
+              "3",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-Enum-Bindable-Sl…**](https://github.com/XamlBrewer/UWP-Enum-Bindable-Slider)",
+              "A UWP Slider of which the value is two-way bindable to a property of an Enum type.",
+              ""
+            ],
+            [
+              "3",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-Adobe-Color-Swat…**](https://github.com/XamlBrewer/UWP-Adobe-Color-Swatch-to-XAML)",
+              "Reads an Adobe Color Swatch (.aco) file, displays the colors, and exports them to XAML brushes.",
+              ""
+            ],
+            [
+              "3",
+              "[@ToJans](https://github.com/ToJans)/[**RazorDrivenDevelopme…**](https://github.com/ToJans/RazorDrivenDevelopment)",
+              "Applying Behavior Driven Development using simple Razor Templates",
+              "[:arrow_upper_right:](http://www.corebvba.be/blog/)"
+            ],
+            [
+              "3",
+              "[@xavierdecoster](https://github.com/xavierdecoster)/[**NuGet.PackageAnalysi…**](https://github.com/xavierdecoster/NuGet.PackageAnalysis)",
+              "A set of NuGet Package Analysis rules, e.g. to check whether the package being created has a valid Semantic Version",
+              ""
+            ],
+            [
+              "3",
+              "[@Zepheus](https://github.com/Zepheus)/[**Fiesta_Utils**](https://github.com/Zepheus/Fiesta_Utils)",
+              "Fiesta Online C# Utilities",
+              ""
+            ],
+            [
+              "3",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UniversalOneDriveSdk…**](https://github.com/XamlBrewer/UniversalOneDriveSdkSample)",
+              "Demonstration of the OneDrive API/SDK in a Windows Universal App",
+              ""
+            ],
+            [
+              "3",
+              "[@KevinDockx](https://github.com/KevinDockx)/[**XamarinFormsOIDCSamp…**](https://github.com/KevinDockx/XamarinFormsOIDCSample)",
+              "Xamarin Forms OAuth 2.0 / OpenID Connect Sample with IdentityServer3",
+              ""
+            ],
+            [
+              "2",
+              "[@KommuSoft](https://github.com/KommuSoft)/[**iohmma**](https://github.com/KommuSoft/iohmma)",
+              "A C# implementation of an Input-Output Hidden Markov Model.",
+              ""
+            ],
+            [
+              "2",
+              "[@Zepheus](https://github.com/Zepheus)/[**chip8_xna**](https://github.com/Zepheus/chip8_xna)",
+              "A Chip-8 implementation for XNA / C#.",
+              ""
+            ],
+            [
+              "2",
+              "[@sandrinodimattia](https://github.com/sandrinodimattia)/[**WindowsAzure-VhdSize**](https://github.com/sandrinodimattia/WindowsAzure-VhdSize)",
+              "Calculate how much space a Windows Azure Virtual Hard Disk is really using",
+              ""
+            ],
+            [
+              "2",
+              "[@JefClaes](https://github.com/JefClaes)/[**PasteHTML.NET**](https://github.com/JefClaes/PasteHTML.NET)",
+              "PasteHTML is a website which lets you upload and share HTML pages. It's free, anonymous and without registration. The uploaded pages should stay online forever. ",
+              "[:arrow_upper_right:](http://pastehtml.com/help/api)"
+            ],
+            [
+              "2",
+              "[@JefClaes](https://github.com/JefClaes)/[**stateful-with-events**](https://github.com/JefClaes/stateful-with-events)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@yreynhout](https://github.com/yreynhout)/[**naughty**](https://github.com/yreynhout/naughty)",
+              "A stab at configuring and enforcing authorization using event sourcing.",
+              ""
+            ],
+            [
+              "2",
+              "[@JanJoris](https://github.com/JanJoris)/[**Expander**](https://github.com/JanJoris/Expander)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ancientgods](https://github.com/ancientgods)/[**TSGui**](https://github.com/ancientgods/TSGui)",
+              "TShock plugin - Graphical User Interface replacing the console window.",
+              ""
+            ],
+            [
+              "2",
+              "[@ancientgods](https://github.com/ancientgods)/[**RodHealer**](https://github.com/ancientgods/RodHealer)",
+              "Heals players when using Rod of discord",
+              ""
+            ],
+            [
+              "2",
+              "[@tommarien](https://github.com/tommarien)/[**Sapphire**](https://github.com/tommarien/Sapphire)",
+              "My playground",
+              ""
+            ],
+            [
+              "2",
+              "[@ToJans](https://github.com/ToJans)/[**Aubergine**](https://github.com/ToJans/Aubergine)",
+              "A minimalistic easy to setup .Net BDD story runner",
+              "[:arrow_upper_right:](http://wiki.github.com/ToJans/Aubergine/)"
+            ],
+            [
+              "2",
+              "[@yreynhout](https://github.com/yreynhout)/[**MessTalk**](https://github.com/yreynhout/MessTalk)",
+              "Message contract transformation utility",
+              ""
+            ],
+            [
+              "2",
+              "[@ToJans](https://github.com/ToJans)/[**mauritius**](https://github.com/ToJans/mauritius)",
+              "Another evolution of CQRS",
+              ""
+            ],
+            [
+              "2",
+              "[@yreynhout](https://github.com/yreynhout)/[**NAuthorize**](https://github.com/yreynhout/NAuthorize)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@maartenba](https://github.com/maartenba)/[**CamoDotNet**](https://github.com/maartenba/CamoDotNet)",
+              "CamoDotNet is all about making insecure assets look secure. This is an SSL image proxy to prevent mixed content warnings on secure pages.",
+              ""
+            ],
+            [
+              "2",
+              "[@sandrinodimattia](https://github.com/sandrinodimattia)/[**WindowsAzure-ChronoT…**](https://github.com/sandrinodimattia/WindowsAzure-ChronoTableStorage)",
+              "An easy way to save your entities in a (reversed) chronological order in Table Storage. Also adds support for querying based on dates (before/after/between).",
+              ""
+            ],
+            [
+              "2",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-Lex.DB-Sample**](https://github.com/XamlBrewer/UWP-Lex.DB-Sample)",
+              "UWP Lex.DB Sample",
+              ""
+            ],
+            [
+              "2",
+              "[@KommuSoft](https://github.com/KommuSoft)/[**Gardens-Point-LEX**](https://github.com/KommuSoft/Gardens-Point-LEX)",
+              "A lexer for C# in C#",
+              "[:arrow_upper_right:](https://gplex.codeplex.com/)"
+            ],
+            [
+              "2",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-Square-of-Square…**](https://github.com/XamlBrewer/UWP-Square-of-Squares-Control)",
+              "A XAML container to test square UWP controls.",
+              ""
+            ],
+            [
+              "2",
+              "[@KommuSoft](https://github.com/KommuSoft)/[**magicengine**](https://github.com/KommuSoft/magicengine)",
+              "A game engine for a quite generic game (specified with XML-files)",
+              ""
+            ],
+            [
+              "2",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**ItemCommandBar**](https://github.com/XamlBrewer/ItemCommandBar)",
+              "Windows Store App Inline Item CommandBar for Mouse",
+              ""
+            ],
+            [
+              "2",
+              "[@JefClaes](https://github.com/JefClaes)/[**FourEyesPrinciple**](https://github.com/JefClaes/FourEyesPrinciple)",
+              "Some experiments modeling the four eyes principle",
+              ""
+            ],
+            [
+              "2",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-Prism-Validation…**](https://github.com/XamlBrewer/UWP-Prism-Validation-Sample)",
+              "User input validation on UWP with Prism 6 classes and data annotations",
+              ""
+            ],
+            [
+              "2",
+              "[@KevinDockx](https://github.com/KevinDockx)/[**JsonPatch.Dynamic**](https://github.com/KevinDockx/JsonPatch.Dynamic)",
+              "Support for dynamically typed objects for Marvin.JsonPatch (Json Patch Document RFC 6902 implementation for .NET)",
+              ""
+            ],
+            [
+              "2",
+              "[@nickvane](https://github.com/nickvane)/[**AionMsBuildTasks**](https://github.com/nickvane/AionMsBuildTasks)",
+              "MsBuildTasks for building CA Aion applications",
+              ""
+            ],
+            [
+              "2",
+              "[@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-SQLite-EntityFra…**](https://github.com/XamlBrewer/UWP-SQLite-EntityFramework-Sample)",
+              "A UWP app demonstrating CRUD operations against a local SQLite database using Entity Framework.",
               ""
             ]
           ]
