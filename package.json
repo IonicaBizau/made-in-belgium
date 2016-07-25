@@ -66,7 +66,8 @@
           "[Python](#python)",
           "[R](#r)",
           "[Ruby](#ruby)",
-          "[Scala](#scala)"
+          "[Scala](#scala)",
+          "[Shell](#shell)"
         ]
       },
       {
@@ -5887,6 +5888,141 @@
               "2",
               "[@andypetrella](https://github.com/andypetrella)/[**steal-play2**](https://github.com/andypetrella/steal-play2)",
               "A project defining a way to intercept/prepare stuffs before the definition of an action",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Shell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "25",
+              "[@erikdubois](https://github.com/erikdubois)/[**Archi3**](https://github.com/erikdubois/Archi3)",
+              "Automated script to install i3 and all its programs on Arch Linux",
+              ""
+            ],
+            [
+              "19",
+              "[@srvg](https://github.com/srvg)/[**sysadmintools**](https://github.com/srvg/sysadmintools)",
+              "Miscelleanous Scripts",
+              "[:arrow_upper_right:](www.ginsys.eu)"
+            ],
+            [
+              "15",
+              "[@sjorge](https://github.com/sjorge)/[**asmd**](https://github.com/sjorge/asmd)",
+              "Advanced SmartOS Node Management Daemon",
+              ""
+            ],
+            [
+              "13",
+              "[@Tuinslak](https://github.com/Tuinslak)/[**GFW-URL-checker**](https://github.com/Tuinslak/GFW-URL-checker)",
+              "Chinese firewall blocked url tester",
+              "[:arrow_upper_right:](https://blog.tuinslak.org/2011/03/great-firewall-checker/)"
+            ],
+            [
+              "11",
+              "[@erikdubois](https://github.com/erikdubois)/[**yltra-flat-icon-them…**](https://github.com/erikdubois/yltra-flat-icon-theme)",
+              "Yltra Flat icon for Linux Operating Systems",
+              ""
+            ],
+            [
+              "8",
+              "[@BlackIkeEagle](https://github.com/BlackIkeEagle)/[**bashrc**](https://github.com/BlackIkeEagle/bashrc)",
+              "BlackEagle's bashrc",
+              ""
+            ],
+            [
+              "8",
+              "[@BlackIkeEagle](https://github.com/BlackIkeEagle)/[**docker-php-samples**](https://github.com/BlackIkeEagle/docker-php-samples)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@Tuinslak](https://github.com/Tuinslak)/[**PAC-Generator**](https://github.com/Tuinslak/PAC-Generator)",
+              "Generate Proxy Auto-Config files",
+              "[:arrow_upper_right:](https://blog.tuinslak.org/2011/03/proxy-pac-generator/)"
+            ],
+            [
+              "7",
+              "[@NoctuaNivalis](https://github.com/NoctuaNivalis)/[**minerva-syncer**](https://github.com/NoctuaNivalis/minerva-syncer)",
+              "A bash script to sync a local folder with Minerva documents using curl",
+              ""
+            ],
+            [
+              "6",
+              "[@srvg](https://github.com/srvg)/[**dotfiles**](https://github.com/srvg/dotfiles)",
+              "My personal config files. This repository is managed with vcsh.",
+              ""
+            ],
+            [
+              "6",
+              "[@erikdubois](https://github.com/erikdubois)/[**Super-Ultra-Flat-Num…**](https://github.com/erikdubois/Super-Ultra-Flat-Numix-Remix)",
+              "Icons for Linux - a mixture of different icons",
+              ""
+            ],
+            [
+              "6",
+              "[@BlackIkeEagle](https://github.com/BlackIkeEagle)/[**docker-archlinux-ima…**](https://github.com/BlackIkeEagle/docker-archlinux-images)",
+              "DEPRECATED, I will move to best practice containers, see: https://github.com/BlackIkeEagle/docker-…",
+              ""
+            ],
+            [
+              "5",
+              "[@erikdubois](https://github.com/erikdubois)/[**Sardi**](https://github.com/erikdubois/Sardi)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@Tuinslak](https://github.com/Tuinslak)/[**URL-Extractor**](https://github.com/Tuinslak/URL-Extractor)",
+              "Extract URLs from file, and check whether they exist using wget",
+              "[:arrow_upper_right:](http://yeri.be)"
+            ],
+            [
+              "3",
+              "[@kcalliauw](https://github.com/kcalliauw)/[**VPS**](https://github.com/kcalliauw/VPS)",
+              "Shell scripts for Debian Squeeze VPS",
+              ""
+            ],
+            [
+              "3",
+              "[@BlackIkeEagle](https://github.com/BlackIkeEagle)/[**docker-developer-dns**](https://github.com/BlackIkeEagle/docker-developer-dns)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@erikdubois](https://github.com/erikdubois)/[**Ultimate-Linux-Mint-…**](https://github.com/erikdubois/Ultimate-Linux-Mint-18)",
+              "Cinnamon - automated script installation of software",
+              ""
+            ],
+            [
+              "2",
+              "[@BlackIkeEagle](https://github.com/BlackIkeEagle)/[**documents-sync**](https://github.com/BlackIkeEagle/documents-sync)",
+              "sync your documents",
+              ""
+            ],
+            [
+              "2",
+              "[@Tuinslak](https://github.com/Tuinslak)/[**Misc**](https://github.com/Tuinslak/Misc)",
+              "Stuff, configs, docs, etc",
+              "[:arrow_upper_right:](https://0x04.com/conf/)"
+            ],
+            [
+              "2",
+              "[@BlackIkeEagle](https://github.com/BlackIkeEagle)/[**black-backup**](https://github.com/BlackIkeEagle/black-backup)",
+              "simple backup written in bash",
               ""
             ]
           ]
