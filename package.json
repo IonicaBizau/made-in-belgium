@@ -63,7 +63,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -4700,6 +4701,57 @@
               "[@fdb](https://github.com/fdb)/[**teamhub**](https://github.com/fdb/teamhub)",
               "A simple web application for collaboration in small teams.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "70",
+              "[@yrosseel](https://github.com/yrosseel)/[**lavaan**](https://github.com/yrosseel/lavaan)",
+              "an R package for structural equation modeling and more",
+              "[:arrow_upper_right:](http://lavaan.org)"
+            ],
+            [
+              "25",
+              "[@jwijffels](https://github.com/jwijffels)/[**RMOA**](https://github.com/jwijffels/RMOA)",
+              "Connect R to MOA for massive online data stream mining",
+              ""
+            ],
+            [
+              "12",
+              "[@tomwenseleers](https://github.com/tomwenseleers)/[**export**](https://github.com/tomwenseleers/export)",
+              "R package to easily export active graphs and statistical output to MS Office, Latex and HTML formats",
+              ""
+            ],
+            [
+              "8",
+              "[@jwijffels](https://github.com/jwijffels)/[**ETLUtils**](https://github.com/jwijffels/ETLUtils)",
+              "Utilities for easily loading big data from relational databases directly into ffdf objects in R.",
+              "[:arrow_upper_right:](https://github.com/jwijffels/ETLUtils/wiki)"
+            ],
+            [
+              "8",
+              "[@jwijffels](https://github.com/jwijffels)/[**Myrrix-R-interface**](https://github.com/jwijffels/Myrrix-R-interface)",
+              "Let R talk to Myrrix. Myrrix is a complete, real-time, scalable     clustering and recommender system, evolved from Apache Mahout.",
+              ""
+            ],
+            [
+              "4",
+              "[@rogiersbart](https://github.com/rogiersbart)/[**RGLUEANN**](https://github.com/rogiersbart/RGLUEANN)",
+              "provides an R implementation of the coupling between general likelihood uncertainty estimation (GLUE) and artificial neural networks (ANN)",
+              "[:arrow_upper_right:](http://rogiersbart.blogspot.com/search/label/Science)"
             ]
           ]
         }
