@@ -56,7 +56,8 @@
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
-          "[Go](#go)"
+          "[Go](#go)",
+          "[Haskell](#haskell)"
         ]
       },
       {
@@ -2931,6 +2932,381 @@
               "2",
               "[@bubblepost](https://github.com/bubblepost)/[**jinx**](https://github.com/bubblepost/jinx)",
               "Continuous integration server",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Haskell #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1310",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**hakyll**](https://github.com/jaspervdj/hakyll)",
+              "A static website compiler library in Haskell",
+              "[:arrow_upper_right:](jaspervdj.be/hakyll)"
+            ],
+            [
+              "296",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**stylish-haskell**](https://github.com/jaspervdj/stylish-haskell)",
+              "Haskell code prettifier",
+              ""
+            ],
+            [
+              "204",
+              "[@RaphaelJ](https://github.com/RaphaelJ)/[**friday**](https://github.com/RaphaelJ/friday)",
+              "Fast image IO and transformations.",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/friday)"
+            ],
+            [
+              "185",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**websockets**](https://github.com/jaspervdj/websockets)",
+              "A Haskell library for creating WebSocket-capable servers",
+              "[:arrow_upper_right:](http://jaspervdj.be/websockets)"
+            ],
+            [
+              "135",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**blaze-html**](https://github.com/jaspervdj/blaze-html)",
+              "A blazingly fast HTML combinator library for Haskell.",
+              "[:arrow_upper_right:](http://jaspervdj.be/blaze)"
+            ],
+            [
+              "105",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**digestive-functors**](https://github.com/jaspervdj/digestive-functors)",
+              "A general way to consume input using applicative functors",
+              ""
+            ],
+            [
+              "63",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**jaspervdj**](https://github.com/jaspervdj/jaspervdj)",
+              "Source code of my personal home page.",
+              "[:arrow_upper_right:](jaspervdj.be)"
+            ],
+            [
+              "35",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**lorem-markdownum**](https://github.com/jaspervdj/lorem-markdownum)",
+              "A lorem ipsum generator for markdown",
+              ""
+            ],
+            [
+              "35",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**planet-wars-haskell**](https://github.com/jaspervdj/planet-wars-haskell)",
+              "Unofficial Haskell starter package for the Planet Wars AI contest",
+              ""
+            ],
+            [
+              "32",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**dcpu16-hs**](https://github.com/jaspervdj/dcpu16-hs)",
+              "Haskell implementation of Notch's dcpu-16 specification (assembler, emulator)",
+              ""
+            ],
+            [
+              "28",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**tweetov**](https://github.com/jaspervdj/tweetov)",
+              "Haskell webapp to generate random tweets using Markov chains",
+              "[:arrow_upper_right:](jaspervdj.be/tweetov)"
+            ],
+            [
+              "26",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**number-six**](https://github.com/jaspervdj/number-six)",
+              "Number Six is a sexy Haskell IRC bot.",
+              ""
+            ],
+            [
+              "25",
+              "[@RaphaelJ](https://github.com/RaphaelJ)/[**friday-report**](https://github.com/RaphaelJ/friday-report)",
+              "Document introducing the features and design of the friday library",
+              ""
+            ],
+            [
+              "23",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**cabal-dependency-lic…**](https://github.com/jaspervdj/cabal-dependency-licenses)",
+              "Compose a list of a project's transitive dependencies with their licenses",
+              ""
+            ],
+            [
+              "22",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**websockets-snap**](https://github.com/jaspervdj/websockets-snap)",
+              "Snap integration for the websockets library",
+              ""
+            ],
+            [
+              "21",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**hakyll-examples**](https://github.com/jaspervdj/hakyll-examples)",
+              "Examples for the Hakyll static site generator",
+              "[:arrow_upper_right:](http://jaspervdj.be/hakyll)"
+            ],
+            [
+              "17",
+              "[@kbonne](https://github.com/kbonne)/[**pandoc-plantuml-filt…**](https://github.com/kbonne/pandoc-plantuml-filter)",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "[@noteed](https://github.com/noteed)/[**language-glsl**](https://github.com/noteed/language-glsl)",
+              "Haskell package for representation, parsing, and pretty-printing of GLSL",
+              ""
+            ],
+            [
+              "10",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**firefly**](https://github.com/jaspervdj/firefly)",
+              "Lightweight, fast and easy 2D game library for Haskell",
+              ""
+            ],
+            [
+              "10",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**hakyll-contrib**](https://github.com/jaspervdj/hakyll-contrib)",
+              "Extra pre-made configurations and useful modules for hakyll",
+              "[:arrow_upper_right:](http://jaspervdj.be/hakyll)"
+            ],
+            [
+              "10",
+              "[@itkovian](https://github.com/itkovian)/[**HaBench**](https://github.com/itkovian/HaBench)",
+              "Haskell Benchmark Suite",
+              ""
+            ],
+            [
+              "9",
+              "[@RaphaelJ](https://github.com/RaphaelJ)/[**friday-examples**](https://github.com/RaphaelJ/friday-examples)",
+              "Image processing examples which use the friday image library.",
+              ""
+            ],
+            [
+              "9",
+              "[@noteed](https://github.com/noteed)/[**python-pickle**](https://github.com/noteed/python-pickle)",
+              "Serialization/deserialization using Python Pickle format",
+              ""
+            ],
+            [
+              "7",
+              "[@RaphaelJ](https://github.com/RaphaelJ)/[**friday-devil**](https://github.com/RaphaelJ/friday-devil)",
+              "Provides functions to load images from files using bindings to the DevIL C library.",
+              "[:arrow_upper_right:](https://hackage.haskell.org/package/friday-devil)"
+            ],
+            [
+              "7",
+              "[@noteed](https://github.com/noteed)/[**rescoyl**](https://github.com/noteed/rescoyl)",
+              "Private Docker registry",
+              ""
+            ],
+            [
+              "7",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**b-tree**](https://github.com/jaspervdj/b-tree)",
+              "A fast B-tree library for Haskell",
+              ""
+            ],
+            [
+              "7",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**haskell-irc**](https://github.com/jaspervdj/haskell-irc)",
+              "IRC client in Haskell and CoffeeScript",
+              ""
+            ],
+            [
+              "6",
+              "[@noteed](https://github.com/noteed)/[**smallpt-hs**](https://github.com/noteed/smallpt-hs)",
+              "A Haskell port of the C++ smallpt path tracer",
+              ""
+            ],
+            [
+              "6",
+              "[@noteed](https://github.com/noteed)/[**syntactical**](https://github.com/noteed/syntactical)",
+              "Haskell library for distfix expression parsing",
+              ""
+            ],
+            [
+              "6",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**acme-cofunctor**](https://github.com/jaspervdj/acme-cofunctor)",
+              "A Cofunctor is a structure from category theory dual to Functor",
+              ""
+            ],
+            [
+              "5",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**blaze-markup**](https://github.com/jaspervdj/blaze-markup)",
+              "Core modules for a blazing fast markup combinator library",
+              ""
+            ],
+            [
+              "5",
+              "[@noteed](https://github.com/noteed)/[**mojito**](https://github.com/noteed/mojito)",
+              "A simple functional language with focus on type inference",
+              ""
+            ],
+            [
+              "5",
+              "[@noteed](https://github.com/noteed)/[**sentry**](https://github.com/noteed/sentry)",
+              "Simple process monitoring",
+              "[:arrow_upper_right:](http://noteed.com/sentry/)"
+            ],
+            [
+              "5",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**blaze-html-hexpat**](https://github.com/jaspervdj/blaze-html-hexpat)",
+              "Hexpat renderer for blaze-html",
+              "[:arrow_upper_right:](http://jaspervdj.be/blaze)"
+            ],
+            [
+              "5",
+              "[@RaphaelJ](https://github.com/RaphaelJ)/[**getwebb.org**](https://github.com/RaphaelJ/getwebb.org)",
+              "Sources of the getwebb.org website.",
+              "[:arrow_upper_right:](getwebb.org)"
+            ],
+            [
+              "5",
+              "[@RaphaelJ](https://github.com/RaphaelJ)/[**repa-devil**](https://github.com/RaphaelJ/repa-devil)",
+              "Image library based on the DevIL open source image library for the repa array library. ",
+              ""
+            ],
+            [
+              "4",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**redis-simple**](https://github.com/jaspervdj/redis-simple)",
+              "Simplified redis wrapper for Haskell",
+              ""
+            ],
+            [
+              "4",
+              "[@noteed](https://github.com/noteed)/[**acme**](https://github.com/noteed/acme)",
+              "Get a certificate using Let's Encrypt ACME protocol",
+              ""
+            ],
+            [
+              "4",
+              "[@noteed](https://github.com/noteed)/[**humming**](https://github.com/noteed/humming)",
+              "queue_classic in Haskell",
+              ""
+            ],
+            [
+              "4",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**dotfiles**](https://github.com/jaspervdj/dotfiles)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@noteed](https://github.com/noteed)/[**sftp-streams**](https://github.com/noteed/sftp-streams)",
+              "SFTP protocol",
+              ""
+            ],
+            [
+              "4",
+              "[@noteed](https://github.com/noteed)/[**scp-streams**](https://github.com/noteed/scp-streams)",
+              "An SCP protocol implementation",
+              ""
+            ],
+            [
+              "3",
+              "[@noteed](https://github.com/noteed)/[**hgithub**](https://github.com/noteed/hgithub)",
+              "Haskell bindings to the GitHub API",
+              ""
+            ],
+            [
+              "3",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**fast-aleck-hs**](https://github.com/jaspervdj/fast-aleck-hs)",
+              "Bindings to the fast-aleck library, a smart typography enhancer",
+              ""
+            ],
+            [
+              "3",
+              "[@itkovian](https://github.com/itkovian)/[**hMollom**](https://github.com/itkovian/hMollom)",
+              "Haskell wrapper for the Mollom service",
+              ""
+            ],
+            [
+              "3",
+              "[@noteed](https://github.com/noteed)/[**openerpdist**](https://github.com/noteed/openerpdist)",
+              "Build the OpenERP framework and addons as nice tarballs",
+              "[:arrow_upper_right:](http://noteed.com/openerpdist/)"
+            ],
+            [
+              "3",
+              "[@noteed](https://github.com/noteed)/[**hortened**](https://github.com/noteed/hortened)",
+              "A personal URL shortener",
+              "[:arrow_upper_right:](http://hy.io)"
+            ],
+            [
+              "3",
+              "[@noteed](https://github.com/noteed)/[**curved**](https://github.com/noteed/curved)",
+              "Network metrics service",
+              ""
+            ],
+            [
+              "3",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**snap-blaze**](https://github.com/jaspervdj/snap-blaze)",
+              "blaze-html integration for Snap",
+              ""
+            ],
+            [
+              "3",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**haskell-beginners-pr…**](https://github.com/jaspervdj/haskell-beginners-projects)",
+              "A couple of Haskell beginner projects, for ZuriHac 2016",
+              ""
+            ],
+            [
+              "2",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**sup-host**](https://github.com/jaspervdj/sup-host)",
+              "Check if hosts are up, and wake them",
+              ""
+            ],
+            [
+              "2",
+              "[@RaphaelJ](https://github.com/RaphaelJ)/[**cours-master-1**](https://github.com/RaphaelJ/cours-master-1)",
+              "Cours de la première année du master en Sciences-Informatiques de l'Université de Liège",
+              ""
+            ],
+            [
+              "2",
+              "[@maciejpirog](https://github.com/maciejpirog)/[**modules-over-monads**](https://github.com/maciejpirog/modules-over-monads)",
+              "Haskell library for modules over monads, idealised monads, and ideal monads.",
+              ""
+            ],
+            [
+              "2",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**euler**](https://github.com/jaspervdj/euler)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**PhitSolver**](https://github.com/jaspervdj/PhitSolver)",
+              "Haskell program to solve PhitDroid (http://www.mtoy.biz/phitdroid2ndEdition… puzzles",
+              ""
+            ],
+            [
+              "2",
+              "[@jaspervdj](https://github.com/jaspervdj)/[**omnomnom**](https://github.com/jaspervdj/omnomnom)",
+              "Simple Haskell webapp to order food",
+              ""
+            ],
+            [
+              "2",
+              "[@noteed](https://github.com/noteed)/[**doodles**](https://github.com/noteed/doodles)",
+              "Some code to try out things in Haskell.",
+              ""
+            ],
+            [
+              "2",
+              "[@noteed](https://github.com/noteed)/[**tcc**](https://github.com/noteed/tcc)",
+              "Haskell bindings to the Tiny C Compiler library (libtcc).",
+              ""
+            ],
+            [
+              "2",
+              "[@gertcuykens](https://github.com/gertcuykens)/[**haskell-design**](https://github.com/gertcuykens/haskell-design)",
+              "Haskell web design.",
+              ""
+            ],
+            [
+              "2",
+              "[@noteed](https://github.com/noteed)/[**snaplet-auth-example**](https://github.com/noteed/snaplet-auth-example)",
+              "Example usage of Snap.Snaplet.Auth",
               ""
             ]
           ]
