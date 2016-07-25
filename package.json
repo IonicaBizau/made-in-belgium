@@ -62,7 +62,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -4240,6 +4241,465 @@
               "[@mathiasverraes](https://github.com/mathiasverraes)/[**speakingjenkins**](https://github.com/mathiasverraes/speakingjenkins)",
               "Command line PHP app that announces the status of a Jenkins/Hudson CI build using text-to-speech.",
               "[:arrow_upper_right:](http://blog.verraes.net)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2886",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**python-prompt-toolki…**](https://github.com/jonathanslenders/python-prompt-toolkit)",
+              "Library for building powerful interactive command lines in Python",
+              ""
+            ],
+            [
+              "1872",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**pyvim**](https://github.com/jonathanslenders/pyvim)",
+              "Pure Python Vim clone.",
+              ""
+            ],
+            [
+              "1425",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**ptpython**](https://github.com/jonathanslenders/ptpython)",
+              "A better Python REPL",
+              ""
+            ],
+            [
+              "973",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**pymux**](https://github.com/jonathanslenders/pymux)",
+              "A terminal multiplexer (like tmux) in Python",
+              ""
+            ],
+            [
+              "436",
+              "[@gotcha](https://github.com/gotcha)/[**ipdb**](https://github.com/gotcha/ipdb)",
+              "Integration of IPython pdb",
+              ""
+            ],
+            [
+              "276",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**asyncio-redis**](https://github.com/jonathanslenders/asyncio-redis)",
+              "Redis client for Python asyncio (PEP 3156)",
+              "[:arrow_upper_right:](http://asyncio-redis.readthedocs.org/)"
+            ],
+            [
+              "234",
+              "[@ColinDuquesnoy](https://github.com/ColinDuquesnoy)/[**QDarkStyleSheet**](https://github.com/ColinDuquesnoy/QDarkStyleSheet)",
+              "A dark style sheet for Qt application ",
+              ""
+            ],
+            [
+              "131",
+              "[@gotcha](https://github.com/gotcha)/[**vimpdb**](https://github.com/gotcha/vimpdb)",
+              "Pdb and Vim integration",
+              ""
+            ],
+            [
+              "107",
+              "[@cvandeplas](https://github.com/cvandeplas)/[**pystemon**](https://github.com/cvandeplas/pystemon)",
+              "Monitoring tool for PasteBin-alike sites written in Python. Inspired by pastemon http://github.com/xme/pastemon",
+              ""
+            ],
+            [
+              "91",
+              "[@cvandeplas](https://github.com/cvandeplas)/[**ELK-forensics**](https://github.com/cvandeplas/ELK-forensics)",
+              "ELK configuration files for Forensic Analysts and Incident Handlers",
+              ""
+            ],
+            [
+              "87",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**ptpdb**](https://github.com/jonathanslenders/ptpdb)",
+              "prompt_toolkit/ptpython pdb frontend",
+              ""
+            ],
+            [
+              "87",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**python-deployer**](https://github.com/jonathanslenders/python-deployer)",
+              "Library for automation of deployments through SSH.",
+              ""
+            ],
+            [
+              "85",
+              "[@obonaventure](https://github.com/obonaventure)/[**cnp3**](https://github.com/obonaventure/cnp3)",
+              "Computer Networking : Principles, Protocols and Practice",
+              ""
+            ],
+            [
+              "35",
+              "[@jeroendoggen](https://github.com/jeroendoggen)/[**Arduino-serial-messa…**](https://github.com/jeroendoggen/Arduino-serial-messaging)",
+              "Library to exchange short messages (sensordata, commands) between an Arduino and a software application running on a PC. (Linux, embedded Linux, Windows, OS X)",
+              ""
+            ],
+            [
+              "29",
+              "[@fdb](https://github.com/fdb)/[**choicewords**](https://github.com/fdb/choicewords)",
+              "Random text generator based on a simple grammar file.",
+              ""
+            ],
+            [
+              "26",
+              "[@cudeso](https://github.com/cudeso)/[**cudeso-honeypot**](https://github.com/cudeso/cudeso-honeypot)",
+              "Honeypot repo",
+              ""
+            ],
+            [
+              "25",
+              "[@jeroendoggen](https://github.com/jeroendoggen)/[**Arduino-distance-sen…**](https://github.com/jeroendoggen/Arduino-distance-sensor-library)",
+              "Arduino library for distance sensors",
+              ""
+            ],
+            [
+              "18",
+              "[@ProgramFOX](https://github.com/ProgramFOX)/[**SE-Chatbot**](https://github.com/ProgramFOX/SE-Chatbot)",
+              "A chatbot for the Stack Exchange chat rooms.",
+              ""
+            ],
+            [
+              "14",
+              "[@JDevlieghere](https://github.com/JDevlieghere)/[**InTeXration**](https://github.com/JDevlieghere/InTeXration)",
+              "TeX Continuous Integration Service",
+              ""
+            ],
+            [
+              "13",
+              "[@matrixise](https://github.com/matrixise)/[**flask-openerp**](https://github.com/matrixise/flask-openerp)",
+              "OpenERP connector for Flask, an awesome micro-framework",
+              ""
+            ],
+            [
+              "12",
+              "[@Cairnarvon](https://github.com/Cairnarvon)/[**progscrape**](https://github.com/Cairnarvon/progscrape)",
+              "Scraper for Shiichan textboards, designed for world4ch's /prog/.",
+              "[:arrow_upper_right:](http://cairnarvon.rotahall.org/2008/11/30/progscrape/)"
+            ],
+            [
+              "11",
+              "[@matrixise](https://github.com/matrixise)/[**dsmtpd**](https://github.com/matrixise/dsmtpd)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@jeroendoggen](https://github.com/jeroendoggen)/[**Arduino-TestSuite**](https://github.com/jeroendoggen/Arduino-TestSuite)",
+              "Arduino TestSuite to automate Arduino unit tests",
+              "[:arrow_upper_right:](http://jeroendoggen.github.io/Arduino-TestSuite)"
+            ],
+            [
+              "10",
+              "[@jeroendoggen](https://github.com/jeroendoggen)/[**Arduino-MMA7361-libr…**](https://github.com/jeroendoggen/Arduino-MMA7361-library)",
+              "Arduino library for the MMA7361 3-axis MEMS accelerometer",
+              ""
+            ],
+            [
+              "10",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**libpymux**](https://github.com/jonathanslenders/libpymux)",
+              "Terminal multiplexer library. The core library for pymux, which is a pure Python tmux clone.",
+              ""
+            ],
+            [
+              "10",
+              "[@cudeso](https://github.com/cudeso)/[**host-enrich**](https://github.com/cudeso/host-enrich)",
+              "Enrich a host with open source security information",
+              ""
+            ],
+            [
+              "9",
+              "[@ColinDuquesnoy](https://github.com/ColinDuquesnoy)/[**QPygletWidget**](https://github.com/ColinDuquesnoy/QPygletWidget)",
+              "A PySide widget to display a pyglet scene",
+              ""
+            ],
+            [
+              "9",
+              "[@ColinDuquesnoy](https://github.com/ColinDuquesnoy)/[**pyqt_distutils**](https://github.com/ColinDuquesnoy/pyqt_distutils)",
+              "A set of distutils extension to work with PyQt applications and UI files",
+              ""
+            ],
+            [
+              "9",
+              "[@Cairnarvon](https://github.com/Cairnarvon)/[**uptime**](https://github.com/Cairnarvon/uptime)",
+              "Cross-platform uptime library for the Python.",
+              ""
+            ],
+            [
+              "7",
+              "[@fdb](https://github.com/fdb)/[**aufmachen**](https://github.com/fdb/aufmachen)",
+              "Turns a website's HTML into nice, clean objects. ",
+              ""
+            ],
+            [
+              "7",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**textfsm**](https://github.com/jonathanslenders/textfsm)",
+              "Textfsm fork. Made Python 3 compatible.",
+              ""
+            ],
+            [
+              "5",
+              "[@jeroendoggen](https://github.com/jeroendoggen)/[**youtube-to-mpd**](https://github.com/jeroendoggen/youtube-to-mpd)",
+              "Front end for youtube-dl to auto add YouTube music to MPD",
+              "[:arrow_upper_right:](http://jeroendoggen.github.io/youtube-to-mpd)"
+            ],
+            [
+              "5",
+              "[@fdb](https://github.com/fdb)/[**fliki**](https://github.com/fdb/fliki)",
+              "A small Flask wiki.",
+              ""
+            ],
+            [
+              "5",
+              "[@gotcha](https://github.com/gotcha)/[**robotentrypoints**](https://github.com/gotcha/robotentrypoints)",
+              "Entry points for Robot Framework",
+              ""
+            ],
+            [
+              "5",
+              "[@abiggerhammer](https://github.com/abiggerhammer)/[**bbtools**](https://github.com/abiggerhammer/bbtools)",
+              "Tools and other possibly useful things for use with BioBricks and other aspects of synthetic biology.",
+              ""
+            ],
+            [
+              "5",
+              "[@ColinDuquesnoy](https://github.com/ColinDuquesnoy)/[**QCrash**](https://github.com/ColinDuquesnoy/QCrash)",
+              "A crash report framework for PyQt/PySide applications",
+              ""
+            ],
+            [
+              "4",
+              "[@mikekestemont](https://github.com/mikekestemont)/[**attic_orators**](https://github.com/mikekestemont/attic_orators)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@gotcha](https://github.com/gotcha)/[**plone.act**](https://github.com/gotcha/plone.act)",
+              "Acts, not words : ACceptance Testing for Plone",
+              ""
+            ],
+            [
+              "4",
+              "[@KangOl](https://github.com/KangOl)/[**abitbol**](https://github.com/KangOl/abitbol)",
+              "George — Aah... Monde de merde.",
+              "[:arrow_upper_right:](http://abitbol.kn.gl)"
+            ],
+            [
+              "4",
+              "[@fdb](https://github.com/fdb)/[**projecthub**](https://github.com/fdb/projecthub)",
+              "A web application for managing projects.",
+              ""
+            ],
+            [
+              "4",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**asyncio-amp**](https://github.com/jonathanslenders/asyncio-amp)",
+              "AMP client and server library for asyncio",
+              ""
+            ],
+            [
+              "3",
+              "[@Cairnarvon](https://github.com/Cairnarvon)/[**world4search**](https://github.com/Cairnarvon/world4search)",
+              "Search engine for world4ch.",
+              ""
+            ],
+            [
+              "3",
+              "[@gvangool](https://github.com/gvangool)/[**gab**](https://github.com/gvangool/gab)",
+              "A collection of fabric tasks",
+              ""
+            ],
+            [
+              "3",
+              "[@ProgramFOX](https://github.com/ProgramFOX)/[**SE-Chatbot-Builtins**](https://github.com/ProgramFOX/SE-Chatbot-Builtins)",
+              "Builtins for SE-Chatbot. https://github.com/ProgramFOX/SE-Chatbot",
+              ""
+            ],
+            [
+              "3",
+              "[@jeroendoggen](https://github.com/jeroendoggen)/[**Arduino-ParallaxCont…**](https://github.com/jeroendoggen/Arduino-ParallaxContinuousRotationServo-library)",
+              "Arduino Library for the Parallax (Futaba) Continuous Rotation Servo",
+              ""
+            ],
+            [
+              "3",
+              "[@jeroendoggen](https://github.com/jeroendoggen)/[**Arduino-ardumotor-li…**](https://github.com/jeroendoggen/Arduino-ardumotor-library)",
+              "Arduino Ardumoto Library",
+              ""
+            ],
+            [
+              "3",
+              "[@mikekestemont](https://github.com/mikekestemont)/[**verification**](https://github.com/mikekestemont/verification)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@gotcha](https://github.com/gotcha)/[**collective.js.prefix…**](https://github.com/gotcha/collective.js.prefixfree)",
+              "Lea Verou prefixfree for Plone",
+              ""
+            ],
+            [
+              "3",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**pypager**](https://github.com/jonathanslenders/pypager)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@gotcha](https://github.com/gotcha)/[**collective.shuttle**](https://github.com/gotcha/collective.shuttle)",
+              "Zope 2 : traversal to objects not stored in ZODB.",
+              ""
+            ],
+            [
+              "2",
+              "[@fdb](https://github.com/fdb)/[**helloflask**](https://github.com/fdb/helloflask)",
+              "Demo application for getting started with Flask.",
+              ""
+            ],
+            [
+              "2",
+              "[@Cairnarvon](https://github.com/Cairnarvon)/[**phash-presentation**](https://github.com/Cairnarvon/phash-presentation)",
+              "Slides, code, and images for my presentation on perceptual hashes.",
+              ""
+            ],
+            [
+              "2",
+              "[@Cairnarvon](https://github.com/Cairnarvon)/[**goldbug**](https://github.com/Cairnarvon/goldbug)",
+              "Classical cryptography toolkit for Python",
+              ""
+            ],
+            [
+              "2",
+              "[@ProgramFOX](https://github.com/ProgramFOX)/[**GibberishClassifier-…**](https://github.com/ProgramFOX/GibberishClassifier-Python)",
+              "A Python module to classify whether text is gibberish or not.",
+              "[:arrow_upper_right:](http://www.codeproject.com/Articles/894766/Gibberish-Classification-Algorithm-and-Implementat)"
+            ],
+            [
+              "2",
+              "[@tcoopman](https://github.com/tcoopman)/[**bloated-clock-plasmo…**](https://github.com/tcoopman/bloated-clock-plasmoid)",
+              "a plasmoid clock with many options written in python",
+              ""
+            ],
+            [
+              "2",
+              "[@tcoopman](https://github.com/tcoopman)/[**musictagger**](https://github.com/tcoopman/musictagger)",
+              "a basic python music tagger",
+              ""
+            ],
+            [
+              "2",
+              "[@ColinDuquesnoy](https://github.com/ColinDuquesnoy)/[**QRegexEditor**](https://github.com/ColinDuquesnoy/QRegexEditor)",
+              "Regular expression editor",
+              ""
+            ],
+            [
+              "2",
+              "[@mikekestemont](https://github.com/mikekestemont)/[**wuerzb15**](https://github.com/mikekestemont/wuerzb15)",
+              "Advanced Stylometry Course, Wuerzburg (December 2015)",
+              ""
+            ],
+            [
+              "2",
+              "[@mikekestemont](https://github.com/mikekestemont)/[**topicizer**](https://github.com/mikekestemont/topicizer)",
+              "Simple script to count words and topics in texts",
+              ""
+            ],
+            [
+              "2",
+              "[@ProgramFOX](https://github.com/ProgramFOX)/[**HeavyStarrerDetector**](https://github.com/ProgramFOX/HeavyStarrerDetector)",
+              "Heavy Starrer Detector is a bot that lurks in Stack Exchange chat rooms and detects people who star many messages at a short time.",
+              ""
+            ],
+            [
+              "2",
+              "[@abiggerhammer](https://github.com/abiggerhammer)/[**dxscraper**](https://github.com/abiggerhammer/dxscraper)",
+              "scrapy project for logging info about DX calls",
+              ""
+            ],
+            [
+              "2",
+              "[@ProgramFOX](https://github.com/ProgramFOX)/[**Chatbot-ShadowsDenMo…**](https://github.com/ProgramFOX/Chatbot-ShadowsDenModule)",
+              "A module for Shadow's Den, for my SE-Chatbot",
+              ""
+            ],
+            [
+              "2",
+              "[@abiggerhammer](https://github.com/abiggerhammer)/[**pydjangitwiki**](https://github.com/abiggerhammer/pydjangitwiki)",
+              "git wiki in python/django",
+              ""
+            ],
+            [
+              "2",
+              "[@cvandeplas](https://github.com/cvandeplas)/[**inet_scripts**](https://github.com/cvandeplas/inet_scripts)",
+              "Various small internet / website related scripts",
+              ""
+            ],
+            [
+              "2",
+              "[@matrixise](https://github.com/matrixise)/[**clihub**](https://github.com/matrixise/clihub)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@cvandeplas](https://github.com/cvandeplas)/[**plaso**](https://github.com/cvandeplas/plaso)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@matrixise](https://github.com/matrixise)/[**pyactiviti**](https://github.com/matrixise/pyactiviti)",
+              "a SDK that helps with interacting with Activiti.",
+              ""
+            ],
+            [
+              "2",
+              "[@cvandeplas](https://github.com/cvandeplas)/[**suricata_stats**](https://github.com/cvandeplas/suricata_stats)",
+              "Statistics parsing for suricata",
+              ""
+            ],
+            [
+              "2",
+              "[@sprt](https://github.com/sprt)/[**deltabot**](https://github.com/sprt/deltabot)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ProgramFOX](https://github.com/ProgramFOX)/[**SO-EditMonitor**](https://github.com/ProgramFOX/SO-EditMonitor)",
+              "A bot that monitors recent suggested edits on Stack Overflow and posts an alert in a chatroom when it comes across a suspicious edit (detected as spam, or approved with 2 rejection votes with at least 1 spam vote)",
+              ""
+            ],
+            [
+              "2",
+              "[@sebastiandedeyne](https://github.com/sebastiandedeyne)/[**BlankCSS**](https://github.com/sebastiandedeyne/BlankCSS)",
+              "Sublime Text 2 plugin which converts an html page or snippet to a blank css style sheet with all class an id selectors used in the original code.",
+              ""
+            ],
+            [
+              "2",
+              "[@tcoopman](https://github.com/tcoopman)/[**network-monitor-plas…**](https://github.com/tcoopman/network-monitor-plasmoid)",
+              "a plasmoid to monitor your available download and upload quota",
+              ""
+            ],
+            [
+              "2",
+              "[@jonathanslenders](https://github.com/jonathanslenders)/[**pymux-test**](https://github.com/jonathanslenders/pymux-test)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@fdb](https://github.com/fdb)/[**teamhub**](https://github.com/fdb/teamhub)",
+              "A simple web application for collaboration in small teams.",
+              ""
             ]
           ]
         }
