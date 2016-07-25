@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -1074,6 +1075,579 @@
               "[@doomhz](https://github.com/doomhz)/[**jQuery-Doom-Tooltip**](https://github.com/doomhz/jQuery-Doom-Tooltip)",
               "Display tooltips and bubbles on your site.",
               "[:arrow_upper_right:](http://dumitruglavan.com)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "807",
+              "[@JeroenMols](https://github.com/JeroenMols)/[**LandscapeVideoCamera**](https://github.com/JeroenMols/LandscapeVideoCamera)",
+              "Powerful custom Android Camera with granular control over the video quality and filesize, restricting recordings to landscape only.",
+              ""
+            ],
+            [
+              "413",
+              "[@JorenSix](https://github.com/JorenSix)/[**TarsosDSP**](https://github.com/JorenSix/TarsosDSP)",
+              "A Real-Time Audio Processing Framework in Java",
+              "[:arrow_upper_right:](http://0110.be/tag/TarsosDSP)"
+            ],
+            [
+              "404",
+              "[@erickok](https://github.com/erickok)/[**transdroid**](https://github.com/erickok/transdroid)",
+              "Manage your torrents from your Android device",
+              ""
+            ],
+            [
+              "271",
+              "[@Maescool](https://github.com/Maescool)/[**Catacomb-Snatch**](https://github.com/Maescool/Catacomb-Snatch)",
+              "Mojang's Humble bundle source",
+              ""
+            ],
+            [
+              "187",
+              "[@erickok](https://github.com/erickok)/[**RxCupboard**](https://github.com/erickok/RxCupboard)",
+              "Store and retrieve streams of POJOs from an Android database using RxJava and Cupboard",
+              ""
+            ],
+            [
+              "154",
+              "[@erickok](https://github.com/erickok)/[**mimicry**](https://github.com/erickok/mimicry)",
+              "Mimicking grids in Android lists",
+              ""
+            ],
+            [
+              "139",
+              "[@benas](https://github.com/benas)/[**random-beans**](https://github.com/benas/random-beans)",
+              "Because life is too short to generate random Java beans by hand..",
+              "[:arrow_upper_right:](https://github.com/benas/random-beans/wiki)"
+            ],
+            [
+              "113",
+              "[@TheHolyWaffle](https://github.com/TheHolyWaffle)/[**TeamSpeak-3-Java-API**](https://github.com/TheHolyWaffle/TeamSpeak-3-Java-API)",
+              "A Java 7 implementation of TeamSpeak's 3 server query API.",
+              ""
+            ],
+            [
+              "105",
+              "[@wblut](https://github.com/wblut)/[**HE_Mesh**](https://github.com/wblut/HE_Mesh)",
+              "HE_Mesh, a Java library for creating and manipulating polygonal meshes. Aimed primarily at Processing.",
+              "[:arrow_upper_right:](http://www.wblut.com)"
+            ],
+            [
+              "85",
+              "[@JorenSix](https://github.com/JorenSix)/[**TarsosLSH**](https://github.com/JorenSix/TarsosLSH)",
+              "A Java library implementing Locality-sensitive Hashing (LSH), a practical nearest neighbour search algorithm for multidimensional vectors that operates in sublinear time.",
+              ""
+            ],
+            [
+              "75",
+              "[@benas](https://github.com/benas)/[**unix-stream**](https://github.com/benas/unix-stream)",
+              "Turn Java 8 Streams into Unix like pipelines",
+              "[:arrow_upper_right:](https://github.com/benas/unix-stream/wiki)"
+            ],
+            [
+              "63",
+              "[@benas](https://github.com/benas)/[**jql**](https://github.com/benas/jql)",
+              "Java code analysis and linting with SQL",
+              "[:arrow_upper_right:](https://github.com/benas/jql/wiki)"
+            ],
+            [
+              "62",
+              "[@cbeyls](https://github.com/cbeyls)/[**fosdem-companion-and…**](https://github.com/cbeyls/fosdem-companion-android)",
+              "FOSDEM Companion for Android",
+              ""
+            ],
+            [
+              "56",
+              "[@TheHolyWaffle](https://github.com/TheHolyWaffle)/[**League-of-Legends-XM…**](https://github.com/TheHolyWaffle/League-of-Legends-XMPP-Chat-Library)",
+              "A Java 7 XMPP API to chat and interact with the League of Legends ChatServers.",
+              ""
+            ],
+            [
+              "52",
+              "[@datablend](https://github.com/datablend)/[**fluxgraph**](https://github.com/datablend/fluxgraph)",
+              "A temporal graph database on top of Datomic",
+              ""
+            ],
+            [
+              "51",
+              "[@erickok](https://github.com/erickok)/[**transdroid-search**](https://github.com/erickok/transdroid-search)",
+              "Cross-app torrent search results provider for Android",
+              ""
+            ],
+            [
+              "50",
+              "[@benas](https://github.com/benas)/[**todolist-mvc**](https://github.com/benas/todolist-mvc)",
+              "Helping you select a Java MVC framework",
+              ""
+            ],
+            [
+              "38",
+              "[@ChristopheVersieux](https://github.com/ChristopheVersieux)/[**SocialStreamFragment**](https://github.com/ChristopheVersieux/SocialStreamFragment)",
+              "SocialStreamFragment from the Google IO 2012 app. (Credits to Roman Nurik)",
+              ""
+            ],
+            [
+              "38",
+              "[@datablend](https://github.com/datablend)/[**blueprints-mongodb-g…**](https://github.com/datablend/blueprints-mongodb-graph)",
+              "Blueprints implementation on top of MongoDB",
+              ""
+            ],
+            [
+              "33",
+              "[@schaloner](https://github.com/schaloner)/[**deadbolt-2-java**](https://github.com/schaloner/deadbolt-2-java)",
+              "Idiomatic Java API for Deadbolt 2",
+              ""
+            ],
+            [
+              "32",
+              "[@schaloner](https://github.com/schaloner)/[**deadbolt**](https://github.com/schaloner/deadbolt)",
+              "Authorisation module for the Play! framework",
+              ""
+            ],
+            [
+              "29",
+              "[@vormplus](https://github.com/vormplus)/[**Processing2-Creative…**](https://github.com/vormplus/Processing2-CreativeProgrammingCookbook)",
+              "Full Source Code \"Processing 2, Creative Programming Cookbook\". The book I wrote for Packt Publishing in 2012.",
+              "[:arrow_upper_right:](http://www.packtpub.com/processing-2-creative-programming-cookbook/book)"
+            ],
+            [
+              "25",
+              "[@JeroenMols](https://github.com/JeroenMols)/[**ArtifactoryExample**](https://github.com/JeroenMols/ArtifactoryExample)",
+              "Example code to upload and use artefacts from Artifactory",
+              ""
+            ],
+            [
+              "25",
+              "[@datablend](https://github.com/datablend)/[**gephi-blueprints-plu…**](https://github.com/datablend/gephi-blueprints-plugin)",
+              "Gephi plugin that allows to import graph data from any Tinkerpop Blueprints-compatible graph implementation",
+              ""
+            ],
+            [
+              "24",
+              "[@francisdb](https://github.com/francisdb)/[**serviceloader-maven-…**](https://github.com/francisdb/serviceloader-maven-plugin)",
+              "Maven plugin for generating java serviceloader files",
+              ""
+            ],
+            [
+              "21",
+              "[@benas](https://github.com/benas)/[**easy-properties**](https://github.com/benas/easy-properties)",
+              "Java configuration made easy with declarative properties",
+              "[:arrow_upper_right:](https://github.com/benas/easy-properties/wiki)"
+            ],
+            [
+              "20",
+              "[@schaloner](https://github.com/schaloner)/[**deadbolt-2-java-exam…**](https://github.com/schaloner/deadbolt-2-java-examples)",
+              "Example usages of Deadbolt 2 Java",
+              ""
+            ],
+            [
+              "20",
+              "[@ge0ffrey](https://github.com/ge0ffrey)/[**optaconf**](https://github.com/ge0ffrey/optaconf)",
+              "OptaConf the optimal conference planner",
+              ""
+            ],
+            [
+              "17",
+              "[@JorenSix](https://github.com/JorenSix)/[**TarsosTranscoder**](https://github.com/JorenSix/TarsosTranscoder)",
+              "A java wrapper for ffmpeg to transcode audio.",
+              "[:arrow_upper_right:](http://tarsos.0110.be/tag/TarsosTranscoder)"
+            ],
+            [
+              "16",
+              "[@vormplus](https://github.com/vormplus)/[**colorLib**](https://github.com/vormplus/colorLib)",
+              "A Processing library to work with colors.",
+              ""
+            ],
+            [
+              "16",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**droolsjbpm-osgi-exam…**](https://github.com/cmoulliard/droolsjbpm-osgi-examples)",
+              "drools & jbpm osgi examples running top of Apache Karaf, JBoss Fuse",
+              ""
+            ],
+            [
+              "15",
+              "[@JeroenMols](https://github.com/JeroenMols)/[**MethodCountExample**](https://github.com/JeroenMols/MethodCountExample)",
+              "Sample project to shrink huge libraries and reduce their method count.",
+              ""
+            ],
+            [
+              "15",
+              "[@dries007](https://github.com/dries007)/[**HoloInventory**](https://github.com/dries007/HoloInventory)",
+              "Hologram inventory for blocks in MC",
+              "[:arrow_upper_right:](http://www.minecraftforum.net/topic/2112036-)"
+            ],
+            [
+              "14",
+              "[@schaloner](https://github.com/schaloner)/[**SociallySecure**](https://github.com/schaloner/SociallySecure)",
+              "An example integration of the SecureSocial and Deadbolt security modules for the Play! framework.",
+              ""
+            ],
+            [
+              "14",
+              "[@datablend](https://github.com/datablend)/[**neo4j-sail-test**](https://github.com/datablend/neo4j-sail-test)",
+              "A Neo4J RDF and Sail test through Tinkerpop",
+              ""
+            ],
+            [
+              "13",
+              "[@JorenSix](https://github.com/JorenSix)/[**Tarsos**](https://github.com/JorenSix/Tarsos)",
+              "Culture independent processing of MIR data",
+              "[:arrow_upper_right:](http://tarsos.0110.be)"
+            ],
+            [
+              "12",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**camel-osgi-servicemi…**](https://github.com/cmoulliard/camel-osgi-servicemix-tutorial)",
+              "Project combining the messaging and OSGI architectures with Camel, JPA, ServiceMix and ActiveMQ. Projet can be deployed on Fuse ESB 4.3.x release",
+              ""
+            ],
+            [
+              "12",
+              "[@datablend](https://github.com/datablend)/[**neo4j-spatial-runnin…**](https://github.com/datablend/neo4j-spatial-running)",
+              "Neo4J Spatial hacking for analyzing Garmin running data using Gephi",
+              ""
+            ],
+            [
+              "12",
+              "[@JeroenMols](https://github.com/JeroenMols)/[**Legofy**](https://github.com/JeroenMols/Legofy)",
+              "Android library to Legofy any image",
+              ""
+            ],
+            [
+              "11",
+              "[@dries007](https://github.com/dries007)/[**TFCraft-NEIplugin**](https://github.com/dries007/TFCraft-NEIplugin)",
+              "An NEI pluing for TerraFirmaCraft",
+              ""
+            ],
+            [
+              "11",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**devoxx-2011-hands-on…**](https://github.com/cmoulliard/devoxx-2011-hands-on-lab)",
+              "Devoxx-2011-HandsOnLab",
+              ""
+            ],
+            [
+              "11",
+              "[@datablend](https://github.com/datablend)/[**neo4j-google-analyti…**](https://github.com/datablend/neo4j-google-analytics)",
+              "Better visualization of google analytics data for the flow between your pages using neo4j and circos",
+              ""
+            ],
+            [
+              "10",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**cdi-camel-example**](https://github.com/cmoulliard/cdi-camel-example)",
+              "cdi-camel",
+              ""
+            ],
+            [
+              "10",
+              "[@JeroenMols](https://github.com/JeroenMols)/[**MockitoExample**](https://github.com/JeroenMols/MockitoExample)",
+              "Sample project to demonstrate Mockito usage on Android",
+              ""
+            ],
+            [
+              "10",
+              "[@erickok](https://github.com/erickok)/[**ratebeer**](https://github.com/erickok/ratebeer)",
+              "RateBeer for Android app",
+              ""
+            ],
+            [
+              "8",
+              "[@ge0ffrey](https://github.com/ge0ffrey)/[**vrp-dataset-generato…**](https://github.com/ge0ffrey/vrp-dataset-generator)",
+              "To generate road distance VRP datasets for optaplanner-examples",
+              ""
+            ],
+            [
+              "8",
+              "[@schaloner](https://github.com/schaloner)/[**concurrent-batch-fra…**](https://github.com/schaloner/concurrent-batch-framework-java)",
+              "An example of implementing batch processing using Akka's Java API.  This is an adaptation of an idea from http://letitcrash.com/post/29044669086/b…",
+              ""
+            ],
+            [
+              "7",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**camel-aries-blueprin…**](https://github.com/cmoulliard/camel-aries-blueprint-tutorial)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@mattcasters](https://github.com/mattcasters)/[**pentaho-pdi-dataset**](https://github.com/mattcasters/pentaho-pdi-dataset)",
+              "Set of PDI plugins to more easily work with data sets. We also want to provide unit testing capabilities through input data sets and golden data sets.",
+              ""
+            ],
+            [
+              "6",
+              "[@datablend](https://github.com/datablend)/[**datomic-back-to-the-…**](https://github.com/datablend/datomic-back-to-the-future)",
+              "Example project illustrating the power of the Datomic data and query model",
+              ""
+            ],
+            [
+              "6",
+              "[@datablend](https://github.com/datablend)/[**redis-compound-compa…**](https://github.com/datablend/redis-compound-comparison)",
+              "Compound comparison implemented through redis and lua",
+              ""
+            ],
+            [
+              "6",
+              "[@schaloner](https://github.com/schaloner)/[**deadbolt-2-core**](https://github.com/schaloner/deadbolt-2-core)",
+              "Common code for Deadbolt 2",
+              ""
+            ],
+            [
+              "5",
+              "[@vormplus](https://github.com/vormplus)/[**Timelapse**](https://github.com/vormplus/Timelapse)",
+              "A timelapse application built with Processing",
+              ""
+            ],
+            [
+              "5",
+              "[@wblut](https://github.com/wblut)/[**BUMP2016**](https://github.com/wblut/BUMP2016)",
+              "Source code of my BUMP 2016 talk",
+              ""
+            ],
+            [
+              "5",
+              "[@snicoll](https://github.com/snicoll)/[**scratches**](https://github.com/snicoll/scratches)",
+              "Throwaway projects used for demos and bug reports.",
+              ""
+            ],
+            [
+              "5",
+              "[@schaloner](https://github.com/schaloner)/[**jsRoutingJava**](https://github.com/schaloner/jsRoutingJava)",
+              "An example application showing the JavaScript routing support of Play 2 Java",
+              ""
+            ],
+            [
+              "5",
+              "[@schaloner](https://github.com/schaloner)/[**DistPres**](https://github.com/schaloner/DistPres)",
+              "A quick'n'dirty solution for controlling distributed presentations",
+              ""
+            ],
+            [
+              "5",
+              "[@datablend](https://github.com/datablend)/[**blueprints-streaming…**](https://github.com/datablend/blueprints-streaming-sail-inferencing)",
+              "Sample project to illustrate how sail inferences can be pushed and visualized in Gephi",
+              ""
+            ],
+            [
+              "4",
+              "[@benas](https://github.com/benas)/[**springbatch-vs-easyb…**](https://github.com/benas/springbatch-vs-easybatch)",
+              "A comparison between Spring Batch and Easy Batch",
+              ""
+            ],
+            [
+              "4",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**camel-osgi-tutorial**](https://github.com/cmoulliard/camel-osgi-tutorial)",
+              "Code of the Camel Tutorial --> http://camel.apache.org/tutorial-osgi-ca…",
+              ""
+            ],
+            [
+              "4",
+              "[@bendem](https://github.com/bendem)/[**sql-streams**](https://github.com/bendem/sql-streams)",
+              "Painless low level jdbc abstraction using the java 8 stream api.",
+              ""
+            ],
+            [
+              "4",
+              "[@snicoll](https://github.com/snicoll)/[**presos**](https://github.com/snicoll/presos)",
+              "Presentations for conferences",
+              ""
+            ],
+            [
+              "4",
+              "[@vormplus](https://github.com/vormplus)/[**Processing-Month**](https://github.com/vormplus/Processing-Month)",
+              "All examples for the Processing Month series of articles on vormplus.be",
+              ""
+            ],
+            [
+              "4",
+              "[@erickok](https://github.com/erickok)/[**RateBeer-Mobile**](https://github.com/erickok/RateBeer-Mobile)",
+              "The Android RateBeer Mobile Application",
+              "[:arrow_upper_right:](http://jfm.github.com/RateBeer-Mobile/)"
+            ],
+            [
+              "4",
+              "[@datablend](https://github.com/datablend)/[**mongo-compound-compa…**](https://github.com/datablend/mongo-compound-comparison)",
+              "Project showing the use of mongdb for executing checmical compound similarity algorithms",
+              ""
+            ],
+            [
+              "4",
+              "[@wblut](https://github.com/wblut)/[**Reasons2014**](https://github.com/wblut/Reasons2014)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**fuse-workshop-all**](https://github.com/cmoulliard/fuse-workshop-all)",
+              "fuse-workshop-all",
+              ""
+            ],
+            [
+              "4",
+              "[@dries007](https://github.com/dries007)/[**TFCSeedMaker**](https://github.com/dries007/TFCSeedMaker)",
+              "Terrafirmacraft (v1.x) Seed maker / analyzer",
+              ""
+            ],
+            [
+              "3",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**devnation-2014-demos**](https://github.com/cmoulliard/devnation-2014-demos)",
+              "Camel Demo about Social Network for DevNation 2014",
+              ""
+            ],
+            [
+              "3",
+              "[@mattcasters](https://github.com/mattcasters)/[**VerticaBulkLoader**](https://github.com/mattcasters/VerticaBulkLoader)",
+              "Kettle Vertica bulk loader",
+              ""
+            ],
+            [
+              "3",
+              "[@mattcasters](https://github.com/mattcasters)/[**MaxMindGeoIPLookup**](https://github.com/mattcasters/MaxMindGeoIPLookup)",
+              "The Kettle MaxMind Geo IP Lookup step",
+              ""
+            ],
+            [
+              "3",
+              "[@ChristopheVersieux](https://github.com/ChristopheVersieux)/[**ProxiBus**](https://github.com/ChristopheVersieux/ProxiBus)",
+              "Belgian Buses for Android",
+              ""
+            ],
+            [
+              "3",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**training**](https://github.com/cmoulliard/training)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**security-camel-cxf**](https://github.com/cmoulliard/security-camel-cxf)",
+              "Everything about security with Camel & CXF (WS-Security, Spring Security, JAAS, ...)",
+              ""
+            ],
+            [
+              "3",
+              "[@dries007](https://github.com/dries007)/[**ItemSearch**](https://github.com/dries007/ItemSearch)",
+              "This is a fork of https://bitbucket.org/briman0094/itemsea…",
+              ""
+            ],
+            [
+              "3",
+              "[@ge0ffrey](https://github.com/ge0ffrey)/[**santas-stolen-sleigh**](https://github.com/ge0ffrey/santas-stolen-sleigh)",
+              "https://www.kaggle.com/c/santas-stolen-s…",
+              ""
+            ],
+            [
+              "3",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**fuse-days-2014**](https://github.com/cmoulliard/fuse-days-2014)",
+              "Presentations for Fuse Integration Days - 2014",
+              ""
+            ],
+            [
+              "3",
+              "[@datablend](https://github.com/datablend)/[**mongo-compound-compa…**](https://github.com/datablend/mongo-compound-comparison-revisited)",
+              "Project showing the use of mongodb for executing checmical compound similarity algorithms. This project demonstrates the use of MongoDB's aggregation framework.",
+              ""
+            ],
+            [
+              "3",
+              "[@dries007](https://github.com/dries007)/[**j8051**](https://github.com/dries007/j8051)",
+              "8051 assembler written in Java",
+              ""
+            ],
+            [
+              "2",
+              "[@bendem](https://github.com/bendem)/[**OreBroadcast**](https://github.com/bendem/OreBroadcast)",
+              "[BUKKIT] Broadcast the server when you find ores.",
+              "[:arrow_upper_right:](http://dev.bukkit.org/bukkit-plugins/ore-broadcast/)"
+            ],
+            [
+              "2",
+              "[@vormplus](https://github.com/vormplus)/[**shapeLib**](https://github.com/vormplus/shapeLib)",
+              "A 2D shape library for Processing",
+              ""
+            ],
+            [
+              "2",
+              "[@bendem](https://github.com/bendem)/[**IrcSockets**](https://github.com/bendem/IrcSockets)",
+              "Irc + WebSockets = <3",
+              ""
+            ],
+            [
+              "2",
+              "[@mattcasters](https://github.com/mattcasters)/[**pentaho-starmodeler**](https://github.com/mattcasters/pentaho-starmodeler)",
+              "Pentaho Data Integration Spoon plugin to help out with the design of new star models",
+              ""
+            ],
+            [
+              "2",
+              "[@bendem](https://github.com/bendem)/[**RubikGL**](https://github.com/bendem/RubikGL)",
+              "huehuehue",
+              ""
+            ],
+            [
+              "2",
+              "[@bendem](https://github.com/bendem)/[**MangaLibrary**](https://github.com/bendem/MangaLibrary)",
+              "A manga library using javafx",
+              ""
+            ],
+            [
+              "2",
+              "[@IraKorshunova](https://github.com/IraKorshunova)/[**JavaCompiler**](https://github.com/IraKorshunova/JavaCompiler)",
+              "tiny Java compiler",
+              ""
+            ],
+            [
+              "2",
+              "[@IraKorshunova](https://github.com/IraKorshunova)/[**GenMeowth**](https://github.com/IraKorshunova/GenMeowth)",
+              "music generator",
+              ""
+            ],
+            [
+              "2",
+              "[@JeroenMols](https://github.com/JeroenMols)/[**TravisCoverallsExamp…**](https://github.com/JeroenMols/TravisCoverallsExample)",
+              "Example code to configure Travis CI and Coveralls",
+              ""
+            ],
+            [
+              "2",
+              "[@cmoulliard](https://github.com/cmoulliard)/[**gerrit-create-adminu…**](https://github.com/cmoulliard/gerrit-create-adminuser-plugin)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@schaloner](https://github.com/schaloner)/[**Intellijad**](https://github.com/schaloner/Intellijad)",
+              "Integrate the JAD decompiler into IntelliJ IDEA",
+              ""
+            ],
+            [
+              "2",
+              "[@bendem](https://github.com/bendem)/[**DiceyRpg**](https://github.com/bendem/DiceyRpg)",
+              "Irc based rpg game when you kill stuff with dice...",
+              ""
+            ],
+            [
+              "2",
+              "[@dries007](https://github.com/dries007)/[**TapeMouse**](https://github.com/dries007/TapeMouse)",
+              "Tape + Mouse = TapeMouse",
+              ""
+            ],
+            [
+              "2",
+              "[@datablend](https://github.com/datablend)/[**yelp-graph**](https://github.com/datablend/yelp-graph)",
+              "Clustering of yelp businesses based upon checkin data ",
+              ""
             ]
           ]
         }
