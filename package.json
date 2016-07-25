@@ -61,7 +61,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -3666,6 +3667,579 @@
               "[@hollie](https://github.com/hollie)/[**device-plugwise-perl**](https://github.com/hollie/device-plugwise-perl)",
               "Perl module to interface to Plugwise hardware",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1912",
+              "[@jenssegers](https://github.com/jenssegers)/[**laravel-mongodb**](https://github.com/jenssegers/laravel-mongodb)",
+              "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
+              "[:arrow_upper_right:](https://jenssegers.com)"
+            ],
+            [
+              "994",
+              "[@jenssegers](https://github.com/jenssegers)/[**agent**](https://github.com/jenssegers/agent)",
+              "A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect",
+              "[:arrow_upper_right:](https://jenssegers.com)"
+            ],
+            [
+              "583",
+              "[@jenssegers](https://github.com/jenssegers)/[**date**](https://github.com/jenssegers/date)",
+              "A library to help you work with dates in multiple languages, based on Carbon.",
+              "[:arrow_upper_right:](http://jenssegers.com)"
+            ],
+            [
+              "508",
+              "[@sdebacker](https://github.com/sdebacker)/[**TypiCMS**](https://github.com/sdebacker/TypiCMS)",
+              "Multilingual CMS built with Laravel 4.2",
+              ""
+            ],
+            [
+              "493",
+              "[@jenssegers](https://github.com/jenssegers)/[**imagehash**](https://github.com/jenssegers/imagehash)",
+              "Perceptual image hashing for PHP",
+              "[:arrow_upper_right:](http://jenssegers.com)"
+            ],
+            [
+              "473",
+              "[@jenssegers](https://github.com/jenssegers)/[**optimus**](https://github.com/jenssegers/optimus)",
+              "Id obfuscation based on Knuth's multiplicative hashing method for PHP.",
+              "[:arrow_upper_right:](https://jenssegers.com)"
+            ],
+            [
+              "449",
+              "[@wimg](https://github.com/wimg)/[**PHPCompatibility**](https://github.com/wimg/PHPCompatibility)",
+              "PHP Compatibility check for PHP_CodeSniffer",
+              "[:arrow_upper_right:](http://techblog.wimgodden.be/tag/codesniffer/)"
+            ],
+            [
+              "242",
+              "[@jenssegers](https://github.com/jenssegers)/[**php-proxy**](https://github.com/jenssegers/php-proxy)",
+              "A PHP proxy script with https and post support",
+              "[:arrow_upper_right:](https://jenssegers.com)"
+            ],
+            [
+              "193",
+              "[@nWidart](https://github.com/nWidart)/[**DbExporter**](https://github.com/nWidart/DbExporter)",
+              "Export your database as a Laravel Migration. And export your DB data as a seed file. Finally sync all this with your remote server.",
+              ""
+            ],
+            [
+              "187",
+              "[@jenssegers](https://github.com/jenssegers)/[**laravel-rollbar**](https://github.com/jenssegers/laravel-rollbar)",
+              "Rollbar error monitoring integration for Laravel projects",
+              ""
+            ],
+            [
+              "157",
+              "[@jenssegers](https://github.com/jenssegers)/[**codeigniter-hmvc-mod…**](https://github.com/jenssegers/codeigniter-hmvc-modules)",
+              "Create HMVC modules with this lightweight extension for Codeiginter 2",
+              "[:arrow_upper_right:](http://jenssegers.be)"
+            ],
+            [
+              "153",
+              "[@nWidart](https://github.com/nWidart)/[**laravel-modules**](https://github.com/nWidart/laravel-modules)",
+              "Module Management In Laravel",
+              ""
+            ],
+            [
+              "147",
+              "[@jenssegers](https://github.com/jenssegers)/[**codeigniter-advanced…**](https://github.com/jenssegers/codeigniter-advanced-images)",
+              "Resize and crop images on the fly",
+              "[:arrow_upper_right:](http://jenssegers.be)"
+            ],
+            [
+              "127",
+              "[@jenssegers](https://github.com/jenssegers)/[**laravel-ab**](https://github.com/jenssegers/laravel-ab)",
+              "A server-side A/B testing tool for Laravel.",
+              ""
+            ],
+            [
+              "101",
+              "[@mathiasverraes](https://github.com/mathiasverraes)/[**lambdalicious**](https://github.com/mathiasverraes/lambdalicious)",
+              "Lambdalicious - Experiments in Elegant Functional Programming in PHP",
+              "[:arrow_upper_right:](http://verraes.net/2014/11/higher-order-programming/)"
+            ],
+            [
+              "77",
+              "[@jenssegers](https://github.com/jenssegers)/[**laravel-raven**](https://github.com/jenssegers/laravel-raven)",
+              "Sentry (Raven) error monitoring integration for Laravel projects",
+              ""
+            ],
+            [
+              "76",
+              "[@jenssegers](https://github.com/jenssegers)/[**dashboard**](https://github.com/jenssegers/dashboard)",
+              "A server dashboard for Ubuntu",
+              ""
+            ],
+            [
+              "71",
+              "[@jenssegers](https://github.com/jenssegers)/[**codeigniter-template…**](https://github.com/jenssegers/codeigniter-template-library)",
+              "A template library for Codeigniter",
+              "[:arrow_upper_right:](http://jenssegers.be)"
+            ],
+            [
+              "70",
+              "[@jenssegers](https://github.com/jenssegers)/[**blade**](https://github.com/jenssegers/blade)",
+              "A standalone version of Laravel's Blade templating engine for use outside of Laravel.",
+              ""
+            ],
+            [
+              "58",
+              "[@jenssegers](https://github.com/jenssegers)/[**model**](https://github.com/jenssegers/model)",
+              "This model provides an eloquent-like base class that can be used to build custom models in Laravel and other frameworks",
+              ""
+            ],
+            [
+              "56",
+              "[@DragonBe](https://github.com/DragonBe)/[**vies**](https://github.com/DragonBe/vies)",
+              "Component using the European Commission (EC) VAT Information Exchange System (VIES) to verify and validate VAT registration numbers in the EU, using PHP and Composer.",
+              "[:arrow_upper_right:](http://ec.europa.eu/taxation_customs/vies/faqvies.do#item16)"
+            ],
+            [
+              "53",
+              "[@jenssegers](https://github.com/jenssegers)/[**laravel-oauth**](https://github.com/jenssegers/laravel-oauth)",
+              "A Laravel OAuth 1 & 2 library",
+              ""
+            ],
+            [
+              "50",
+              "[@jenssegers](https://github.com/jenssegers)/[**codeigniter-authenti…**](https://github.com/jenssegers/codeigniter-authentication-library)",
+              "A secure authentication library for CodeIgniter",
+              "[:arrow_upper_right:](http://jenssegers.be)"
+            ],
+            [
+              "45",
+              "[@wiez](https://github.com/wiez)/[**MyPlot**](https://github.com/wiez/MyPlot)",
+              "Plot and protection plugin for PocketMine",
+              ""
+            ],
+            [
+              "43",
+              "[@PrestaEdit](https://github.com/PrestaEdit)/[**Canvas-Module-Presta…**](https://github.com/PrestaEdit/Canvas-Module-Prestashop-15)",
+              "Canvas de module compatible 1.5",
+              ""
+            ],
+            [
+              "41",
+              "[@jenssegers](https://github.com/jenssegers)/[**codeigniter-message-…**](https://github.com/jenssegers/codeigniter-message-library)",
+              "Store and display error or information messages to display on the current page or next page",
+              "[:arrow_upper_right:](http://jenssegers.be)"
+            ],
+            [
+              "40",
+              "[@jenssegers](https://github.com/jenssegers)/[**laravel-mongodb-sess…**](https://github.com/jenssegers/laravel-mongodb-session)",
+              "A MongoDB session driver for Laravel",
+              ""
+            ],
+            [
+              "38",
+              "[@mathiasverraes](https://github.com/mathiasverraes)/[**symfony-live-2014**](https://github.com/mathiasverraes/symfony-live-2014)",
+              "Workshop: \"Domain-Driven Design for Symfony Developers\" at Symfony Live London 2014",
+              "[:arrow_upper_right:](http://verraes.net/workshops/)"
+            ],
+            [
+              "36",
+              "[@veloxy](https://github.com/veloxy)/[**purl**](https://github.com/veloxy/purl)",
+              "Purl (Petite URL) is an open source project with the goal of providing you with your own private URL shortener!",
+              ""
+            ],
+            [
+              "36",
+              "[@nWidart](https://github.com/nWidart)/[**Laravel-broadway**](https://github.com/nWidart/Laravel-broadway)",
+              "Laravel adapter for Broadway.",
+              ""
+            ],
+            [
+              "35",
+              "[@wimg](https://github.com/wimg)/[**PHP53Compat_CodeSnif…**](https://github.com/wimg/PHP53Compat_CodeSniffer)",
+              "DEPRECATED : check this url for the new version (PHP 5.4 compatible) :",
+              "[:arrow_upper_right:](http://techblog.wimgodden.be/tag/codesniffer)"
+            ],
+            [
+              "34",
+              "[@jenssegers](https://github.com/jenssegers)/[**laravel-mongodb-sent…**](https://github.com/jenssegers/laravel-mongodb-sentry)",
+              "An extension for Laravel-MongoDB that lets you work with Sentry",
+              ""
+            ],
+            [
+              "30",
+              "[@mathiasverraes](https://github.com/mathiasverraes)/[**jdump**](https://github.com/mathiasverraes/jdump)",
+              "J!Dump is a very easy to use debugging extension for Joomla developers and template designers. Download links below.",
+              "[:arrow_upper_right:](http://twitter.com/mathiasverraes)"
+            ],
+            [
+              "27",
+              "[@mathiasverraes](https://github.com/mathiasverraes)/[**classfunctions**](https://github.com/mathiasverraes/classfunctions)",
+              "Functions to manipulate PHP class names",
+              "[:arrow_upper_right:](http://verraes.net)"
+            ],
+            [
+              "24",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**guzzle-clockwork**](https://github.com/hannesvdvreken/guzzle-clockwork)",
+              "A Guzzle plugin that lets you debug everything in the Clockwork browser extension.",
+              ""
+            ],
+            [
+              "23",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**laravel-oauth**](https://github.com/hannesvdvreken/laravel-oauth)",
+              "A laravel 4 OAuth wrapper. Auto-configures an OAuth client behind a Facade.",
+              ""
+            ],
+            [
+              "17",
+              "[@netsensei](https://github.com/netsensei)/[**Rum**](https://github.com/netsensei/Rum)",
+              "Deployment tools for drush",
+              ""
+            ],
+            [
+              "17",
+              "[@ThijsFeryn](https://github.com/ThijsFeryn)/[**varnishtraining**](https://github.com/ThijsFeryn/varnishtraining)",
+              "Vagrant box including VCL's & examples for my Varnish training",
+              ""
+            ],
+            [
+              "17",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**guzzle-debugbar**](https://github.com/hannesvdvreken/guzzle-debugbar)",
+              "A Guzzle middleware that lets you log HTTP requests in the PHP debugbar timeline.",
+              ""
+            ],
+            [
+              "16",
+              "[@jenssegers](https://github.com/jenssegers)/[**php-chef**](https://github.com/jenssegers/php-chef)",
+              "Opscode Chef API PHP library",
+              "[:arrow_upper_right:](http://jenssegers.be)"
+            ],
+            [
+              "15",
+              "[@freekmurze](https://github.com/freekmurze)/[**multilingual-support…**](https://github.com/freekmurze/multilingual-support-eloquent)",
+              "Add multilingual support to Eloquent models",
+              "[:arrow_upper_right:](https://laravel-news.com/2015/09/how-to-add-multilingual-support-to-eloquent)"
+            ],
+            [
+              "14",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**php-oauth**](https://github.com/hannesvdvreken/php-oauth)",
+              "PHP OAuth 1/2 service classes using Guzzle",
+              ""
+            ],
+            [
+              "13",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**hipchat**](https://github.com/hannesvdvreken/hipchat)",
+              "Perform notifications in one ore more Hipchat rooms.",
+              ""
+            ],
+            [
+              "12",
+              "[@roderik](https://github.com/roderik)/[**GithubStats**](https://github.com/roderik/GithubStats)",
+              "A Cilex command that used the Oregon project to compile statistics for a Github/Packagist organisation",
+              ""
+            ],
+            [
+              "12",
+              "[@roderik](https://github.com/roderik)/[**pwgen-php**](https://github.com/roderik/pwgen-php)",
+              "This is a fork of http://code.google.com/p/pwgen-php, a tool to generate pronounceable, easy-to-remember, yet safe, passwords (a PHP port of GNU pwgen)",
+              ""
+            ],
+            [
+              "12",
+              "[@nWidart](https://github.com/nWidart)/[**HttpStatus-l4-packag…**](https://github.com/nWidart/HttpStatus-l4-package)",
+              "Laravel 4 Packages. Adds 403,404,500 and 503 customizable error pages.",
+              ""
+            ],
+            [
+              "11",
+              "[@mathiasverraes](https://github.com/mathiasverraes)/[**extract-till-you-dro…**](https://github.com/mathiasverraes/extract-till-you-drop)",
+              "Code for my refactoring talk \"Extract Till You Drop\"",
+              ""
+            ],
+            [
+              "11",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**psr7-demo**](https://github.com/hannesvdvreken/psr7-demo)",
+              "Demo scripts that showcase the power of PSR-7, Guzzle, and php-http/adapter",
+              ""
+            ],
+            [
+              "10",
+              "[@jvandemo](https://github.com/jvandemo)/[**Ogone**](https://github.com/jvandemo/Ogone)",
+              "PHP Classes for working with Ogone payment services",
+              ""
+            ],
+            [
+              "9",
+              "[@nWidart](https://github.com/nWidart)/[**projectLister**](https://github.com/nWidart/projectLister)",
+              "Laravel package to list repositories on Github, Bitbucket and Sourceforge.",
+              ""
+            ],
+            [
+              "8",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**pip**](https://github.com/hannesvdvreken/pip)",
+              "The Polygon class: point-in-polygon algorithm, centroid of polygon, points in clockwise direction, ...",
+              ""
+            ],
+            [
+              "8",
+              "[@mathiasverraes](https://github.com/mathiasverraes)/[**DomainTools**](https://github.com/mathiasverraes/DomainTools)",
+              "Tools for Domain Driven Design",
+              ""
+            ],
+            [
+              "7",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**msgpack**](https://github.com/hannesvdvreken/msgpack)",
+              "Msgpack implementation for PHP. It's like JSON. But fast and small.",
+              ""
+            ],
+            [
+              "7",
+              "[@DragonBe](https://github.com/DragonBe)/[**wingz**](https://github.com/DragonBe/wingz)",
+              "The social conference mashup",
+              "[:arrow_upper_right:](http://wingz.cc)"
+            ],
+            [
+              "7",
+              "[@PrestaEdit](https://github.com/PrestaEdit)/[**navmegadrownevo-v2.0**](https://github.com/PrestaEdit/navmegadrownevo-v2.0)",
+              "Menu Mega Drown Evolution v2.0",
+              ""
+            ],
+            [
+              "7",
+              "[@jenssegers](https://github.com/jenssegers)/[**laravel-mongodb-lite**](https://github.com/jenssegers/laravel-mongodb-lite)",
+              "A lightweight MongoDB database library and model for Laravel 4",
+              ""
+            ],
+            [
+              "6",
+              "[@roderik](https://github.com/roderik)/[**RedmineBundle**](https://github.com/roderik/RedmineBundle)",
+              "A Symfony2 bundle for the Redmine class from http://tspycher.com/using-the-redmine-ap…",
+              "[:arrow_upper_right:](http://tspycher.com/using-the-redmine-api-with-php/)"
+            ],
+            [
+              "6",
+              "[@GeertDD](https://github.com/GeertDD)/[**wp-plugin-tinymce-em…**](https://github.com/GeertDD/wp-plugin-tinymce-email-button)",
+              "A WordPress plugin that adds a button to TinyMCE to create mailto links",
+              ""
+            ],
+            [
+              "5",
+              "[@wimleers](https://github.com/wimleers)/[**wimleers.com-modules**](https://github.com/wimleers/wimleers.com-modules)",
+              "Custom Drupal 7 modules for wimleers.com",
+              "[:arrow_upper_right:](http://wimleers.com)"
+            ],
+            [
+              "5",
+              "[@wimleers](https://github.com/wimleers)/[**rutorrent-stats**](https://github.com/wimleers/rutorrent-stats)",
+              "Gather statistics from >=1 seedboxes that are using rtorrent+rutorrent. Can be used to monitor seedboxes' vitals.",
+              "[:arrow_upper_right:](wimleers.com)"
+            ],
+            [
+              "5",
+              "[@GeertDD](https://github.com/GeertDD)/[**wp-theme-geertdd**](https://github.com/GeertDD/wp-theme-geertdd)",
+              "Custom WordPress theme for my blog",
+              "[:arrow_upper_right:](http://geertdedeckere.be/)"
+            ],
+            [
+              "5",
+              "[@mathiasverraes](https://github.com/mathiasverraes)/[**maintainable-regex**](https://github.com/mathiasverraes/maintainable-regex)",
+              "Simple tutorial on how to write maintainable, composable, regular expression patterns. Read the commits from oldest to newest to see how we build it up.",
+              "[:arrow_upper_right:](http://verraes.net)"
+            ],
+            [
+              "4",
+              "[@nWidart](https://github.com/nWidart)/[**MoneyFormatter**](https://github.com/nWidart/MoneyFormatter)",
+              "A package used for money formatting",
+              ""
+            ],
+            [
+              "4",
+              "[@PrestaEdit](https://github.com/PrestaEdit)/[**PrestaShop-Canvas**](https://github.com/PrestaEdit/PrestaShop-Canvas)",
+              "Canvas pour PrestaShop",
+              ""
+            ],
+            [
+              "4",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**rocketeer-hipchat**](https://github.com/hannesvdvreken/rocketeer-hipchat)",
+              "HipChat nofitication plugin for Rocketeer",
+              ""
+            ],
+            [
+              "4",
+              "[@jvandemo](https://github.com/jvandemo)/[**zf2-event-logger**](https://github.com/jvandemo/zf2-event-logger)",
+              "Zend Framework 2 module that logs all events to the error_log.",
+              ""
+            ],
+            [
+              "4",
+              "[@ThijsFeryn](https://github.com/ThijsFeryn)/[**esi-viewhelper**](https://github.com/ThijsFeryn/esi-viewhelper)",
+              "Zend Framework view helper for ESI",
+              ""
+            ],
+            [
+              "4",
+              "[@DragonBe](https://github.com/DragonBe)/[**tictactoe**](https://github.com/DragonBe/tictactoe)",
+              "A game of tic-tac-toe",
+              ""
+            ],
+            [
+              "4",
+              "[@bmichotte](https://github.com/bmichotte)/[**php5-Dijkstra**](https://github.com/bmichotte/php5-Dijkstra)",
+              "php5 implementation of Dijkstra algorithm",
+              ""
+            ],
+            [
+              "3",
+              "[@jvandemo](https://github.com/jvandemo)/[**ZendService_Oauth2**](https://github.com/jvandemo/ZendService_Oauth2)",
+              "Oauth2 service for Zend Framework 2",
+              ""
+            ],
+            [
+              "3",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**socketio**](https://github.com/hannesvdvreken/socketio)",
+              "Send socket.io messages to a Node process through Redis",
+              ""
+            ],
+            [
+              "3",
+              "[@Driesboy](https://github.com/Driesboy)/[**Pets**](https://github.com/Driesboy/Pets)",
+              "pets plugin for pocketmine, imagicalmine & genisys",
+              ""
+            ],
+            [
+              "3",
+              "[@mathiasverraes](https://github.com/mathiasverraes)/[**magictree**](https://github.com/mathiasverraes/magictree)",
+              "Because magic.",
+              ""
+            ],
+            [
+              "3",
+              "[@nWidart](https://github.com/nWidart)/[**composer-generator**](https://github.com/nWidart/composer-generator)",
+              "Laravel 4 Composer.json generator service.",
+              ""
+            ],
+            [
+              "2",
+              "[@netsensei](https://github.com/netsensei)/[**stock**](https://github.com/netsensei/stock)",
+              "A starter Drupal module which implements a \"best practices\" architecture.",
+              ""
+            ],
+            [
+              "2",
+              "[@PrestaEdit](https://github.com/PrestaEdit)/[**generator**](https://github.com/PrestaEdit/generator)",
+              "Générateur de module pour PrestaShop 1.5",
+              ""
+            ],
+            [
+              "2",
+              "[@netsensei](https://github.com/netsensei)/[**be-bank-transfer-mes…**](https://github.com/netsensei/be-bank-transfer-message)",
+              "A generator and validator for structured messages included in Belgian bank transfers",
+              ""
+            ],
+            [
+              "2",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**harvester**](https://github.com/hannesvdvreken/harvester)",
+              "Runs scrapers, by using Message Queues, Redis and Eloquent models",
+              ""
+            ],
+            [
+              "2",
+              "[@wimleers](https://github.com/wimleers)/[**token_filter**](https://github.com/wimleers/token_filter)",
+              "Fork of token_filter for Edit module and Aloha Editor integration.",
+              ""
+            ],
+            [
+              "2",
+              "[@wimleers](https://github.com/wimleers)/[**edit**](https://github.com/wimleers/edit)",
+              "Fork of Edit module for the sprint with the Aloha Editor folks in Vienna. GPLv2 licensed.",
+              "[:arrow_upper_right:](http://drupal.org/project/edit)"
+            ],
+            [
+              "2",
+              "[@hannesvdvreken](https://github.com/hannesvdvreken)/[**gentsevines**](https://github.com/hannesvdvreken/gentsevines)",
+              "Collects all vines by hashtags and shows a feed. Users can login and like vines.",
+              "[:arrow_upper_right:](http://gentsevines.be)"
+            ],
+            [
+              "2",
+              "[@nWidart](https://github.com/nWidart)/[**Themify-l5**](https://github.com/nWidart/Themify-l5)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@nWidart](https://github.com/nWidart)/[**Laravel-forecast**](https://github.com/nWidart/Laravel-forecast)",
+              "Laravel-forecast provides a service provider and a facade arround the Forecast-php wrapper.",
+              ""
+            ],
+            [
+              "2",
+              "[@nWidart](https://github.com/nWidart)/[**MoneyFormatter-Larav…**](https://github.com/nWidart/MoneyFormatter-Laravel)",
+              "Laravel integration for my MoneyFormatter Package",
+              ""
+            ],
+            [
+              "2",
+              "[@netsensei](https://github.com/netsensei)/[**Views-Columns**](https://github.com/netsensei/Views-Columns)",
+              "A Views Style plugin :: split a view in a number of divs which can be themed as floated columns",
+              ""
+            ],
+            [
+              "2",
+              "[@veloxy](https://github.com/veloxy)/[**sourcebox-kunstmaan**](https://github.com/veloxy/sourcebox-kunstmaan)",
+              "My personal site created in Kunstmaan Bundles",
+              ""
+            ],
+            [
+              "2",
+              "[@netsensei](https://github.com/netsensei)/[**TdtEuropeana**](https://github.com/netsensei/TdtEuropeana)",
+              "Installed Resource for The Datatank funneling datasets from the Europeana API (http://thedatatank.com)",
+              ""
+            ],
+            [
+              "2",
+              "[@dieterve](https://github.com/dieterve)/[**menu-planner**](https://github.com/dieterve/menu-planner)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@netsensei](https://github.com/netsensei)/[**CNAPI-Views**](https://github.com/netsensei/CNAPI-Views)",
+              "Bringing the CultuurnetAPI to Drupal Views",
+              ""
+            ],
+            [
+              "2",
+              "[@nWidart](https://github.com/nWidart)/[**Alys-Google-Maps-Org…**](https://github.com/nWidart/Alys-Google-Maps-Organiser)",
+              "Laravel App, to manage clients and their corresponding markers for Google Maps.",
+              ""
+            ],
+            [
+              "2",
+              "[@Driesboy](https://github.com/Driesboy)/[**Lightning**](https://github.com/Driesboy/Lightning)",
+              "pocketmine plugin (working)",
+              ""
+            ],
+            [
+              "2",
+              "[@jenssegers](https://github.com/jenssegers)/[**lean**](https://github.com/jenssegers/lean)",
+              "Use the PHP League's Container package with auto-wiring support as the core container in Slim 3",
+              ""
+            ],
+            [
+              "2",
+              "[@mathiasverraes](https://github.com/mathiasverraes)/[**speakingjenkins**](https://github.com/mathiasverraes/speakingjenkins)",
+              "Command line PHP app that announces the status of a Jenkins/Hudson CI build using text-to-speech.",
+              "[:arrow_upper_right:](http://blog.verraes.net)"
             ]
           ]
         }
