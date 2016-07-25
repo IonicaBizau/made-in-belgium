@@ -58,7 +58,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -3353,6 +3354,39 @@
               "2",
               "[@samvdb](https://github.com/samvdb)/[**awesome-config**](https://github.com/samvdb/awesome-config)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@u0078867](https://github.com/u0078867)/[**ulema-ul-analyzer**](https://github.com/u0078867/ulema-ul-analyzer)",
+              "U.L.E.M.A. is a MATLAB-based GUI tool (for Windows) for quickly processing motion capture data (C3D files) relative to upper limb movements",
+              ""
+            ],
+            [
+              "4",
+              "[@CyclotronResearchCen…](https://github.com/CyclotronResearchCentre)/[**FASST**](https://github.com/CyclotronResearchCentre/FASST)",
+              "FASST, aka. fMRI Artefact rejection and Sleep Scoring Toolbox, public distribution with the latest updates.",
+              ""
+            ],
+            [
+              "3",
+              "[@CyclotronResearchCen…](https://github.com/CyclotronResearchCentre)/[**SPM_ClusterSizeThres…**](https://github.com/CyclotronResearchCentre/SPM_ClusterSizeThreshold)",
+              "SPM Cluster Size Threshold estimation",
               ""
             ]
           ]
