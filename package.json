@@ -38,5 +38,1046 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/made-in-belgium/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/made-in-belgium#readme"
+  "homepage": "https://github.com/IonicaBizau/made-in-belgium#readme",
+  "blah": {
+    "installation": [
+      {
+        "h2": "Contents"
+      },
+      {
+        "ul": [
+          "[JavaScript](#javascript)"
+        ]
+      },
+      {
+        "h3": "JavaScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4372",
+              "[@bendc](https://github.com/bendc)/[**sprint**](https://github.com/bendc/sprint)",
+              "A tiny, lightning fast jQuery-like library for modern browsers.",
+              ""
+            ],
+            [
+              "3988",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**jquery-placeholder**](https://github.com/mathiasbynens/jquery-placeholder)",
+              "A jQuery plugin that enables HTML5 placeholder behavior for browsers that aren’t trying hard enough yet",
+              "[:arrow_upper_right:](https://mths.be/placeholder)"
+            ],
+            [
+              "3420",
+              "[@luruke](https://github.com/luruke)/[**barba.js**](https://github.com/luruke/barba.js)",
+              "Create badass, fluid and smooth transition between your website's pages.",
+              "[:arrow_upper_right:](http://barbajs.org)"
+            ],
+            [
+              "2200",
+              "[@RobinHerbots](https://github.com/RobinHerbots)/[**jquery.inputmask**](https://github.com/RobinHerbots/jquery.inputmask)",
+              "Input Mask plugin",
+              "[:arrow_upper_right:](http://robinherbots.github.io/jquery.inputmask)"
+            ],
+            [
+              "2163",
+              "[@bendc](https://github.com/bendc)/[**animateplus**](https://github.com/bendc/animateplus)",
+              "CSS and SVG animation library",
+              ""
+            ],
+            [
+              "826",
+              "[@pure](https://github.com/pure)/[**pure**](https://github.com/pure/pure)",
+              "PURE Unobtrusive Rendering Engine for HTML",
+              "[:arrow_upper_right:](http://beebole.com/pure)"
+            ],
+            [
+              "757",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**he**](https://github.com/mathiasbynens/he)",
+              "A robust HTML entity encoder/decoder written in JavaScript.",
+              "[:arrow_upper_right:](https://mths.be/he)"
+            ],
+            [
+              "670",
+              "[@bendc](https://github.com/bendc)/[**uilang**](https://github.com/bendc/uilang)",
+              "A minimal, UI-focused programming language for web designers.",
+              "[:arrow_upper_right:](uilang.com)"
+            ],
+            [
+              "600",
+              "[@rubenv](https://github.com/rubenv)/[**angular-gettext**](https://github.com/rubenv/angular-gettext)",
+              "Gettext support for Angular.js",
+              "[:arrow_upper_right:](http://angular-gettext.rocketeer.be/)"
+            ],
+            [
+              "557",
+              "[@gillesdemey](https://github.com/gillesdemey)/[**Cumulus**](https://github.com/gillesdemey/Cumulus)",
+              "☁️  A SoundCloud player that lives in your menubar.",
+              "[:arrow_upper_right:](http://gillesdemey.github.io/Cumulus)"
+            ],
+            [
+              "488",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**jsperf.com**](https://github.com/mathiasbynens/jsperf.com)",
+              "jsPerf.com source code",
+              "[:arrow_upper_right:](http://jsperf.com/)"
+            ],
+            [
+              "459",
+              "[@boblemarin](https://github.com/boblemarin)/[**Sprite3D.js**](https://github.com/boblemarin/Sprite3D.js)",
+              "Sprite3D.js, a JS library for generating and manipulating CSS 3D transforms",
+              ""
+            ],
+            [
+              "396",
+              "[@bendc](https://github.com/bendc)/[**animate**](https://github.com/bendc/animate)",
+              "Simple animation library",
+              ""
+            ],
+            [
+              "380",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**mothereff.in**](https://github.com/mathiasbynens/mothereff.in)",
+              "Web developer tools",
+              "[:arrow_upper_right:](https://mothereff.in/)"
+            ],
+            [
+              "377",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**esrever**](https://github.com/mathiasbynens/esrever)",
+              "A Unicode-aware string reverser written in JavaScript.",
+              "[:arrow_upper_right:](http://git.io/esrever)"
+            ],
+            [
+              "307",
+              "[@tvcutsem](https://github.com/tvcutsem)/[**harmony-reflect**](https://github.com/tvcutsem/harmony-reflect)",
+              "ES5 shim for ES6 Reflect and Proxy objects",
+              "[:arrow_upper_right:](http://www.ecma-international.org/ecma-262/6.0/#sec-reflection)"
+            ],
+            [
+              "290",
+              "[@bendc](https://github.com/bendc)/[**anchor-scroll**](https://github.com/bendc/anchor-scroll)",
+              "Smooth and lightweight anchor scrolling library",
+              ""
+            ],
+            [
+              "218",
+              "[@madewulf](https://github.com/madewulf)/[**MigrationsMap.net**](https://github.com/madewulf/MigrationsMap.net)",
+              "Interactive map of the origin-destination stocks by country  ",
+              "[:arrow_upper_right:](http://migrationsmap.net)"
+            ],
+            [
+              "217",
+              "[@rubenv](https://github.com/rubenv)/[**grunt-git**](https://github.com/rubenv/grunt-git)",
+              "Git commands for grunt.",
+              ""
+            ],
+            [
+              "216",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**N3.js**](https://github.com/RubenVerborgh/N3.js)",
+              "Lightning fast, asynchronous, streaming RDF for JavaScript",
+              ""
+            ],
+            [
+              "214",
+              "[@boblemarin](https://github.com/boblemarin)/[**jQuery.eraser**](https://github.com/boblemarin/jQuery.eraser)",
+              "jQuery plugin that makes an image erasable (with mouse or touch movements)",
+              "[:arrow_upper_right:](http://minimal.be/lab/jQuery.eraser/)"
+            ],
+            [
+              "197",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**jsesc**](https://github.com/mathiasbynens/jsesc)",
+              "A JavaScript library for escaping JavaScript strings while generating the shortest possible valid ASCII-only output.",
+              "[:arrow_upper_right:](https://mths.be/jsesc)"
+            ],
+            [
+              "175",
+              "[@eschnou](https://github.com/eschnou)/[**ardrone-webflight**](https://github.com/eschnou/ardrone-webflight)",
+              "Pilot the AR.Drone 2.0 directly from your browser. Extend the application with plugins to add features such as video recording, autonomous flight, face recognition, and more.",
+              "[:arrow_upper_right:](http://eschnou.github.io/ardrone-webflight/)"
+            ],
+            [
+              "175",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**utf8.js**](https://github.com/mathiasbynens/utf8.js)",
+              "A robust JavaScript implementation of a UTF-8 encoder/decoder, as defined by the Encoding Standard.",
+              "[:arrow_upper_right:](https://git.io/utf8js)"
+            ],
+            [
+              "150",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**promiscuous**](https://github.com/RubenVerborgh/promiscuous)",
+              "Small and fast promise library for JavaScript",
+              "[:arrow_upper_right:](https://npmjs.org/package/promiscuous)"
+            ],
+            [
+              "144",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**regenerate**](https://github.com/mathiasbynens/regenerate)",
+              "Generate JavaScript-compatible regular expressions based on a given set of Unicode symbols or code points.",
+              "[:arrow_upper_right:](https://mths.be/regenerate)"
+            ],
+            [
+              "131",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**grunt-template**](https://github.com/mathiasbynens/grunt-template)",
+              "This Grunt plugin interpolates template files with any data you provide and saves the result to another file.",
+              "[:arrow_upper_right:](http://git.io/grunt-template)"
+            ],
+            [
+              "120",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**tpyo**](https://github.com/mathiasbynens/tpyo)",
+              "A small script that enables you to make typos in JavaScript property names. Powered by ES6 proxies + Levenshtein string distance.",
+              "[:arrow_upper_right:](https://mths.be/tpyo)"
+            ],
+            [
+              "119",
+              "[@eschnou](https://github.com/eschnou)/[**ardrone-autonomy**](https://github.com/eschnou/ardrone-autonomy)",
+              "Provides key building blocks to create autonomous flight applications with the #nodecopter (AR.Drone).",
+              "[:arrow_upper_right:](http://eschnou.github.com/ardrone-autonomy)"
+            ],
+            [
+              "118",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**emoji-regex**](https://github.com/mathiasbynens/emoji-regex)",
+              "A regular expression to match all Emoji-only symbols as per the Unicode Standard.",
+              "[:arrow_upper_right:](https://mths.be/emoji-regex)"
+            ],
+            [
+              "104",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**jquery-visibility**](https://github.com/mathiasbynens/jquery-visibility)",
+              "Page Visibility shim for jQuery",
+              "[:arrow_upper_right:](https://mths.be/visibility)"
+            ],
+            [
+              "100",
+              "[@bramus](https://github.com/bramus)/[**photoshop-google-map…**](https://github.com/bramus/photoshop-google-maps-tile-cutter)",
+              "PS_Bramus.GoogleMapsTileCutter - A Photoshop script that cuts image tiles from any image for direct use with Google Maps",
+              "[:arrow_upper_right:](http://bramus.github.io/photoshop-google-maps-tile-cutter/example/)"
+            ],
+            [
+              "98",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**base64**](https://github.com/mathiasbynens/base64)",
+              "A robust base64 encoder/decoder that is fully compatible with `atob()` and btoa()`, written in JavaScript.",
+              "[:arrow_upper_right:](https://mths.be/base64)"
+            ],
+            [
+              "97",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**SPARQL.js**](https://github.com/RubenVerborgh/SPARQL.js)",
+              "A parser for the SPARQL query language in JavaScript",
+              ""
+            ],
+            [
+              "92",
+              "[@eschnou](https://github.com/eschnou)/[**node-ostatus**](https://github.com/eschnou/node-ostatus)",
+              "An OStatus library for node-js. Implementing webfinger, PubSubHubBub, hcard, atom/json activitystreams and salmon. It serves as the building block of a decentralized social network.",
+              "[:arrow_upper_right:](http://ostatus.org)"
+            ],
+            [
+              "91",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**grunt-zopfli**](https://github.com/mathiasbynens/grunt-zopfli)",
+              "A Grunt plugin for compressing files using Zopfli.",
+              "[:arrow_upper_right:](http://git.io/grunt-zopfli)"
+            ],
+            [
+              "83",
+              "[@rubenv](https://github.com/rubenv)/[**node-systemd**](https://github.com/rubenv/node-systemd)",
+              "Support for running node.js as a socket-activated service under systemd",
+              "[:arrow_upper_right:](http://savanne.be/articles/deploying-node-js-with-systemd/)"
+            ],
+            [
+              "82",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**regexpu**](https://github.com/mathiasbynens/regexpu)",
+              "A source code transpiler that enables the use of ES6 Unicode regular expressions in ES5.",
+              "[:arrow_upper_right:](https://mths.be/regexpu)"
+            ],
+            [
+              "70",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**CSS.escape**](https://github.com/mathiasbynens/CSS.escape)",
+              "A robust polyfill for the CSS.escape utility method as defined in CSSOM.",
+              "[:arrow_upper_right:](https://mths.be/cssescape)"
+            ],
+            [
+              "62",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**jquery-smooth-scroll…**](https://github.com/mathiasbynens/jquery-smooth-scrolling)",
+              "Smooth anchor scrolling plugin for jQuery.",
+              "[:arrow_upper_right:](https://mths.be/smoothscroll)"
+            ],
+            [
+              "61",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**grunt-yui-compressor**](https://github.com/mathiasbynens/grunt-yui-compressor)",
+              "A Grunt plugin for compressing JavaScript and CSS files using YUI Compressor.",
+              "[:arrow_upper_right:](http://git.io/grunt-yui-compressor)"
+            ],
+            [
+              "61",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**jquery-slideshow**](https://github.com/mathiasbynens/jquery-slideshow)",
+              "The simplest jQuery slideshow plugin. Evar.",
+              "[:arrow_upper_right:](https://mths.be/slideshow)"
+            ],
+            [
+              "50",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**luamin**](https://github.com/mathiasbynens/luamin)",
+              "A Lua minifier written in JavaScript",
+              "[:arrow_upper_right:](https://mths.be/luamin)"
+            ],
+            [
+              "47",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**unicode-data**](https://github.com/mathiasbynens/unicode-data)",
+              "Python scripts that generate JavaScript-compatible Unicode data",
+              "[:arrow_upper_right:](http://git.io/unicode)"
+            ],
+            [
+              "46",
+              "[@rubenv](https://github.com/rubenv)/[**node-apk-parser**](https://github.com/rubenv/node-apk-parser)",
+              "Extract Android Manifest info from an APK file.",
+              ""
+            ],
+            [
+              "46",
+              "[@rubenv](https://github.com/rubenv)/[**angular-select2**](https://github.com/rubenv/angular-select2)",
+              "Select2 directive for Angular.js",
+              ""
+            ],
+            [
+              "46",
+              "[@bendc](https://github.com/bendc)/[**parallax**](https://github.com/bendc/parallax)",
+              "Layered icons",
+              ""
+            ],
+            [
+              "46",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**String.prototype.inc…**](https://github.com/mathiasbynens/String.prototype.includes)",
+              "A robust & optimized ES3-compatible polyfill for the `String.prototype.contains` method in ECMAScript 6.",
+              "[:arrow_upper_right:](https://mths.be/includes)"
+            ],
+            [
+              "45",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**String.prototype.sta…**](https://github.com/mathiasbynens/String.prototype.startsWith)",
+              "A robust & optimized ES3-compatible polyfill for the `String.prototype.startsWith` method in ECMAScript 6.",
+              "[:arrow_upper_right:](https://mths.be/startswith)"
+            ],
+            [
+              "42",
+              "[@rubenv](https://github.com/rubenv)/[**angular-gettext-exam…**](https://github.com/rubenv/angular-gettext-example)",
+              "TodoMVC with angular-gettext added to it.",
+              "[:arrow_upper_right:](http://angular-gettext.rocketeer.be/)"
+            ],
+            [
+              "40",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**node-unicode-data**](https://github.com/mathiasbynens/node-unicode-data)",
+              "JavaScript-compatible Unicode data generator. Arrays of code points, arrays of symbols, and regular expressions for every Unicode version’s categories, scripts, blocks, and properties — neatly packaged into a separate npm package per Unicode version.",
+              "[:arrow_upper_right:](https://mths.be/node-unicode-data)"
+            ],
+            [
+              "39",
+              "[@rubenv](https://github.com/rubenv)/[**angular-debounce**](https://github.com/rubenv/angular-debounce)",
+              "Tiny debouncing function for Angular.JS.",
+              ""
+            ],
+            [
+              "39",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**UmbracoAngularBackof…**](https://github.com/TimGeyssens/UmbracoAngularBackofficePages)",
+              "Example project showing how to extend Umbraco with a custom tree and edit page using web api and angular",
+              ""
+            ],
+            [
+              "38",
+              "[@boblemarin](https://github.com/boblemarin)/[**FLU**](https://github.com/boblemarin/FLU)",
+              "multiuser interactive installation",
+              ""
+            ],
+            [
+              "38",
+              "[@rubenv](https://github.com/rubenv)/[**grunt-angular-gettex…**](https://github.com/rubenv/grunt-angular-gettext)",
+              "Tasks for extracting/compiling angular-gettext strings.",
+              "[:arrow_upper_right:](http://angular-gettext.rocketeer.be/)"
+            ],
+            [
+              "37",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**document.scrollingEl…**](https://github.com/mathiasbynens/document.scrollingElement)",
+              "A polyfill for document.scrollingElement as defined in the CSSOM specification.",
+              "[:arrow_upper_right:](https://mths.be/scrollingelement)"
+            ],
+            [
+              "36",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**Array.from**](https://github.com/mathiasbynens/Array.from)",
+              "A robust & optimized ES3-compatible polyfill for the `Array.from` method in ECMAScript 6.",
+              "[:arrow_upper_right:](https://mths.be/array-from)"
+            ],
+            [
+              "35",
+              "[@teddykishi](https://github.com/teddykishi)/[**DOM-Particles**](https://github.com/teddykishi/DOM-Particles)",
+              "Create a DOM particle system",
+              ""
+            ],
+            [
+              "34",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**String.prototype.at**](https://github.com/mathiasbynens/String.prototype.at)",
+              "A robust & optimized ES3-compatible polyfill for the `String.prototype.at` proposal for ECMAScript 6/7.",
+              "[:arrow_upper_right:](https://mths.be/at)"
+            ],
+            [
+              "34",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**unicode-8.0.0**](https://github.com/mathiasbynens/unicode-8.0.0)",
+              "JavaScript-compatible Unicode data. Arrays of code points, arrays of symbols, and regular expressions for Unicode v8.0.0’s categories, scripts, blocks, bidi, and other properties.",
+              ""
+            ],
+            [
+              "33",
+              "[@bramus](https://github.com/bramus)/[**simple-rest-api-expl…**](https://github.com/bramus/simple-rest-api-explorer)",
+              "A simple way to showcasing and exploring all endpoints of your RESTful API.",
+              "[:arrow_upper_right:](http://bramus.github.io/simple-rest-api-explorer)"
+            ],
+            [
+              "32",
+              "[@bendc](https://github.com/bendc)/[**jscss**](https://github.com/bendc/jscss)",
+              "JavaScript style sheets",
+              ""
+            ],
+            [
+              "31",
+              "[@eschnou](https://github.com/eschnou)/[**ardrone-panorama**](https://github.com/eschnou/ardrone-panorama)",
+              "Take 360° panoramic pictures with an ar-drone.",
+              ""
+            ],
+            [
+              "30",
+              "[@bendc](https://github.com/bendc)/[**search-filter**](https://github.com/bendc/search-filter)",
+              "Animated search filter plugin",
+              ""
+            ],
+            [
+              "29",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**UIOMatic**](https://github.com/TimGeyssens/UIOMatic)",
+              "Auto generate an integrated crud UI in Umbraco for a db table based on a petapoco poco",
+              "[:arrow_upper_right:](http://www.nibble.be/?p=464)"
+            ],
+            [
+              "28",
+              "[@gillesdemey](https://github.com/gillesdemey)/[**node-record-lpcm16**](https://github.com/gillesdemey/node-record-lpcm16)",
+              ":microphone: Records a 16-bit signed-integer linear pulse modulation code encoded audio file.",
+              ""
+            ],
+            [
+              "27",
+              "[@rubenv](https://github.com/rubenv)/[**node-autoquit**](https://github.com/rubenv/node-autoquit)",
+              "Automatically quit node.js servers when inactive.",
+              "[:arrow_upper_right:](http://savanne.be/articles/deploying-node-js-with-systemd/)"
+            ],
+            [
+              "27",
+              "[@boblemarin](https://github.com/boblemarin)/[**TheBox**](https://github.com/boblemarin/TheBox)",
+              "My Submission to the march 2012 Mozilla DevDerby about CSS 3D\ntransforms. A simple and interactive 3D scene using Sprite3D.js",
+              ""
+            ],
+            [
+              "26",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**String.prototype.cod…**](https://github.com/mathiasbynens/String.prototype.codePointAt)",
+              "A robust & optimized `String.prototype.codePointAt` polyfill, based on the ECMAScript 6 specification.",
+              "[:arrow_upper_right:](https://mths.be/codepointat)"
+            ],
+            [
+              "26",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**HDT-Node**](https://github.com/RubenVerborgh/HDT-Node)",
+              "Native bindings for Node.js to access HDT compressed triple files.",
+              "[:arrow_upper_right:](http://ruben.verborgh.org/blog/2014/09/30/bringing-fast-triples-to-nodejs-with-hdt/)"
+            ],
+            [
+              "26",
+              "[@doomhz](https://github.com/doomhz)/[**jQuery-Image-Cache**](https://github.com/doomhz/jQuery-Image-Cache)",
+              "Cache base64 encoded images in modern browser Local Storage with this jQuery plugin.",
+              "[:arrow_upper_right:](http://dumitruglavan.com/jquery-image-cache-plugin-cache-images-in-browsers-local-storage/)"
+            ],
+            [
+              "26",
+              "[@mathiasbynens](https://github.com/mathiasbynens)/[**unicode-7.0.0**](https://github.com/mathiasbynens/unicode-7.0.0)",
+              "JavaScript-compatible Unicode data. Arrays of code points, arrays of symbols, and regular expressions for Unicode v7.0.0’s categories, scripts, blocks, bidi, and other properties.",
+              ""
+            ],
+            [
+              "25",
+              "[@doomhz](https://github.com/doomhz)/[**jQuery-Tweaks**](https://github.com/doomhz/jQuery-Tweaks)",
+              "jQuery Doom Tweaks plugin to add more handy futures to the framework.",
+              "[:arrow_upper_right:](http://dumitruglavan.com)"
+            ],
+            [
+              "23",
+              "[@rubenv](https://github.com/rubenv)/[**angular-rt-popup**](https://github.com/rubenv/angular-rt-popup)",
+              "A better version of the Bootstrap popover, for Angular.JS",
+              ""
+            ],
+            [
+              "20",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**BundlingAndMinificat…**](https://github.com/TimGeyssens/BundlingAndMinificationForTheMasses)",
+              "UI layer on top of http://aspnetoptimization.codeplex.com/ for Umbraco",
+              "[:arrow_upper_right:](http://www.nibble.be/?p=237)"
+            ],
+            [
+              "20",
+              "[@rubenv](https://github.com/rubenv)/[**angular-gettext-tool…**](https://github.com/rubenv/angular-gettext-tools)",
+              "Tools for extracting/compiling angular-gettext strings.",
+              "[:arrow_upper_right:](http://angular-gettext.rocketeer.be/)"
+            ],
+            [
+              "18",
+              "[@rubenv](https://github.com/rubenv)/[**pofile**](https://github.com/rubenv/pofile)",
+              "Parse and serialize Gettext PO files.",
+              ""
+            ],
+            [
+              "18",
+              "[@rubenv](https://github.com/rubenv)/[**angular-tiny-eventem…**](https://github.com/rubenv/angular-tiny-eventemitter)",
+              "Tiny event emitter for Angular.JS.",
+              ""
+            ],
+            [
+              "17",
+              "[@luruke](https://github.com/luruke)/[**adapttext.js**](https://github.com/luruke/adapttext.js)",
+              ":raised_hands: - AdaptText.js is a dependency free and simple javascript solution capable to fit your text inside the parent element",
+              ""
+            ],
+            [
+              "16",
+              "[@rubenv](https://github.com/rubenv)/[**connect-body-rewrite**](https://github.com/rubenv/connect-body-rewrite)",
+              "Rewrite request bodies.",
+              ""
+            ],
+            [
+              "15",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**EyeServer**](https://github.com/RubenVerborgh/EyeServer)",
+              "EyeServer is a server for the EYE reasoner.",
+              "[:arrow_upper_right:](http://reasoning.restdesc.org/)"
+            ],
+            [
+              "15",
+              "[@eschnou](https://github.com/eschnou)/[**webflight-copterface**](https://github.com/eschnou/webflight-copterface)",
+              "A port of the nodecopter copterface as a plugin to the ardrone-webflight environment.",
+              ""
+            ],
+            [
+              "13",
+              "[@rubenv](https://github.com/rubenv)/[**grunt-mkdir**](https://github.com/rubenv/grunt-mkdir)",
+              "Create directories with Grunt.",
+              ""
+            ],
+            [
+              "13",
+              "[@tvcutsem](https://github.com/tvcutsem)/[**es-lab**](https://github.com/tvcutsem/es-lab)",
+              "Automatically exported from code.google.com/p/es-lab",
+              ""
+            ],
+            [
+              "13",
+              "[@bramus](https://github.com/bramus)/[**bramus_cssextras**](https://github.com/bramus/bramus_cssextras)",
+              "bramus_cssextras is a plugin for TinyMCE which enables the usage of CSS classes and CSS ids on any HTML element within TinyMCE. Together with an external CSS file, set via the TinyMCE content_css  setting, bramus_cssextras bridges the (visual) gap between the content entered through TinyMCE and the actual output",
+              "[:arrow_upper_right:](http://www.bram.us/projects/tinymce-plugins/tinymce-classes-and-ids-plugin-bramus_cssextras/)"
+            ],
+            [
+              "13",
+              "[@bramus](https://github.com/bramus)/[**ria-course-materials**](https://github.com/bramus/ria-course-materials)",
+              "Course materials for the course Web & Mobile Development (formerly Rich Internet Applications), part of the Professional Bachelor ICT study programme.",
+              "[:arrow_upper_right:](http://bramus.github.io/ria-course-materials)"
+            ],
+            [
+              "12",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**RESTdesc-Photo-Examp…**](https://github.com/RubenVerborgh/RESTdesc-Photo-Example)",
+              "RESTful Web API Description - A sample implementation. This is _not_ the actual RESTdesc method. It is still a working draft at the moment.",
+              "[:arrow_upper_right:](http://purl.org/restdesc/http-template.n3)"
+            ],
+            [
+              "12",
+              "[@pure](https://github.com/pure)/[**jstyle**](https://github.com/pure/jstyle)",
+              "Replace CSS with Javascript",
+              ""
+            ],
+            [
+              "12",
+              "[@doomhz](https://github.com/doomhz)/[**jQuery-Inplace-Edit**](https://github.com/doomhz/jQuery-Inplace-Edit)",
+              "A jQuery plugin for editing text in place.",
+              "[:arrow_upper_right:](http://dumitruglavan.com/jquery-doom-inplace-edit-plugin/)"
+            ],
+            [
+              "11",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**UmbracoSinglePageCru…**](https://github.com/TimGeyssens/UmbracoSinglePageCrudApp)",
+              "Sample single page CRUD app built with Umbraco and AngularJS. Making use of the new Umbraco APIs (IPublishedContent, ContentService and UmbracoAPIController).",
+              "[:arrow_upper_right:](http://www.nibble.be/?p=224)"
+            ],
+            [
+              "11",
+              "[@eschnou](https://github.com/eschnou)/[**node-bignumber**](https://github.com/eschnou/node-bignumber)",
+              "Packaging of Tom Wu Javascript BigNumber & RSA library",
+              "[:arrow_upper_right:](http://www-cs-students.stanford.edu/~tjw/jsbn/)"
+            ],
+            [
+              "11",
+              "[@bendc](https://github.com/bendc)/[**dribbbox**](https://github.com/bendc/dribbbox)",
+              "Self-hosted Dribbble portfolio.",
+              "[:arrow_upper_right:](http://dribbbox.com)"
+            ],
+            [
+              "10",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**JavaScript-Error-Han…**](https://github.com/RubenVerborgh/JavaScript-Error-Handling)",
+              "A collection of various JavaScript error handling techniques.",
+              "[:arrow_upper_right:](http://ruben.verborgh.org/blog/2012/12/31/asynchronous-error-handling-in-javascript/)"
+            ],
+            [
+              "10",
+              "[@tvcutsem](https://github.com/tvcutsem)/[**proxy-handlers**](https://github.com/tvcutsem/proxy-handlers)",
+              "Predefined ECMAScript 6 Proxy handlers",
+              ""
+            ],
+            [
+              "10",
+              "[@bendc](https://github.com/bendc)/[**simple-test**](https://github.com/bendc/simple-test)",
+              "Basic testing library",
+              ""
+            ],
+            [
+              "9",
+              "[@eschnou](https://github.com/eschnou)/[**shoutr**](https://github.com/eschnou/shoutr)",
+              "A decentralized social networking platform.",
+              "[:arrow_upper_right:](http://shoutr.org)"
+            ],
+            [
+              "9",
+              "[@luruke](https://github.com/luruke)/[**split-in-lines**](https://github.com/luruke/split-in-lines)",
+              "Take an HTML element with text, and split it in lines.",
+              ""
+            ],
+            [
+              "8",
+              "[@rubenv](https://github.com/rubenv)/[**mod_rewrite-to-nginx**](https://github.com/rubenv/mod_rewrite-to-nginx)",
+              "Apache mod_rewrite rule to nginx rewrite rule convertor",
+              ""
+            ],
+            [
+              "8",
+              "[@philipdesmedt](https://github.com/philipdesmedt)/[**node.js-chatbox**](https://github.com/philipdesmedt/node.js-chatbox)",
+              "A very quick chatbox using Node.js and Socket.IO",
+              ""
+            ],
+            [
+              "8",
+              "[@c3o](https://github.com/c3o)/[**opencampaign**](https://github.com/c3o/opencampaign)",
+              "software for political campaigns",
+              ""
+            ],
+            [
+              "8",
+              "[@luruke](https://github.com/luruke)/[**clip-rect**](https://github.com/luruke/clip-rect)",
+              "✂️ - clip-rect is an helper to create painless `clip: rect()` animations with GSAP.",
+              ""
+            ],
+            [
+              "7",
+              "[@RobinMalfait](https://github.com/RobinMalfait)/[**HoGent-Samenvattinge…**](https://github.com/RobinMalfait/HoGent-Samenvattingen)",
+              "Samenvattingen - Toegepaste Informatica.",
+              ""
+            ],
+            [
+              "7",
+              "[@boblemarin](https://github.com/boblemarin)/[**CSS-Keyframe-Exporte…**](https://github.com/boblemarin/CSS-Keyframe-Exporter-for-Flash-CS6)",
+              "CSS Keyframe Exporter for Flash CS6",
+              ""
+            ],
+            [
+              "7",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**SPARQL-Parser**](https://github.com/RubenVerborgh/SPARQL-Parser)",
+              "Obsolete SPARQL parser based on rdfstore-js, use SPARQL.js instead.",
+              "[:arrow_upper_right:](https://github.com/RubenVerborgh/SPARQL.js)"
+            ],
+            [
+              "7",
+              "[@luruke](https://github.com/luruke)/[**dev-excuses-chrome**](https://github.com/luruke/dev-excuses-chrome)",
+              "Chrome, please, gimme an excuse! - A little chrome extension that allow you to easily fetch an excuse from https://api.githunt.io/programmingexcuse… and paste it in your current textarea/input field.",
+              ""
+            ],
+            [
+              "6",
+              "[@gillesdemey](https://github.com/gillesdemey)/[**typewrite**](https://github.com/gillesdemey/typewrite)",
+              ":memo: A simple javascript file to simulate text input.",
+              ""
+            ],
+            [
+              "6",
+              "[@bramus](https://github.com/bramus)/[**google-maps-polygon-…**](https://github.com/bramus/google-maps-polygon-moveto)",
+              "Programmatically move a google.maps.Polygon to a new google.maps.LatLng using Google Maps V3",
+              ""
+            ],
+            [
+              "6",
+              "[@boblemarin](https://github.com/boblemarin)/[**TheFaceBuilder**](https://github.com/boblemarin/TheFaceBuilder)",
+              "Mozilla Dev Derby submission for February - Touch Events",
+              ""
+            ],
+            [
+              "6",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**HTTP-methods-in-Java…**](https://github.com/RubenVerborgh/HTTP-methods-in-JavaScript)",
+              "What happens if we model the semantics of HTTP methods in JavaScript?",
+              "[:arrow_upper_right:](http://ruben.verborgh.org/blog/2012/09/27/the-object-resource-impedance-mismatch/)"
+            ],
+            [
+              "6",
+              "[@jslegers](https://github.com/jslegers)/[**4inarow**](https://github.com/jslegers/4inarow)",
+              "Four in a Row",
+              ""
+            ],
+            [
+              "5",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**tsv-to-json**](https://github.com/RubenVerborgh/tsv-to-json)",
+              "TSV to JSON converts a list of numbered, tab-separated records with header row to a tree of JSON files.",
+              "[:arrow_upper_right:](https://npmjs.org/package/tsv-to-json)"
+            ],
+            [
+              "5",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**UmbracoPageNotFoundM…**](https://github.com/TimGeyssens/UmbracoPageNotFoundManager)",
+              "Addon to Umbraco 7 to manage your sites 404 page(s)",
+              "[:arrow_upper_right:](http://www.nibble.be/?p=460)"
+            ],
+            [
+              "5",
+              "[@g00glen00b](https://github.com/g00glen00b)/[**ibm-worklight-angula…**](https://github.com/g00glen00b/ibm-worklight-angular)",
+              "A simple todo-app called YaTa (Yet Another Todo App) with only one goal: to create an IBM Worklight mobile app using AngularJS and the Ionic UI framework.",
+              ""
+            ],
+            [
+              "5",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**UmbracoMVCBackoffice…**](https://github.com/TimGeyssens/UmbracoMVCBackofficePages)",
+              "Sample app that shows how to extend the Umbraco backoffice using MVC instead of Webforms",
+              ""
+            ],
+            [
+              "5",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**EyeClient**](https://github.com/RubenVerborgh/EyeClient)",
+              "EyeClient is a browser widget for the EYE reasoner.",
+              "[:arrow_upper_right:](http://reasoning.restdesc.org/)"
+            ],
+            [
+              "5",
+              "[@gillesdemey](https://github.com/gillesdemey)/[**soundcloud-v2**](https://github.com/gillesdemey/soundcloud-v2)",
+              "Client for SoundCloud's API v2",
+              ""
+            ],
+            [
+              "5",
+              "[@doomhz](https://github.com/doomhz)/[**jQuery-Carousel**](https://github.com/doomhz/jQuery-Carousel)",
+              "A simple javascript carousel for sliding NOT only images.",
+              "[:arrow_upper_right:](http://dumitruglavan.com/jquery-doom-carousel-plugin/)"
+            ],
+            [
+              "5",
+              "[@RobinMalfait](https://github.com/RobinMalfait)/[**Assistant**](https://github.com/RobinMalfait/Assistant)",
+              "A personal assistant side project.",
+              ""
+            ],
+            [
+              "5",
+              "[@doomhz](https://github.com/doomhz)/[**jQuery-Doom-Windows**](https://github.com/doomhz/jQuery-Doom-Windows)",
+              "jQuery plugin to display modal windows and alerts.",
+              "[:arrow_upper_right:](http://dumitruglavan.com/jquery-doom-windows-plugin-simple-javascript-dialogs/)"
+            ],
+            [
+              "5",
+              "[@Wolfr](https://github.com/Wolfr)/[**jquery.extendedinput**](https://github.com/Wolfr/jquery.extendedinput)",
+              "jquery.extendedinput plugin",
+              ""
+            ],
+            [
+              "5",
+              "[@gillesdemey](https://github.com/gillesdemey)/[**systemdify**](https://github.com/gillesdemey/systemdify)",
+              ":penguin: Automatically create a systemd unit file for your Node application",
+              ""
+            ],
+            [
+              "5",
+              "[@duivvv](https://github.com/duivvv)/[**gulp-clipboard**](https://github.com/duivvv/gulp-clipboard)",
+              "A gulp plugin to copy the content of your file to the clipboard",
+              ""
+            ],
+            [
+              "5",
+              "[@Wolfr](https://github.com/Wolfr)/[**jquery.bootstrap.sim…**](https://github.com/Wolfr/jquery.bootstrap.simple.lightbox)",
+              "Very simple jQuery lightbox",
+              ""
+            ],
+            [
+              "5",
+              "[@g00glen00b](https://github.com/g00glen00b)/[**meteor-twitter-strea…**](https://github.com/g00glen00b/meteor-twitter-stream)",
+              "With Meteor you can write really cool apps in a few minutes. In this example I'm going to give you a live Twitter feed using the streaming API.",
+              ""
+            ],
+            [
+              "4",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**AsyncIterator**](https://github.com/RubenVerborgh/AsyncIterator)",
+              "An asynchronous iterator library for advanced object pipelines in JavaScript",
+              "[:arrow_upper_right:](http://rubenverborgh.github.io/AsyncIterator/docs/)"
+            ],
+            [
+              "4",
+              "[@Wolfr](https://github.com/Wolfr)/[**jquery.jekyll.global…**](https://github.com/Wolfr/jquery.jekyll.globalnav)",
+              "This repo shows an example setup to make HTML prototypes with page states and a global menu to navigate between pages.",
+              ""
+            ],
+            [
+              "4",
+              "[@RobinMalfait](https://github.com/RobinMalfait)/[**StartWithNodeWebkit**](https://github.com/RobinMalfait/StartWithNodeWebkit)",
+              "Want to start with node-webkit? No problem !",
+              ""
+            ],
+            [
+              "4",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**EazyD**](https://github.com/TimGeyssens/EazyD)",
+              "Eazy d for Umbraco, makes it easier to work with Dictionary Items ",
+              ""
+            ],
+            [
+              "4",
+              "[@bramus](https://github.com/bramus)/[**jquery_classdata**](https://github.com/bramus/jquery_classdata)",
+              "jQuery ClassData is a jQuery plugin that allows you to access and manipulate data saved in the class property of DOM-elements in a nice and easy to use way.",
+              "[:arrow_upper_right:](http://www.bram.us/2009/02/09/accessing-data-saved-in-the-class-property-of-dom-elements-with-jquery/)"
+            ],
+            [
+              "4",
+              "[@boblemarin](https://github.com/boblemarin)/[**ArcTween.js**](https://github.com/boblemarin/ArcTween.js)",
+              "Draw and animate arcs",
+              "[:arrow_upper_right:](http://boblemarin.github.io/ArcTween.js/)"
+            ],
+            [
+              "4",
+              "[@rubenv](https://github.com/rubenv)/[**angular-async-series**](https://github.com/rubenv/angular-async-series)",
+              "Apply an action to a set of data serially.",
+              ""
+            ],
+            [
+              "4",
+              "[@jslegers](https://github.com/jslegers)/[**cascadeframeworkadva…**](https://github.com/jslegers/cascadeframeworkadvanced)",
+              "Cascade Framework integrated with jQuery UI",
+              ""
+            ],
+            [
+              "4",
+              "[@Wolfr](https://github.com/Wolfr)/[**jquery.multiadder**](https://github.com/Wolfr/jquery.multiadder)",
+              "jquery.multiadder plugin",
+              ""
+            ],
+            [
+              "4",
+              "[@amigrave](https://github.com/amigrave)/[**ringo-mongodb**](https://github.com/amigrave/ringo-mongodb)",
+              "MongoDB driver for Ringo.js",
+              ""
+            ],
+            [
+              "3",
+              "[@rubenv](https://github.com/rubenv)/[**point-in-svg-polygon**](https://github.com/rubenv/point-in-svg-polygon)",
+              "Determine if an point is inside a polygon",
+              ""
+            ],
+            [
+              "3",
+              "[@doomhz](https://github.com/doomhz)/[**node-darkcoin**](https://github.com/doomhz/node-darkcoin)",
+              "Communicate with darkcoind via JSON-RPC",
+              ""
+            ],
+            [
+              "3",
+              "[@gillesdemey](https://github.com/gillesdemey)/[**beer-names**](https://github.com/gillesdemey/beer-names)",
+              ":beer: Get a unique random name that sounds like it could be a beer",
+              ""
+            ],
+            [
+              "3",
+              "[@philipdesmedt](https://github.com/philipdesmedt)/[**ycappreview**](https://github.com/philipdesmedt/ycappreview)",
+              "Allows YC applicants to export their YC application into a format used for reviewing. Can be used to share with advisors, YC alumni, friends, family, etc...",
+              ""
+            ],
+            [
+              "3",
+              "[@madewulf](https://github.com/madewulf)/[**dataviz03**](https://github.com/madewulf/dataviz03)",
+              "Code for the Dataviz03 workshop (http://dwm.infographie-sup.be/dataviz03…",
+              "[:arrow_upper_right:](http://madewulf.github.com/dataviz03/namur.html)"
+            ],
+            [
+              "3",
+              "[@rubenv](https://github.com/rubenv)/[**angular-optimistic-m…**](https://github.com/rubenv/angular-optimistic-model)",
+              "Optimistically cached models for Angular.JS.",
+              ""
+            ],
+            [
+              "3",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**LookWhosEditingToo**](https://github.com/TimGeyssens/LookWhosEditingToo)",
+              "Avoid conflicting edits in Umbraco v7",
+              ""
+            ],
+            [
+              "3",
+              "[@eschnou](https://github.com/eschnou)/[**node-o3-xml**](https://github.com/eschnou/node-o3-xml)",
+              "NodeJS library for W3C-DOM XML api with XPath and namespaces. It is based on LibXML2",
+              "[:arrow_upper_right:](http://www.ajax.org/#o3)"
+            ],
+            [
+              "3",
+              "[@boblemarin](https://github.com/boblemarin)/[**AnimationEvents**](https://github.com/boblemarin/AnimationEvents)",
+              "simple utility script that generates constants for CSS animation and transition events",
+              ""
+            ],
+            [
+              "3",
+              "[@g00glen00b](https://github.com/g00glen00b)/[**angular-d3-demo**](https://github.com/g00glen00b/angular-d3-demo)",
+              "This demonstrative project show you how you could integrate D3.js with AngularJS by defining proper directives.",
+              ""
+            ],
+            [
+              "3",
+              "[@gillesdemey](https://github.com/gillesdemey)/[**cli-progress-bar**](https://github.com/gillesdemey/cli-progress-bar)",
+              ":clock9: A simple CLI progress bar, inspired by Gauge",
+              ""
+            ],
+            [
+              "3",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**DataPublicationPlatf…**](https://github.com/RubenVerborgh/DataPublicationPlatform)",
+              "An example data publication platform following the REST architectural principles",
+              "[:arrow_upper_right:](http://dataplatform.freeyourmetadata.org/)"
+            ],
+            [
+              "3",
+              "[@veggiemonk](https://github.com/veggiemonk)/[**boilerplate-jspm-mit…**](https://github.com/veggiemonk/boilerplate-jspm-mithril-jsx-sass)",
+              "[old] boilerplate jspm, es6, mithril, jsx and sass",
+              ""
+            ],
+            [
+              "2",
+              "[@g00glen00b](https://github.com/g00glen00b)/[**spring-marvel-portle…**](https://github.com/g00glen00b/spring-marvel-portlet)",
+              "This project demonstrates a basic portlet application with the data provided by the Marvel REST API as business data.",
+              ""
+            ],
+            [
+              "2",
+              "[@rubenv](https://github.com/rubenv)/[**grunt-usemin-uglifyn…**](https://github.com/rubenv/grunt-usemin-uglifynew)",
+              "Usemin uglify task that reuses existing .min files.",
+              ""
+            ],
+            [
+              "2",
+              "[@RobinMalfait](https://github.com/RobinMalfait)/[**JavascriptTesting**](https://github.com/RobinMalfait/JavascriptTesting)",
+              "BDD with Jasmine and coffeescript!",
+              ""
+            ],
+            [
+              "2",
+              "[@RobinMalfait](https://github.com/RobinMalfait)/[**Lister**](https://github.com/RobinMalfait/Lister)",
+              "List your files",
+              ""
+            ],
+            [
+              "2",
+              "[@RobinMalfait](https://github.com/RobinMalfait)/[**Laravel-paste**](https://github.com/RobinMalfait/Laravel-paste)",
+              "Paste to laravel using Sublime Text 2",
+              ""
+            ],
+            [
+              "2",
+              "[@rubenv](https://github.com/rubenv)/[**js-validate**](https://github.com/rubenv/js-validate)",
+              "JSHint wrapper + validation profiles",
+              ""
+            ],
+            [
+              "2",
+              "[@doomhz](https://github.com/doomhz)/[**jQuery-Feedback-Badg…**](https://github.com/doomhz/jQuery-Feedback-Badge)",
+              "Floating div placed on the right or left side of the page that doesn't move on pagescroll. When you click on it - you get a feedback form. Works on jQuery javascript library.",
+              "[:arrow_upper_right:](http://dumitruglavan.com/jquery-feedback-badge/)"
+            ],
+            [
+              "2",
+              "[@doomhz](https://github.com/doomhz)/[**jQuery-MessageBox-Ha…**](https://github.com/doomhz/jQuery-MessageBox-Handler)",
+              "A simple handler for textareas to show a counter and default text on empty.",
+              "[:arrow_upper_right:](http://dumitruglavan.com/jquery-messagebox-handler-plugin/)"
+            ],
+            [
+              "2",
+              "[@Wolfr](https://github.com/Wolfr)/[**clank-jekyll**](https://github.com/Wolfr/clank-jekyll)",
+              "Clank starter project (depending on Jekyll)",
+              ""
+            ],
+            [
+              "2",
+              "[@tvcutsem](https://github.com/tvcutsem)/[**ProxyArray**](https://github.com/tvcutsem/ProxyArray)",
+              "Array implementation with ECMAScript Harmony proxies",
+              ""
+            ],
+            [
+              "2",
+              "[@bramus](https://github.com/bramus)/[**wmd-course-materials**](https://github.com/bramus/wmd-course-materials)",
+              "Course materials for the course Web & Mobile Development, part of the Professional Bachelor ICT study programme.",
+              ""
+            ],
+            [
+              "2",
+              "[@jslegers](https://github.com/jslegers)/[**crockfordkeyboard**](https://github.com/jslegers/crockfordkeyboard)",
+              "Crockford Keyboard",
+              ""
+            ],
+            [
+              "2",
+              "[@gillesdemey](https://github.com/gillesdemey)/[**node_analytics**](https://github.com/gillesdemey/node_analytics)",
+              "Node Analytics with Server Sent Events",
+              "[:arrow_upper_right:](http://node-analytics.herokuapp.com/)"
+            ],
+            [
+              "2",
+              "[@rubenv](https://github.com/rubenv)/[**backbone_test**](https://github.com/rubenv/backbone_test)",
+              "Toying around with Node.js and Backbone.js",
+              ""
+            ],
+            [
+              "2",
+              "[@RubenVerborgh](https://github.com/RubenVerborgh)/[**InnoversityChallenge**](https://github.com/RubenVerborgh/InnoversityChallenge)",
+              "Pitch for the Ghent University Innoversity Challenge",
+              "[:arrow_upper_right:](http://rubenverborgh.github.io/InnoversityChallenge/)"
+            ],
+            [
+              "2",
+              "[@luruke](https://github.com/luruke)/[**appear-animation**](https://github.com/luruke/appear-animation)",
+              "Easily add animation when elements comes in the viewport.",
+              ""
+            ],
+            [
+              "2",
+              "[@boblemarin](https://github.com/boblemarin)/[**WebAudio-API-BeatFad…**](https://github.com/boblemarin/WebAudio-API-BeatFader--iPad---Teensy-)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@philipdesmedt](https://github.com/philipdesmedt)/[**node-hnsearch**](https://github.com/philipdesmedt/node-hnsearch)",
+              "HNSearch API wrapper for Node.JS",
+              ""
+            ],
+            [
+              "2",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**MyFirstBellePropEdit…**](https://github.com/TimGeyssens/MyFirstBellePropEditor)",
+              "A char limit prop editor for Umbraco 7 aka Belle",
+              ""
+            ],
+            [
+              "2",
+              "[@doomhz](https://github.com/doomhz)/[**jQuery-Hash-Form**](https://github.com/doomhz/jQuery-Hash-Form)",
+              "Get form values as object.",
+              "[:arrow_upper_right:](http://dumitruglavan.com)"
+            ],
+            [
+              "2",
+              "[@TimGeyssens](https://github.com/TimGeyssens)/[**LocatorRazorStyle**](https://github.com/TimGeyssens/LocatorRazorStyle)",
+              "Locator package for Umbraco",
+              ""
+            ],
+            [
+              "2",
+              "[@doomhz](https://github.com/doomhz)/[**jQuery-Doom-Tooltip**](https://github.com/doomhz/jQuery-Doom-Tooltip)",
+              "Display tooltips and bubbles on your site.",
+              "[:arrow_upper_right:](http://dumitruglavan.com)"
+            ]
+          ]
+        }
+      }
+    ]
+  }
 }
