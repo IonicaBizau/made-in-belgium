@@ -59,7 +59,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -3387,6 +3388,237 @@
               "3",
               "[@CyclotronResearchCen…](https://github.com/CyclotronResearchCentre)/[**SPM_ClusterSizeThres…**](https://github.com/CyclotronResearchCentre/SPM_ClusterSizeThreshold)",
               "SPM Cluster Size Threshold estimation",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "363",
+              "[@brunow](https://github.com/brunow)/[**BWStatusBarOverlay**](https://github.com/brunow/BWStatusBarOverlay)",
+              "BWStatusBarOverlay is a custom status bar overlay window.",
+              ""
+            ],
+            [
+              "306",
+              "[@brunow](https://github.com/brunow)/[**NoteItIOS**](https://github.com/brunow/NoteItIOS)",
+              "Ios markdown notebook",
+              "[:arrow_upper_right:](https://twitter.com/brunowernimont)"
+            ],
+            [
+              "289",
+              "[@brunow](https://github.com/brunow)/[**FormKit.m**](https://github.com/brunow/FormKit.m)",
+              "Not maintained anymore",
+              "[:arrow_upper_right:](https://twitter.com/brunowernimont)"
+            ],
+            [
+              "283",
+              "[@brunow](https://github.com/brunow)/[**BaseKit**](https://github.com/brunow/BaseKit)",
+              "BaseKit is a set of IOS class to make your life easier.",
+              "[:arrow_upper_right:](https://twitter.com/brunowernimont)"
+            ],
+            [
+              "173",
+              "[@frederik-jacques](https://github.com/frederik-jacques)/[**TNCheckBoxGroup**](https://github.com/frederik-jacques/TNCheckBoxGroup)",
+              "Customisable checkbox class for Objective-C",
+              "[:arrow_upper_right:](http://blog.the-nerd.be/2014/04/tncheckboxgroup-custom-checkboxes-for-objective-c/)"
+            ],
+            [
+              "152",
+              "[@frederik-jacques](https://github.com/frederik-jacques)/[**TNSexyImageUploadPro…**](https://github.com/frederik-jacques/TNSexyImageUploadProgress)",
+              "An easy image upload visualiser for Objective-C",
+              ""
+            ],
+            [
+              "138",
+              "[@frederik-jacques](https://github.com/frederik-jacques)/[**TNRadioButtonGroup**](https://github.com/frederik-jacques/TNRadioButtonGroup)",
+              "Create easy radio button groups in objective-c",
+              "[:arrow_upper_right:](http://blog.the-nerd.be/2014/04/tnradiobuttongroup-radio-buttons-for-objective-c/)"
+            ],
+            [
+              "131",
+              "[@brunow](https://github.com/brunow)/[**BWObjectMapping**](https://github.com/brunow/BWObjectMapping)",
+              "Small library that parse almost automatically JSON and map it to any object, works with NSManagedObject.",
+              "[:arrow_upper_right:](https://twitter.com/brunowernimont)"
+            ],
+            [
+              "105",
+              "[@brunow](https://github.com/brunow)/[**BWTitlePagerView**](https://github.com/brunow/BWTitlePagerView)",
+              "Recreate the Twitter navigation controller pager.",
+              "[:arrow_upper_right:](https://twitter.com/brunowernimont)"
+            ],
+            [
+              "96",
+              "[@jeroentrappers](https://github.com/jeroentrappers)/[**FaceDetectionPOC**](https://github.com/jeroentrappers/FaceDetectionPOC)",
+              "Face detection with Core Image on Live Video Proof of Concept",
+              ""
+            ],
+            [
+              "76",
+              "[@SkyTrix](https://github.com/SkyTrix)/[**STSegmentedControl**](https://github.com/SkyTrix/STSegmentedControl)",
+              "STSegmentedControl is a drop-in replacement for UISegmentedControl. It has everything you need to display a custom nice-looking segmented control.",
+              ""
+            ],
+            [
+              "55",
+              "[@brunow](https://github.com/brunow)/[**TableKit.m**](https://github.com/brunow/TableKit.m)",
+              "Create table view with blocks based syntax.",
+              "[:arrow_upper_right:](https://twitter.com/brunowernimont)"
+            ],
+            [
+              "39",
+              "[@frederik-jacques](https://github.com/frederik-jacques)/[**native-ios-and-unity…**](https://github.com/frederik-jacques/native-ios-and-unity3d)",
+              "",
+              ""
+            ],
+            [
+              "36",
+              "[@delannoyk](https://github.com/delannoyk)/[**SoundcloudSDK**](https://github.com/delannoyk/SoundcloudSDK)",
+              "A Client for Soundcloud's API written in Swift!",
+              ""
+            ],
+            [
+              "25",
+              "[@SkyTrix](https://github.com/SkyTrix)/[**STBubbleTableViewCel…**](https://github.com/SkyTrix/STBubbleTableViewCell)",
+              "STBubbleTableViewCell is a UITableViewCell subclass for easily displaying chat conversations.",
+              ""
+            ],
+            [
+              "23",
+              "[@jeroentrappers](https://github.com/jeroentrappers)/[**LocalizationPOC**](https://github.com/jeroentrappers/LocalizationPOC)",
+              "Localization proof of concept for iOS. Let's you change the language on the fly.",
+              ""
+            ],
+            [
+              "21",
+              "[@frederik-jacques](https://github.com/frederik-jacques)/[**objc-login-system**](https://github.com/frederik-jacques/objc-login-system)",
+              "An easy way to create a login system in obj-c",
+              "[:arrow_upper_right:](http://blog.the-nerd.be/2013/03/objective-c-login-system-tutorial/)"
+            ],
+            [
+              "18",
+              "[@brunow](https://github.com/brunow)/[**ITWLoadingPanel**](https://github.com/brunow/ITWLoadingPanel)",
+              "Drop in classes for adding a download info panel",
+              ""
+            ],
+            [
+              "17",
+              "[@frederik-jacques](https://github.com/frederik-jacques)/[**TNColorScrollViewCon…**](https://github.com/frederik-jacques/TNColorScrollViewController)",
+              "A view controller for Objective-C which creates a scrollview with view with different background colors.",
+              "[:arrow_upper_right:](http://blog.the-nerd.be/2014/08/tncolorscrollviewcontroller-easy-scrollview-with-different-color-views/)"
+            ],
+            [
+              "16",
+              "[@bartvandendriessche](https://github.com/bartvandendriessche)/[**MKMapView-Attributio…**](https://github.com/bartvandendriessche/MKMapView-AttributionView)",
+              "A MKMapView category that adds a method to obtain the AttributionView.",
+              ""
+            ],
+            [
+              "15",
+              "[@brunow](https://github.com/brunow)/[**BWAFNetworking**](https://github.com/brunow/BWAFNetworking)",
+              "Restfull http library inspired by the great RestKit and based on top of Afnetworking.",
+              "[:arrow_upper_right:](https://twitter.com/brunowernimont)"
+            ],
+            [
+              "13",
+              "[@brunow](https://github.com/brunow)/[**BWSelectViewControll…**](https://github.com/brunow/BWSelectViewController)",
+              "Controller that show a list of items that can be selectable.",
+              ""
+            ],
+            [
+              "12",
+              "[@frederik-jacques](https://github.com/frederik-jacques)/[**DynamicColladaSceneK…**](https://github.com/frederik-jacques/DynamicColladaSceneKitPrototype)",
+              "You can find more info about this prototype at http://www.the-nerd.be/2014/11/07/dynami…",
+              ""
+            ],
+            [
+              "12",
+              "[@brunow](https://github.com/brunow)/[**BWObjectSerializer**](https://github.com/brunow/BWObjectSerializer)",
+              "Small library that transform an object into a dictionary that can be send to a web service.",
+              "[:arrow_upper_right:](https://twitter.com/brunowernimont)"
+            ],
+            [
+              "9",
+              "[@frederik-jacques](https://github.com/frederik-jacques)/[**FaceRecognitionTrain…**](https://github.com/frederik-jacques/FaceRecognitionTrainer)",
+              "iPhone prototype app for Face.com",
+              ""
+            ],
+            [
+              "6",
+              "[@brunow](https://github.com/brunow)/[**BWLongTextViewContro…**](https://github.com/brunow/BWLongTextViewController)",
+              "Simple IOS controller that show a full screen textView with keyboard",
+              ""
+            ],
+            [
+              "5",
+              "[@hverlind](https://github.com/hverlind)/[**ibeacon-observer**](https://github.com/hverlind/ibeacon-observer)",
+              "Sample code illustrating how to make an iPad function as an iBeacon observer.",
+              ""
+            ],
+            [
+              "5",
+              "[@hverlind](https://github.com/hverlind)/[**ibeacon-interpolatio…**](https://github.com/hverlind/ibeacon-interpolation)",
+              "Sample code illustrating how to determine observer position by interpolating multiple iBeacons.",
+              ""
+            ],
+            [
+              "5",
+              "[@brunow](https://github.com/brunow)/[**BWObjectRouter**](https://github.com/brunow/BWObjectRouter)",
+              "Small library that generate route with static or dynamic data.",
+              ""
+            ],
+            [
+              "4",
+              "[@frederik-jacques](https://github.com/frederik-jacques)/[**ZDepthAnimation**](https://github.com/frederik-jacques/ZDepthAnimation)",
+              "Mimic the National Geographic - National Parcs iPad app animation",
+              "[:arrow_upper_right:](http://blog.the-nerd.be/2013/06/national-geographic-uikit-transition-demo/)"
+            ],
+            [
+              "4",
+              "[@jeroentrappers](https://github.com/jeroentrappers)/[**JsonKit-Framework**](https://github.com/jeroentrappers/JsonKit-Framework)",
+              "JsonKit wrapped in an iOS framework",
+              ""
+            ],
+            [
+              "2",
+              "[@pieterclaerhout](https://github.com/pieterclaerhout)/[**Rachel**](https://github.com/pieterclaerhout/Rachel)",
+              "Rachel, the fuel tracker",
+              "[:arrow_upper_right:](http://apps.yellowduck.be/rachel/)"
+            ],
+            [
+              "2",
+              "[@hverlind](https://github.com/hverlind)/[**ibeacon-beacon**](https://github.com/hverlind/ibeacon-beacon)",
+              "Sample code illustrating how to make an iPad function as an iBeacon that can be switched on/off.",
+              ""
+            ],
+            [
+              "2",
+              "[@bartvandendriessche](https://github.com/bartvandendriessche)/[**The-Grid**](https://github.com/bartvandendriessche/The-Grid)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@joachimVdH](https://github.com/joachimVdH)/[**myProxiData**](https://github.com/joachimVdH/myProxiData)",
+              "An app i created for learning and out of frustration that Proximus didn't had one ( now they do ). All you need is a Proximus data account and login credentials ( https://secure.proximus.be ).",
+              "[:arrow_upper_right:](http://www.4d.be/apps/myProxiData)"
+            ],
+            [
+              "2",
+              "[@ValCapri](https://github.com/ValCapri)/[**CSNotificationView-A…**](https://github.com/ValCapri/CSNotificationView-AFNetworking)",
+              "A AFNetwork extension that show a notification on error in a task or request (like UIAlertView+AFNetworking)",
               ""
             ]
           ]
