@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[HTML](#html)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -2699,6 +2700,45 @@
               "2",
               "[@neuroprod](https://github.com/neuroprod)/[**balancingRobot**](https://github.com/neuroprod/balancingRobot)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "78",
+              "[@luwes](https://github.com/luwes)/[**js-cover-flow**](https://github.com/luwes/js-cover-flow)",
+              "A Cover Flow component made for the web",
+              "[:arrow_upper_right:](http://luwes.co/projects/js-cover-flow/)"
+            ],
+            [
+              "3",
+              "[@RIAstar](https://github.com/RIAstar)/[**CallOutFx**](https://github.com/RIAstar/CallOutFx)",
+              "A Flex/Spark CallOut and CallOutButton for web or desktop applications",
+              ""
+            ],
+            [
+              "2",
+              "[@ThibautVDB](https://github.com/ThibautVDB)/[**Chess-interface**](https://github.com/ThibautVDB/Chess-interface)",
+              "Unfinished chess interface in AS3",
+              ""
+            ],
+            [
+              "2",
+              "[@luwes](https://github.com/luwes)/[**Zebroid**](https://github.com/luwes/Zebroid)",
+              "Simple 2D line drawing library for Flash Stage3D (aka Molehill)",
               ""
             ]
           ]
