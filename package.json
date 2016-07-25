@@ -68,7 +68,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -6051,6 +6052,111 @@
               "2",
               "[@Nexmind](https://github.com/Nexmind)/[**Swiftizy**](https://github.com/Nexmind/Swiftizy)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "59",
+              "[@fmoralesc](https://github.com/fmoralesc)/[**vim-tutor-mode**](https://github.com/fmoralesc/vim-tutor-mode)",
+              "interactive tutorials for vim",
+              ""
+            ],
+            [
+              "23",
+              "[@vhdirk](https://github.com/vhdirk)/[**vim-cmake**](https://github.com/vhdirk/vim-cmake)",
+              "Vim plugin to make working with CMake a little nicer",
+              ""
+            ],
+            [
+              "19",
+              "[@teranex](https://github.com/teranex)/[**dotvim**](https://github.com/teranex/dotvim)",
+              "my personal vim configuration",
+              "[:arrow_upper_right:](http://budts.be/projects/vim)"
+            ],
+            [
+              "15",
+              "[@teranex](https://github.com/teranex)/[**vimwiki-tasks**](https://github.com/teranex/vimwiki-tasks)",
+              "A Vim plugin to integrate Vimwiki tasks with taskwarrior. Sync tasks between vimwiki and taskwarrior in both directions",
+              ""
+            ],
+            [
+              "14",
+              "[@folke](https://github.com/folke)/[**dotfiles**](https://github.com/folke/dotfiles)",
+              "All my bash / vim / ... stuff",
+              ""
+            ],
+            [
+              "9",
+              "[@fmoralesc](https://github.com/fmoralesc)/[**vim-pinpoint**](https://github.com/fmoralesc/vim-pinpoint)",
+              "Support for pinpoint syntax",
+              "[:arrow_upper_right:](https://live.gnome.org/Pinpoint)"
+            ],
+            [
+              "7",
+              "[@fmoralesc](https://github.com/fmoralesc)/[**molokayo**](https://github.com/fmoralesc/molokayo)",
+              "molokai variations",
+              ""
+            ],
+            [
+              "7",
+              "[@Numkil](https://github.com/Numkil)/[**VimConf**](https://github.com/Numkil/VimConf)",
+              ".vimrc for vim. Quick install on new machines",
+              ""
+            ],
+            [
+              "5",
+              "[@teranex](https://github.com/teranex)/[**jk-jumps.vim**](https://github.com/teranex/jk-jumps.vim)",
+              "Handle movements with j/k as if they were real jumps",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=4395)"
+            ],
+            [
+              "3",
+              "[@fmoralesc](https://github.com/fmoralesc)/[**dotfiles**](https://github.com/fmoralesc/dotfiles)",
+              "dotfiles",
+              ""
+            ],
+            [
+              "3",
+              "[@fmoralesc](https://github.com/fmoralesc)/[**acme.vim**](https://github.com/fmoralesc/acme.vim)",
+              "acme-like mouse bindings for vim",
+              ""
+            ],
+            [
+              "3",
+              "[@fmoralesc](https://github.com/fmoralesc)/[**vim-autogit**](https://github.com/fmoralesc/vim-autogit)",
+              "autocommit changes to a file to an independent git repository",
+              ""
+            ],
+            [
+              "3",
+              "[@fmoralesc](https://github.com/fmoralesc)/[**vim-vitamins**](https://github.com/fmoralesc/vim-vitamins)",
+              "",
+              "[:arrow_upper_right:](http://hcalves.deviantart.com/art/Vitamins-Vim-Colorscheme-98630379)"
+            ],
+            [
+              "2",
+              "[@groggemans](https://github.com/groggemans)/[**dot-vim**](https://github.com/groggemans/dot-vim)",
+              "My vim configuration - [ Ellipsis package ]",
+              ""
+            ],
+            [
+              "2",
+              "[@fmoralesc](https://github.com/fmoralesc)/[**vim-iolang**](https://github.com/fmoralesc/vim-iolang)",
+              "io programming language support for vim",
               ""
             ]
           ]
