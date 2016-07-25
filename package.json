@@ -57,7 +57,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -3307,6 +3308,51 @@
               "2",
               "[@noteed](https://github.com/noteed)/[**snaplet-auth-example**](https://github.com/noteed/snaplet-auth-example)",
               "Example usage of Snap.Snaplet.Auth",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "45",
+              "[@RafaelDeJongh](https://github.com/RafaelDeJongh)/[**cap**](https://github.com/RafaelDeJongh/cap)",
+              "Carter Addons Pack Code",
+              ""
+            ],
+            [
+              "36",
+              "[@RafaelDeJongh](https://github.com/RafaelDeJongh)/[**cap_resources**](https://github.com/RafaelDeJongh/cap_resources)",
+              "Cap resource files",
+              ""
+            ],
+            [
+              "5",
+              "[@FlightControl-Master](https://github.com/FlightControl-Master)/[**MOOSE**](https://github.com/FlightControl-Master/MOOSE)",
+              "Mission Object Oriented Scripting Environment (MOOSE) for lua mission scripting design in DCS World",
+              ""
+            ],
+            [
+              "2",
+              "[@gogoprog](https://github.com/gogoprog)/[**mechabot**](https://github.com/gogoprog/mechabot)",
+              "A shooter game using gengine",
+              ""
+            ],
+            [
+              "2",
+              "[@samvdb](https://github.com/samvdb)/[**awesome-config**](https://github.com/samvdb/awesome-config)",
+              "",
               ""
             ]
           ]
