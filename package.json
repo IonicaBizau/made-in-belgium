@@ -54,7 +54,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -2779,6 +2780,123 @@
               "2",
               "[@phochste](https://github.com/phochste)/[**clj-layar**](https://github.com/phochste/clj-layar)",
               "Clojure application to push POI's on the internet",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "83",
+              "[@debrouwere](https://github.com/debrouwere)/[**draughtsman**](https://github.com/debrouwere/draughtsman)",
+              "Transparent compilation of templates and stylesheets for prototyping HTML interfaces. Also live reloading.",
+              ""
+            ],
+            [
+              "20",
+              "[@debrouwere](https://github.com/debrouwere)/[**backbone-express**](https://github.com/debrouwere/backbone-express)",
+              "Backbone-express serves Backbone applications with a server-side fallback, so they're visible to search engines.",
+              ""
+            ],
+            [
+              "10",
+              "[@tgoorden](https://github.com/tgoorden)/[**meteor-backup**](https://github.com/tgoorden/meteor-backup)",
+              "A simple (coffee)script to make backups of collections on your remote meteor installation",
+              ""
+            ],
+            [
+              "8",
+              "[@debrouwere](https://github.com/debrouwere)/[**hector**](https://github.com/debrouwere/hector)",
+              "Hector is a static site generator.",
+              ""
+            ],
+            [
+              "8",
+              "[@debrouwere](https://github.com/debrouwere)/[**tilt.js**](https://github.com/debrouwere/tilt.js)",
+              "A generic interface to various JavaScript and CSS preprocessors. Autodetects formats based on filename and mimetype.",
+              ""
+            ],
+            [
+              "6",
+              "[@debrouwere](https://github.com/debrouwere)/[**render**](https://github.com/debrouwere/render)",
+              "Render text and HTML from Jade, Handlebars, Swig and most other kinds of templates on the command line. Render many files at once and decide where to write to dynamically from the data.",
+              ""
+            ],
+            [
+              "6",
+              "[@LnL7](https://github.com/LnL7)/[**example-travis-mocha**](https://github.com/LnL7/example-travis-mocha)",
+              "Travis CI example with Mocha tests",
+              ""
+            ],
+            [
+              "5",
+              "[@debrouwere](https://github.com/debrouwere)/[**summa**](https://github.com/debrouwere/summa)",
+              "Summa is a little CoffeeScript / JavaScript library for descriptive (summary) statistics and working with distributions (PMF, CDF). Open-source because why-the-heck-not, but don't expect any support.",
+              ""
+            ],
+            [
+              "4",
+              "[@debrouwere](https://github.com/debrouwere)/[**refract**](https://github.com/debrouwere/refract)",
+              "A command-line utility to reshape objects to a template. Destructuring assignment on steroids.",
+              ""
+            ],
+            [
+              "4",
+              "[@debrouwere](https://github.com/debrouwere)/[**math**](https://github.com/debrouwere/math)",
+              "A simple mathematics library for JavaScript that's pretty much the Math object on crack. Also has `random` and `coordinates` submodules.",
+              ""
+            ],
+            [
+              "4",
+              "[@debrouwere](https://github.com/debrouwere)/[**envv**](https://github.com/debrouwere/envv)",
+              "Environments for client-side code: execute or skip code depending on whether you're deploying to a production server or just developing.",
+              ""
+            ],
+            [
+              "3",
+              "[@debrouwere](https://github.com/debrouwere)/[**yaml2json**](https://github.com/debrouwere/yaml2json)",
+              "Convert YAML into JSON. Supports YAML frontmatter, YAML multidocs and other mixed text-and-yaml documents. Can process Textile, Markdown and AsciiDoc strings. Works on the command-line and in node.js.",
+              ""
+            ],
+            [
+              "3",
+              "[@debrouwere](https://github.com/debrouwere)/[**espy**](https://github.com/debrouwere/espy)",
+              "A context finder for static site generators and prototyping tools.",
+              ""
+            ],
+            [
+              "2",
+              "[@debrouwere](https://github.com/debrouwere)/[**stockpile**](https://github.com/debrouwere/stockpile)",
+              "Mimeo is the airplane mode for your application. Automatically cache and serve common JavaScript libraries or any kind of file from your development machine.",
+              ""
+            ],
+            [
+              "2",
+              "[@debrouwere](https://github.com/debrouwere)/[**flatten**](https://github.com/debrouwere/flatten)",
+              "A simple command-line utility that flattens and unflattens JSON.",
+              ""
+            ],
+            [
+              "2",
+              "[@debrouwere](https://github.com/debrouwere)/[**bones-coffeescript-e…**](https://github.com/debrouwere/bones-coffeescript-example)",
+              "A Backbone.js + Bones example app",
+              ""
+            ],
+            [
+              "2",
+              "[@debrouwere](https://github.com/debrouwere)/[**put**](https://github.com/debrouwere/put)",
+              "Put is a command-line utility to move, rename, copy and symlink files. Uses a simple placeholder syntax to transform input filenames to output filenames. Think of it as an easier-to-use but perhaps less powerful Linux rename.",
               ""
             ]
           ]
