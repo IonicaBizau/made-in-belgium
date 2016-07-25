@@ -60,7 +60,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -3619,6 +3620,51 @@
               "2",
               "[@ValCapri](https://github.com/ValCapri)/[**CSNotificationView-A…**](https://github.com/ValCapri/CSNotificationView-AFNetworking)",
               "A AFNetwork extension that show a notification on error in a task or request (like UIAlertView+AFNetworking)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "125",
+              "[@hollie](https://github.com/hollie)/[**misterhouse**](https://github.com/hollie/misterhouse)",
+              "Perl open source home automation program. It's fun, it's free, and it's entirely geeky.",
+              ""
+            ],
+            [
+              "100",
+              "[@wimpunk](https://github.com/wimpunk)/[**ddclient**](https://github.com/wimpunk/ddclient)",
+              "Fork of the original ddclient code",
+              "[:arrow_upper_right:](http://ddclient.sf.net)"
+            ],
+            [
+              "4",
+              "[@hollie](https://github.com/hollie)/[**lpc_usb_flasher**](https://github.com/hollie/lpc_usb_flasher)",
+              "Small script to automatically flash the latest bin file onto a bare metal LPC11U24 controller using the built-in USB boot loader ",
+              ""
+            ],
+            [
+              "2",
+              "[@nics](https://github.com/nics)/[**Dancer-Plugin-Locale**](https://github.com/nics/Dancer-Plugin-Locale)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@hollie](https://github.com/hollie)/[**device-plugwise-perl**](https://github.com/hollie/device-plugwise-perl)",
+              "Perl module to interface to Plugwise hardware",
               ""
             ]
           ]
