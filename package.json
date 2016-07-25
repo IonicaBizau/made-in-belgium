@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[HTML](#html)"
+          "[HTML](#html)",
+          "[C](undefined)"
         ]
       },
       {
@@ -2223,6 +2224,207 @@
               "2",
               "[@LucAllemeersch](https://github.com/LucAllemeersch)/[**OpenVMS-Oracle-Rdb-T…**](https://github.com/LucAllemeersch/OpenVMS-Oracle-Rdb-Toolset)",
               "Ready to use procedures for a database administrator of Oracle Rdb databases on OpenVMS. Refer to the users guide CPTRDB_USERS_GUIDE.HTML for all related information.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "107",
+              "[@lucasb-eyer](https://github.com/lucasb-eyer)/[**heatmap**](https://github.com/lucasb-eyer/heatmap)",
+              "High performance C heatmap generation library. Supposed to be wrapped by higher-level languages.",
+              ""
+            ],
+            [
+              "87",
+              "[@JiaoXianjun](https://github.com/JiaoXianjun)/[**BTLE**](https://github.com/JiaoXianjun/BTLE)",
+              "BTLE radio packet sniffer/scanner and sender. Support all formats in Core_V4.0.pdf and RAW bits.",
+              "[:arrow_upper_right:](http://sdr-x.github.io/)"
+            ],
+            [
+              "13",
+              "[@icarus75](https://github.com/icarus75)/[**flukso**](https://github.com/icarus75/flukso)",
+              "The community metering platform",
+              "[:arrow_upper_right:](http://www.flukso.net)"
+            ],
+            [
+              "11",
+              "[@andyvand](https://github.com/andyvand)/[**ReadSMC**](https://github.com/andyvand/ReadSMC)",
+              "EFI utility to read SMC keys from (U)EFI shell",
+              ""
+            ],
+            [
+              "11",
+              "[@gdetal](https://github.com/gdetal)/[**mptcp_nexus5**](https://github.com/gdetal/mptcp_nexus5)",
+              "MPTCP-enabled kernel for the Nexus 5",
+              "[:arrow_upper_right:](http://www.multipath-tcp.org)"
+            ],
+            [
+              "8",
+              "[@andyvand](https://github.com/andyvand)/[**AtherosROMKit**](https://github.com/andyvand/AtherosROMKit)",
+              "Atheros ROM modding and recovery kit",
+              ""
+            ],
+            [
+              "7",
+              "[@renaudallard](https://github.com/renaudallard)/[**nexus5_kernel**](https://github.com/renaudallard/nexus5_kernel)",
+              "FuguMod Kernel for the Nexus 5",
+              ""
+            ],
+            [
+              "7",
+              "[@andyvand](https://github.com/andyvand)/[**KextToolsLZVN_Maveri…**](https://github.com/andyvand/KextToolsLZVN_Mavericks)",
+              "Kext Tools 326.90.2 (AnV) updated with LZVN kernelcache decompression support",
+              ""
+            ],
+            [
+              "6",
+              "[@danielinux](https://github.com/danielinux)/[**libevquick**](https://github.com/danielinux/libevquick)",
+              "Event wrapper library designed for performance",
+              ""
+            ],
+            [
+              "5",
+              "[@andyvand](https://github.com/andyvand)/[**UEFIRomExtract**](https://github.com/andyvand/UEFIRomExtract)",
+              "UEFI Video Card ROM Extractor",
+              ""
+            ],
+            [
+              "5",
+              "[@gdetal](https://github.com/gdetal)/[**kernel_msm_mptcp**](https://github.com/gdetal/kernel_msm_mptcp)",
+              "Kernel tree for Qualcomm chipsets with Multipath TCP support ",
+              "[:arrow_upper_right:](http://multipath-tcp.org)"
+            ],
+            [
+              "4",
+              "[@maxux](https://github.com/maxux)/[**rtinfo**](https://github.com/maxux/rtinfo)",
+              "realtime system monitoring for linux",
+              ""
+            ],
+            [
+              "4",
+              "[@renaudallard](https://github.com/renaudallard)/[**gnexus_kernel**](https://github.com/renaudallard/gnexus_kernel)",
+              "kernel for the galaxy nexus: secure, stable, no nonsense",
+              ""
+            ],
+            [
+              "4",
+              "[@renaudallard](https://github.com/renaudallard)/[**kernel-GB-GTI9000**](https://github.com/renaudallard/kernel-GB-GTI9000)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@blinkseb](https://github.com/blinkseb)/[**libass**](https://github.com/blinkseb/libass)",
+              "libass for XBMC (win32 special)",
+              ""
+            ],
+            [
+              "4",
+              "[@gdetal](https://github.com/gdetal)/[**samsung_i9100_mptcp**](https://github.com/gdetal/samsung_i9100_mptcp)",
+              "MultiPath TCP port to the Samsung Galaxy SII phone",
+              ""
+            ],
+            [
+              "3",
+              "[@danielinux](https://github.com/danielinux)/[**ebhita**](https://github.com/danielinux/ebhita)",
+              "EBITHA is Binary Heap Type Agnostic Library Implementation",
+              ""
+            ],
+            [
+              "3",
+              "[@Krabappel2548](https://github.com/Krabappel2548)/[**u8500_kernel_sources**](https://github.com/Krabappel2548/u8500_kernel_sources)",
+              "kernel sources Xperia U, Sola, P",
+              ""
+            ],
+            [
+              "3",
+              "[@andete](https://github.com/andete)/[**blog-stuff**](https://github.com/andete/blog-stuff)",
+              "blog-stuff",
+              ""
+            ],
+            [
+              "3",
+              "[@danielinux](https://github.com/danielinux)/[**ttybus**](https://github.com/danielinux/ttybus)",
+              "A simple TTY multiplexer.",
+              ""
+            ],
+            [
+              "2",
+              "[@danielinux](https://github.com/danielinux)/[**geomess**](https://github.com/danielinux/geomess)",
+              "Geopositioning Mesh network Simulator - designed to test mesh networking on a controlled (virtual/simulated) environment",
+              ""
+            ],
+            [
+              "2",
+              "[@toch](https://github.com/toch)/[**mruby-untar**](https://github.com/toch/mruby-untar)",
+              "mrbgem untar",
+              ""
+            ],
+            [
+              "2",
+              "[@maxux](https://github.com/maxux)/[**memory**](https://github.com/maxux/memory)",
+              "linux memory usage summary",
+              ""
+            ],
+            [
+              "2",
+              "[@renaudallard](https://github.com/renaudallard)/[**kernel-froyo-GT-I900…**](https://github.com/renaudallard/kernel-froyo-GT-I9000)",
+              "Linux kernel source for froyo",
+              ""
+            ],
+            [
+              "2",
+              "[@andyvand](https://github.com/andyvand)/[**hwtools**](https://github.com/andyvand/hwtools)",
+              "Various hardware tools ported to Mac OS X",
+              ""
+            ],
+            [
+              "2",
+              "[@andyvand](https://github.com/andyvand)/[**decompkernelcache**](https://github.com/andyvand/decompkernelcache)",
+              "Mac OS X kernel cache compressor/decompressor",
+              ""
+            ],
+            [
+              "2",
+              "[@staalmannen](https://github.com/staalmannen)/[**owmc**](https://github.com/staalmannen/owmc)",
+              "Open Watcom message compiler",
+              ""
+            ],
+            [
+              "2",
+              "[@mcanini](https://github.com/mcanini)/[**INGI2347-2016**](https://github.com/mcanini/INGI2347-2016)",
+              "This repo contains the slides from the UCL course INGI2347: COMPUTER SYSTEM SECURITY (Spring 2016)",
+              ""
+            ],
+            [
+              "2",
+              "[@andyvand](https://github.com/andyvand)/[**AppleDecrypt**](https://github.com/andyvand/AppleDecrypt)",
+              "Apple Protected Binary decryption kext for Lion and above.",
+              ""
+            ],
+            [
+              "2",
+              "[@andyvand](https://github.com/andyvand)/[**openssl-winopt**](https://github.com/andyvand/openssl-winopt)",
+              "OpenSSL Optimized for latest Windows",
+              ""
+            ],
+            [
+              "2",
+              "[@andete](https://github.com/andete)/[**ym2413**](https://github.com/andete/ym2413)",
+              "openMSX YM2413 reverse engineering project",
               ""
             ]
           ]
