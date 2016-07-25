@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[HTML](#html)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -2425,6 +2426,279 @@
               "2",
               "[@andete](https://github.com/andete)/[**ym2413**](https://github.com/andete/ym2413)",
               "openMSX YM2413 reverse engineering project",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "132",
+              "[@glynos](https://github.com/glynos)/[**cpp-netlib**](https://github.com/glynos/cpp-netlib)",
+              "The C++ Network Library Project -- header-only, cross-platform, standards compliant networking library.",
+              "[:arrow_upper_right:](http://glynos.github.com/cpp-netlib/)"
+            ],
+            [
+              "83",
+              "[@Forceflow](https://github.com/Forceflow)/[**ooc_svo_builder**](https://github.com/Forceflow/ooc_svo_builder)",
+              "Out-Of-Core Construction of Sparse Voxel Octrees - reference implementation",
+              "[:arrow_upper_right:](http://graphics.cs.kuleuven.be/publications/BLD14OCCSVO/)"
+            ],
+            [
+              "68",
+              "[@Forceflow](https://github.com/Forceflow)/[**libmorton**](https://github.com/Forceflow/libmorton)",
+              "C++ header-only library with methods to efficiently encode/decode Morton codes in/from 2D/3D coordinates",
+              ""
+            ],
+            [
+              "60",
+              "[@claesenm](https://github.com/claesenm)/[**EnsembleSVM**](https://github.com/claesenm/EnsembleSVM)",
+              "A Library for Ensemble Learning Using Support Vector Machines",
+              ""
+            ],
+            [
+              "26",
+              "[@KurtPattyn](https://github.com/KurtPattyn)/[**QtSocketIo**](https://github.com/KurtPattyn/QtSocketIo)",
+              "socket.io implementation in Qt",
+              ""
+            ],
+            [
+              "23",
+              "[@SebWouters](https://github.com/SebWouters)/[**CheMPS2**](https://github.com/SebWouters/CheMPS2)",
+              "CheMPS2: a spin-adapted implementation of DMRG for ab initio quantum chemistry",
+              ""
+            ],
+            [
+              "22",
+              "[@lab101](https://github.com/lab101)/[**tronCircles**](https://github.com/lab101/tronCircles)",
+              "Josh Nimoy mentioned openFrameworks in his Tron Legacy post  So why not try it myself. After some pointers from arturo I managed to get these smooth gradient arcs.  Using the FBO and ofMesh from the upcoming openFrameworks 0.7 release. Running super smooth on macbook.",
+              "[:arrow_upper_right:](http://www.lab101.be/projects/tron-visual-experiment.html)"
+            ],
+            [
+              "18",
+              "[@neuroprod](https://github.com/neuroprod)/[**ClosedLoopDriver**](https://github.com/neuroprod/ClosedLoopDriver)",
+              "Arduino controler for a closed-loop stepper motor",
+              ""
+            ],
+            [
+              "17",
+              "[@psoetens](https://github.com/psoetens)/[**orocos-rtt**](https://github.com/psoetens/orocos-rtt)",
+              "Orocos Real-Time Toolkit",
+              "[:arrow_upper_right:](www.orocos.org/rtt)"
+            ],
+            [
+              "15",
+              "[@timvdm](https://github.com/timvdm)/[**Helium**](https://github.com/timvdm/Helium)",
+              "A lightweight generic cheminformatics toolkit",
+              ""
+            ],
+            [
+              "13",
+              "[@Forceflow](https://github.com/Forceflow)/[**svo_tools**](https://github.com/Forceflow/svo_tools)",
+              "Tools for working with the .svo file format",
+              ""
+            ],
+            [
+              "11",
+              "[@neuroprod](https://github.com/neuroprod)/[**NPBOT**](https://github.com/neuroprod/NPBOT)",
+              "",
+              ""
+            ],
+            [
+              "10",
+              "[@psoetens](https://github.com/psoetens)/[**orocos-ocl**](https://github.com/psoetens/orocos-ocl)",
+              "Orocos Component Library",
+              "[:arrow_upper_right:](www.orocos.org/ocl)"
+            ],
+            [
+              "10",
+              "[@neuroprod](https://github.com/neuroprod)/[**NP_isosurfaces**](https://github.com/neuroprod/NP_isosurfaces)",
+              "Isosurface test",
+              "[:arrow_upper_right:](htttp://www.neuroproductions.be)"
+            ],
+            [
+              "9",
+              "[@lab101](https://github.com/lab101)/[**ofxImageMap**](https://github.com/lab101/ofxImageMap)",
+              "A fast way to convert existing design to clickable items with over state.",
+              ""
+            ],
+            [
+              "8",
+              "[@neuroprod](https://github.com/neuroprod)/[**NPBOT_driver**](https://github.com/neuroprod/NPBOT_driver)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@maleadt](https://github.com/maleadt)/[**pChase**](https://github.com/maleadt/pChase)",
+              "Pointer-chasing memory benchmark (forked from Doug Pase's code).",
+              ""
+            ],
+            [
+              "7",
+              "[@Forceflow](https://github.com/Forceflow)/[**cpu_voxel_raycaster**](https://github.com/Forceflow/cpu_voxel_raycaster)",
+              "Very barebones CPU Voxel Raycaster",
+              ""
+            ],
+            [
+              "6",
+              "[@psoetens](https://github.com/psoetens)/[**orocos-rtt-examples**](https://github.com/psoetens/orocos-rtt-examples)",
+              "Tutorial and example code mainly for the RTT",
+              "[:arrow_upper_right:](http://www.orocos.org/rtt)"
+            ],
+            [
+              "6",
+              "[@Kittnz](https://github.com/Kittnz)/[**Sunwell**](https://github.com/Kittnz/Sunwell)",
+              "No support is given for this core! - by xinef & pussywizard",
+              "[:arrow_upper_right:](http://www.sunwell.pl)"
+            ],
+            [
+              "5",
+              "[@jodogne](https://github.com/jodogne)/[**OrthancMirror**](https://github.com/jodogne/OrthancMirror)",
+              "Mirror of the official BitBucket Mercurial repository of Orthanc",
+              "[:arrow_upper_right:](http://www.orthanc-server.com/)"
+            ],
+            [
+              "5",
+              "[@timvdm](https://github.com/timvdm)/[**Avogadro-Packmol-Ext…**](https://github.com/timvdm/Avogadro-Packmol-Extension)",
+              "An Avogadro plugin with a gui to create packmol input files and run packmol from within Avogadro.",
+              "[:arrow_upper_right:](http://timvdm.blogspot.com)"
+            ],
+            [
+              "5",
+              "[@neuroprod](https://github.com/neuroprod)/[**PID-ball**](https://github.com/neuroprod/PID-ball)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@neuroprod](https://github.com/neuroprod)/[**NPInverseKinematics**](https://github.com/neuroprod/NPInverseKinematics)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@maleadt](https://github.com/maleadt)/[**gpuocelot**](https://github.com/maleadt/gpuocelot)",
+              "A dynamic compilation framework for PTX (forked from Google Code).",
+              "[:arrow_upper_right:](https://code.google.com/p/gpuocelot/)"
+            ],
+            [
+              "4",
+              "[@timvdm](https://github.com/timvdm)/[**Smiley**](https://github.com/timvdm/Smiley)",
+              "An OpenSMILES compliant C++ SMILES/SMARTS parser",
+              ""
+            ],
+            [
+              "4",
+              "[@timvdm](https://github.com/timvdm)/[**OBDepict**](https://github.com/timvdm/OBDepict)",
+              "2D molecule depiction using openbabel and various image/graphics API's (currently ImageMagick++, Cairo & Qt4) ",
+              "[:arrow_upper_right:](http://timvdm.blogspot.com)"
+            ],
+            [
+              "4",
+              "[@lab101](https://github.com/lab101)/[**Cinder-DXT**](https://github.com/lab101/Cinder-DXT)",
+              "Cinder block for playing DXT video format",
+              ""
+            ],
+            [
+              "3",
+              "[@lab101](https://github.com/lab101)/[**piParticles**](https://github.com/lab101/piParticles)",
+              "Quick performance test with particles on a Raspberry Pi with openframeworks",
+              ""
+            ],
+            [
+              "3",
+              "[@timvdm](https://github.com/timvdm)/[**Molsketch**](https://github.com/timvdm/Molsketch)",
+              "Molsketch 2D molecular editor",
+              ""
+            ],
+            [
+              "3",
+              "[@jekkos](https://github.com/jekkos)/[**KinectC3D**](https://github.com/jekkos/KinectC3D)",
+              "Some modifications made to the Kinect SDK source to capture to C3D",
+              ""
+            ],
+            [
+              "3",
+              "[@maleadt](https://github.com/maleadt)/[**beeldverwerking**](https://github.com/maleadt/beeldverwerking)",
+              "Tram collision avoidance (school project).",
+              ""
+            ],
+            [
+              "3",
+              "[@StevenPuttemans](https://github.com/StevenPuttemans)/[**opencv_tryout_code**](https://github.com/StevenPuttemans/opencv_tryout_code)",
+              "several small projects in openCV which need some development first",
+              ""
+            ],
+            [
+              "2",
+              "[@timvdm](https://github.com/timvdm)/[**SmartsCompiler**](https://github.com/timvdm/SmartsCompiler)",
+              "A SMARTS optimizer/compiler",
+              ""
+            ],
+            [
+              "2",
+              "[@lab101](https://github.com/lab101)/[**mappingGame**](https://github.com/lab101/mappingGame)",
+              "",
+              "[:arrow_upper_right:](http://www.lab101.be/projects/eristoff-mapping-game.html)"
+            ],
+            [
+              "2",
+              "[@lab101](https://github.com/lab101)/[**CinderJpgStream**](https://github.com/lab101/CinderJpgStream)",
+              "Capturing Motion jpg streams in Cinder based on the excellent work of this openframeworks addon https://github.com/bakercp/ofxIpVideoGra…",
+              ""
+            ],
+            [
+              "2",
+              "[@timvdm](https://github.com/timvdm)/[**OBForceField**](https://github.com/timvdm/OBForceField)",
+              "new set of force field classes for OpenBabel (very experimental)",
+              ""
+            ],
+            [
+              "2",
+              "[@azerupi](https://github.com/azerupi)/[**NatronColorSelector**](https://github.com/azerupi/NatronColorSelector)",
+              "Color Selector for Natron (https://github.com/MrKepzie/Natron)",
+              ""
+            ],
+            [
+              "2",
+              "[@maleadt](https://github.com/maleadt)/[**genetic**](https://github.com/maleadt/genetic)",
+              "Playground for some genetic programming.",
+              ""
+            ],
+            [
+              "2",
+              "[@Kittnz](https://github.com/Kittnz)/[**UE4Rollercoaster**](https://github.com/Kittnz/UE4Rollercoaster)",
+              "A rollercoaster for UnrealEngine 4",
+              ""
+            ],
+            [
+              "2",
+              "[@glynos](https://github.com/glynos)/[**fundamentals**](https://github.com/glynos/fundamentals)",
+              "Re-learning some fundamentals",
+              ""
+            ],
+            [
+              "2",
+              "[@glynos](https://github.com/glynos)/[**uri**](https://github.com/glynos/uri)",
+              "cpp-netlib URI",
+              "[:arrow_upper_right:](http://cpp-netlib.github.com/)"
+            ],
+            [
+              "2",
+              "[@neuroprod](https://github.com/neuroprod)/[**balancingRobot**](https://github.com/neuroprod/balancingRobot)",
+              "",
               ""
             ]
           ]
