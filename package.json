@@ -53,7 +53,8 @@
           "[HTML](#html)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -2739,6 +2740,45 @@
               "2",
               "[@luwes](https://github.com/luwes)/[**Zebroid**](https://github.com/luwes/Zebroid)",
               "Simple 2D line drawing library for Flash Stage3D (aka Molehill)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "6",
+              "[@joachimdb](https://github.com/joachimdb)/[**dl4clj**](https://github.com/joachimdb/dl4clj)",
+              "Port of some deeplearning4j examples to clojure",
+              ""
+            ],
+            [
+              "5",
+              "[@cderoove](https://github.com/cderoove)/[**damp.ekeko.aspectj**](https://github.com/cderoove/damp.ekeko.aspectj)",
+              "Ekeko plugin that provides support for Aspectj ",
+              ""
+            ],
+            [
+              "5",
+              "[@phochste](https://github.com/phochste)/[**clj-marc**](https://github.com/phochste/clj-marc)",
+              "A Clojure MARC parser",
+              ""
+            ],
+            [
+              "2",
+              "[@phochste](https://github.com/phochste)/[**clj-layar**](https://github.com/phochste/clj-layar)",
+              "Clojure application to push POI's on the internet",
               ""
             ]
           ]
