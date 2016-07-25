@@ -65,7 +65,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -5787,6 +5788,105 @@
               "2",
               "[@jomz](https://github.com/jomz)/[**radiant-group_childr…**](https://github.com/jomz/radiant-group_children-extension)",
               "Adds a Radius tag to iterate over a page's children per n items.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "18",
+              "[@andypetrella](https://github.com/andypetrella)/[**neo4j-rest-play-plug…**](https://github.com/andypetrella/neo4j-rest-play-plugin)",
+              "An attempt to have a plugin for Play 2.0 of Neo4J REST api",
+              ""
+            ],
+            [
+              "14",
+              "[@sdb](https://github.com/sdb)/[**xsbt-filter**](https://github.com/sdb/xsbt-filter)",
+              "sbt plugin for filtering resources",
+              "[:arrow_upper_right:](http://sdb.github.com/xsbt-filter/)"
+            ],
+            [
+              "9",
+              "[@sdb](https://github.com/sdb)/[**play2-metrics**](https://github.com/sdb/play2-metrics)",
+              "Metrics plugin for Play Framework 2",
+              "[:arrow_upper_right:](http://stefandeboey.be/play2-metrics)"
+            ],
+            [
+              "9",
+              "[@pmandera](https://github.com/pmandera)/[**duometer**](https://github.com/pmandera/duometer)",
+              "Near-duplicate detection tool",
+              ""
+            ],
+            [
+              "6",
+              "[@andypetrella](https://github.com/andypetrella)/[**gatling-play2-plugin**](https://github.com/andypetrella/gatling-play2-plugin)",
+              "This project aims to bring the Gatling-Tool as a Play 2.0 plugin for the framework Play 2.0",
+              ""
+            ],
+            [
+              "6",
+              "[@andypetrella](https://github.com/andypetrella)/[**Play20WithNeo4J**](https://github.com/andypetrella/Play20WithNeo4J)",
+              "The intent of this project is to use Neo4J Back end service for storing graph data. Having a play! 2.0 environement incharge of serving and creating them",
+              ""
+            ],
+            [
+              "6",
+              "[@andypetrella](https://github.com/andypetrella)/[**play2-neo4j**](https://github.com/andypetrella/play2-neo4j)",
+              "A dedicated Neo4J module for the Play Framework! 2. It'll mainly focus on Scala and ease the creation of web application using Neo4J as backend",
+              ""
+            ],
+            [
+              "5",
+              "[@sdb](https://github.com/sdb)/[**xsbt-liquibase**](https://github.com/sdb/xsbt-liquibase)",
+              "A plugin for the Simple Build Tool (SBT) for running LiquiBase",
+              "[:arrow_upper_right:](http://sdb.github.com/xsbt-liquibase/)"
+            ],
+            [
+              "4",
+              "[@AODtorusan](https://github.com/AODtorusan)/[**scala-glsl**](https://github.com/AODtorusan/scala-glsl)",
+              "A Scala DSL to generate GLSL sources",
+              ""
+            ],
+            [
+              "3",
+              "[@andypetrella](https://github.com/andypetrella)/[**gatling-sbt-plugin**](https://github.com/andypetrella/gatling-sbt-plugin)",
+              "An SBT plugin that adds the gatling-tool as a new test framework, including some command to ease its usage",
+              ""
+            ],
+            [
+              "2",
+              "[@Geogi](https://github.com/Geogi)/[**CriojoSC**](https://github.com/Geogi/CriojoSC)",
+              "CriojoSC is an implementation of CRIOJO, a CHAM-based engine for running concurrent applications with guaranteed causal order.",
+              ""
+            ],
+            [
+              "2",
+              "[@andypetrella](https://github.com/andypetrella)/[**play2-steal**](https://github.com/andypetrella/play2-steal)",
+              "Library that aims to provide interceptors for Play Actions (composable using Scalaz, type safed using Shapeless)",
+              ""
+            ],
+            [
+              "2",
+              "[@andypetrella](https://github.com/andypetrella)/[**gatling-sbt-sample**](https://github.com/andypetrella/gatling-sbt-sample)",
+              "A very lightweight sample for HTTP testing using SBT and its Gatling-Tool plugin",
+              ""
+            ],
+            [
+              "2",
+              "[@andypetrella](https://github.com/andypetrella)/[**steal-play2**](https://github.com/andypetrella/steal-play2)",
+              "A project defining a way to intercept/prepare stuffs before the definition of an action",
               ""
             ]
           ]
