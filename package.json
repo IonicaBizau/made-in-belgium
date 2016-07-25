@@ -67,7 +67,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -6023,6 +6024,33 @@
               "2",
               "[@BlackIkeEagle](https://github.com/BlackIkeEagle)/[**black-backup**](https://github.com/BlackIkeEagle/black-backup)",
               "simple backup written in bash",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@icapps](https://github.com/icapps)/[**ios-air-rivet**](https://github.com/icapps/ios-air-rivet)",
+              "The goal is to make a small requestController that uses generics to make the request reusable.",
+              ""
+            ],
+            [
+              "2",
+              "[@Nexmind](https://github.com/Nexmind)/[**Swiftizy**](https://github.com/Nexmind/Swiftizy)",
+              "",
               ""
             ]
           ]
