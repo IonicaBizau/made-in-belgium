@@ -55,7 +55,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -2897,6 +2898,39 @@
               "2",
               "[@debrouwere](https://github.com/debrouwere)/[**put**](https://github.com/debrouwere/put)",
               "Put is a command-line utility to move, rename, copy and symlink files. Uses a simple placeholder syntax to transform input filenames to output filenames. Think of it as an easier-to-use but perhaps less powerful Linux rename.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "4",
+              "[@onbings](https://github.com/onbings)/[**ftpsclient**](https://github.com/onbings/ftpsclient)",
+              "Another Ftp(s) client package for the go language",
+              ""
+            ],
+            [
+              "3",
+              "[@tmbrggmn](https://github.com/tmbrggmn)/[**gosteam**](https://github.com/tmbrggmn/gosteam)",
+              "Go library for interacting with Steam/Valve interfaces (server queries, etc.)",
+              ""
+            ],
+            [
+              "2",
+              "[@bubblepost](https://github.com/bubblepost)/[**jinx**](https://github.com/bubblepost/jinx)",
+              "Continuous integration server",
               ""
             ]
           ]
