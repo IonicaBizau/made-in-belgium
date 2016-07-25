@@ -64,7 +64,8 @@
           "[Perl](#perl)",
           "[PHP](#php)",
           "[Python](#python)",
-          "[R](#r)"
+          "[R](#r)",
+          "[Ruby](#ruby)"
         ]
       },
       {
@@ -4752,6 +4753,1041 @@
               "[@rogiersbart](https://github.com/rogiersbart)/[**RGLUEANN**](https://github.com/rogiersbart/RGLUEANN)",
               "provides an R implementation of the coupling between general likelihood uncertainty estimation (GLUE) and artificial neural networks (ANN)",
               "[:arrow_upper_right:](http://rogiersbart.blogspot.com/search/label/Science)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Ruby #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "671",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**sahara**](https://github.com/jedi4ever/sahara)",
+              "a plugin for vagrant that allows you manage a sandbox state",
+              ""
+            ],
+            [
+              "530",
+              "[@sr](https://github.com/sr)/[**git-wiki**](https://github.com/sr/git-wiki)",
+              "A quick & dirty git-powered Sinatra wiki",
+              "[:arrow_upper_right:](http://atonie.org/2008/02/git-wiki)"
+            ],
+            [
+              "262",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**mccloud**](https://github.com/jedi4ever/mccloud)",
+              "Vagrant for the cloud",
+              ""
+            ],
+            [
+              "200",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**markdown2confluence**](https://github.com/jedi4ever/markdown2confluence)",
+              "Converting Markdown to Confluence Markup using Kramdown Gem",
+              ""
+            ],
+            [
+              "170",
+              "[@ahe](https://github.com/ahe)/[**choco**](https://github.com/ahe/choco)",
+              "A delicious Javascript web framework made in Belgium!",
+              ""
+            ],
+            [
+              "145",
+              "[@dv](https://github.com/dv)/[**redis-semaphore**](https://github.com/dv/redis-semaphore)",
+              "A distributed semaphore and mutex built on Redis.",
+              ""
+            ],
+            [
+              "122",
+              "[@fd](https://github.com/fd)/[**json_select**](https://github.com/fd/json_select)",
+              "CSS-like selectors for JSON (Ruby implementation).",
+              "[:arrow_upper_right:](http://jsonselect.org)"
+            ],
+            [
+              "93",
+              "[@tbalthazar](https://github.com/tbalthazar)/[**ubuntu-machine**](https://github.com/tbalthazar/ubuntu-machine)",
+              "- no longer maintained - These Capistrano recipes allow you to setup a machine running Ubuntu Server 8.0.4 or 8.1. They will install/setup : SSH, iptables, MySQL, Apache, PHP, Ruby (+ Ruby Enterprise Edition), Rails, Phusion Passenger, and Git.",
+              ""
+            ],
+            [
+              "81",
+              "[@blambeau](https://github.com/blambeau)/[**rack-robustness**](https://github.com/blambeau/rack-robustness)",
+              "Rack::Robustness, the rescue clause of your Rack stack.",
+              ""
+            ],
+            [
+              "81",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**logstash-cli**](https://github.com/jedi4ever/logstash-cli)",
+              "Commandline interface for logstash",
+              ""
+            ],
+            [
+              "81",
+              "[@ys](https://github.com/ys)/[**moments**](https://github.com/ys/moments)",
+              "Heroku + Dropbox + pictures = ♥︎",
+              "[:arrow_upper_right:](https://yannick.io)"
+            ],
+            [
+              "69",
+              "[@ahe](https://github.com/ahe)/[**mongo_admin**](https://github.com/ahe/mongo_admin)",
+              "Browse and manage your MongoMapper data using your browser",
+              "[:arrow_upper_right:](http://mongo_admin.2dconcept.com/)"
+            ],
+            [
+              "66",
+              "[@blambeau](https://github.com/blambeau)/[**finitio-rb**](https://github.com/blambeau/finitio-rb)",
+              "Finitio - In Ruby",
+              "[:arrow_upper_right:](http://www.finitio.io/)"
+            ],
+            [
+              "59",
+              "[@blambeau](https://github.com/blambeau)/[**viiite**](https://github.com/blambeau/viiite)",
+              "An alternative to ruby Benchmark",
+              "[:arrow_upper_right:](http://blambeau.github.com/viiite)"
+            ],
+            [
+              "54",
+              "[@sr](https://github.com/sr)/[**mg**](https://github.com/sr/mg)",
+              "minimal gem",
+              "[:arrow_upper_right:](http://rubygems.org/gems/mg)"
+            ],
+            [
+              "52",
+              "[@ahe](https://github.com/ahe)/[**jqgrid_demo_app**](https://github.com/ahe/jqgrid_demo_app)",
+              "Rails demo application showing how to use my 2dcJqgrid plugin",
+              "[:arrow_upper_right:](http://www.2dconcept.com/jquery-grid-rails-plugin)"
+            ],
+            [
+              "49",
+              "[@blambeau](https://github.com/blambeau)/[**quickl**](https://github.com/blambeau/quickl)",
+              "Command-line Ruby Utilities Shipped as Classes",
+              "[:arrow_upper_right:](https://github.com/blambeau/quickl)"
+            ],
+            [
+              "47",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**vagrant-guard-demo**](https://github.com/jedi4ever/vagrant-guard-demo)",
+              "Demo on how cucumber-puppet, rspec-puppet and guard and vagrant can work together",
+              ""
+            ],
+            [
+              "41",
+              "[@jandot](https://github.com/jandot)/[**ruby-ensembl-api**](https://github.com/jandot/ruby-ensembl-api)",
+              "A ruby API to the Ensembl database",
+              "[:arrow_upper_right:](http://bioruby-annex.rubyforge.org)"
+            ],
+            [
+              "40",
+              "[@ahe](https://github.com/ahe)/[**reverse_scaffold**](https://github.com/ahe/reverse_scaffold)",
+              "This script generates a Rails scaffold based on an existing table",
+              ""
+            ],
+            [
+              "39",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**gmond-zmq**](https://github.com/jedi4ever/gmond-zmq)",
+              "Puts ganglia gmond information on a zeromq pub/sub",
+              ""
+            ],
+            [
+              "38",
+              "[@ys](https://github.com/ys)/[**chekku**](https://github.com/ys/chekku)",
+              "That gem knows if your software dependencies are met!",
+              ""
+            ],
+            [
+              "38",
+              "[@fabien](https://github.com/fabien)/[**minigems**](https://github.com/fabien/minigems)",
+              "Lighweight drop-in replacement for rubygems.",
+              ""
+            ],
+            [
+              "37",
+              "[@jomz](https://github.com/jomz)/[**radiant-tags-extensi…**](https://github.com/jomz/radiant-tags-extension)",
+              "Extends Radiant CMS with tagging capabilities. Tagging as in \"2.0\" and tagclouds.",
+              "[:arrow_upper_right:](http://gorilla-webdesign.be)"
+            ],
+            [
+              "33",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**puppet-homebrew**](https://github.com/jedi4ever/puppet-homebrew)",
+              "a puppet provider for the homebrew packaging system",
+              ""
+            ],
+            [
+              "31",
+              "[@sr](https://github.com/sr)/[**saloon**](https://github.com/sr/saloon)",
+              "AtomPub server implemented using Sinatra and CouchDB",
+              ""
+            ],
+            [
+              "30",
+              "[@sr](https://github.com/sr)/[**shout-bot**](https://github.com/sr/shout-bot)",
+              "Ridiculously simple library to quickly say something on IRC",
+              "[:arrow_upper_right:](http://github.com/sr/shout-bot)"
+            ],
+            [
+              "27",
+              "[@fabien](https://github.com/fabien)/[**im_magick**](https://github.com/fabien/im_magick)",
+              "RMagick replacement which uses ImageMagick directly by constructing chainable commands",
+              ""
+            ],
+            [
+              "26",
+              "[@blambeau](https://github.com/blambeau)/[**nib.js**](https://github.com/blambeau/nib.js)",
+              "Node.js packaging for the Browser",
+              "[:arrow_upper_right:](http://blambeau.github.com/nib.js/)"
+            ],
+            [
+              "25",
+              "[@sr](https://github.com/sr)/[**integrity-heroku**](https://github.com/sr/integrity-heroku)",
+              "Deploy Integrity on Heroku's platform",
+              "[:arrow_upper_right:](http://integrityapp.com)"
+            ],
+            [
+              "25",
+              "[@blambeau](https://github.com/blambeau)/[**myrrha**](https://github.com/blambeau/myrrha)",
+              "The missing coercion framework for Ruby",
+              "[:arrow_upper_right:](https://github.com/blambeau/myrrha)"
+            ],
+            [
+              "24",
+              "[@cimm](https://github.com/cimm)/[**snippets-gist-scripp…**](https://github.com/cimm/snippets-gist-scrippet)",
+              "A small plugin - aka scrippet - to export code snippets from Snippets as GitHub gists. NOTE: this plugin is now included in Snippets 1.2 (http://www.snippetsapp.com/release-note…",
+              "[:arrow_upper_right:](http://www.snippetsapp.com/extras/scrippets/)"
+            ],
+            [
+              "23",
+              "[@blambeau](https://github.com/blambeau)/[**noe**](https://github.com/blambeau/noe)",
+              "Noe is a simple, general-purpose and extensible skeleton generator from project templates",
+              "[:arrow_upper_right:](http://revision-zero.org/noe)"
+            ],
+            [
+              "22",
+              "[@xavier](https://github.com/xavier)/[**acts-as-tree-with-do…**](https://github.com/xavier/acts-as-tree-with-dotted-ids)",
+              "A drop in replacement for acts_as_tree with super fast ancestors and subtree access",
+              ""
+            ],
+            [
+              "22",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**collectd-zmq**](https://github.com/jedi4ever/collectd-zmq)",
+              "Collectd Listener that pushes the metrics onto zeromq pub/sub mechanism",
+              ""
+            ],
+            [
+              "22",
+              "[@blambeau](https://github.com/blambeau)/[**wlang**](https://github.com/blambeau/wlang)",
+              "WLang is a general-purpose (code generation / templating) engine.",
+              "[:arrow_upper_right:](https://github.com/blambeau/wlang)"
+            ],
+            [
+              "21",
+              "[@jandot](https://github.com/jandot)/[**bio-graphics**](https://github.com/jandot/bio-graphics)",
+              "Bio::Graphics is a ruby library for visualizing annotations on chromosomes",
+              "[:arrow_upper_right:](http://bio-graphics.rubyforge.org)"
+            ],
+            [
+              "20",
+              "[@tbalthazar](https://github.com/tbalthazar)/[**onesignal-ruby**](https://github.com/tbalthazar/onesignal-ruby)",
+              "OneSignal Ruby bindings",
+              ""
+            ],
+            [
+              "19",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**puppet-cic**](https://github.com/jedi4ever/puppet-cic)",
+              "Puppet Changeset Impact Checker",
+              ""
+            ],
+            [
+              "18",
+              "[@vStone](https://github.com/vStone)/[**vagrant-addons**](https://github.com/vStone/vagrant-addons)",
+              "Some modifications for a Vagrantfile adding some additional usefull actions.",
+              ""
+            ],
+            [
+              "18",
+              "[@vStone](https://github.com/vStone)/[**puppet-testing-examp…**](https://github.com/vStone/puppet-testing-example)",
+              "",
+              ""
+            ],
+            [
+              "18",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**puppet-assert**](https://github.com/jedi4ever/puppet-assert)",
+              "Allows to excute assertion as part of your puppet code",
+              ""
+            ],
+            [
+              "17",
+              "[@dv](https://github.com/dv)/[**alfred-omnifocus-wor…**](https://github.com/dv/alfred-omnifocus-workflow)",
+              "An Alfred 2 workflow to create tasks in OmniFocus featuring autocompletion of Project and Context",
+              ""
+            ],
+            [
+              "15",
+              "[@jandot](https://github.com/jandot)/[**parp**](https://github.com/jandot/parp)",
+              "Processing Abnormal Read-Pairs",
+              ""
+            ],
+            [
+              "14",
+              "[@blambeau](https://github.com/blambeau)/[**summaryse**](https://github.com/blambeau/summaryse)",
+              "Array#summaryse",
+              "[:arrow_upper_right:](https://github.com/blambeau/summaryse)"
+            ],
+            [
+              "14",
+              "[@ys](https://github.com/ys)/[**sinatra_skeleton**](https://github.com/ys/sinatra_skeleton)",
+              "Sinatra skeleton with activerecord and rspec",
+              ""
+            ],
+            [
+              "14",
+              "[@jandot](https://github.com/jandot)/[**ruby-ucsc-api**](https://github.com/jandot/ruby-ucsc-api)",
+              "A ruby API to the UCSC database",
+              "[:arrow_upper_right:](http://genome.ucsc.edu)"
+            ],
+            [
+              "14",
+              "[@blambeau](https://github.com/blambeau)/[**pdf-toolkit**](https://github.com/blambeau/pdf-toolkit)",
+              "A ruby interface to pdftk",
+              ""
+            ],
+            [
+              "14",
+              "[@tbalthazar](https://github.com/tbalthazar)/[**lighthouse-to-github**](https://github.com/tbalthazar/lighthouse-to-github)",
+              "- no longer maintained - A ruby script that migrates Lighthouse tickets to Github issues",
+              ""
+            ],
+            [
+              "13",
+              "[@jandot](https://github.com/jandot)/[**biorake**](https://github.com/jandot/biorake)",
+              "An extension to rake that can be used to build database-backed workflows",
+              "[:arrow_upper_right:](http://jandot.lighthouseapp.com/projects/14540/home)"
+            ],
+            [
+              "13",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**hetzner-cli**](https://github.com/jedi4ever/hetzner-cli)",
+              "CLI to do more complicated Hetnzer tasks like re-installing a server and putting the keys on it",
+              ""
+            ],
+            [
+              "12",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**slowlane**](https://github.com/jedi4ever/slowlane)",
+              "We are the @fastlane cli - without the magic",
+              ""
+            ],
+            [
+              "12",
+              "[@pjaspers](https://github.com/pjaspers)/[**shack**](https://github.com/pjaspers/shack)",
+              "If you like it then you should have put a sha on it.",
+              ""
+            ],
+            [
+              "12",
+              "[@vStone](https://github.com/vStone)/[**vagrant-centos7_fix**](https://github.com/vStone/vagrant-centos7_fix)",
+              "A vagrant plugin to use Fedora networking on Centos 7 (network device naming shizzle)",
+              ""
+            ],
+            [
+              "12",
+              "[@sr](https://github.com/sr)/[**ey-integrity**](https://github.com/sr/ey-integrity)",
+              "  Deploy a continuous integration server onto http://cloud.engineyard.com ",
+              "[:arrow_upper_right:](http://integrityapp.com)"
+            ],
+            [
+              "12",
+              "[@pjaspers](https://github.com/pjaspers)/[**capfire**](https://github.com/pjaspers/capfire)",
+              "Send a notification to Campfire from Capistrano",
+              ""
+            ],
+            [
+              "10",
+              "[@sr](https://github.com/sr)/[**atom-tools**](https://github.com/sr/atom-tools)",
+              "mirror of the darcs repository (ruby lib for atom/atompub)",
+              "[:arrow_upper_right:](http://code.necronomicorp.com/atom-tools)"
+            ],
+            [
+              "9",
+              "[@gigamo](https://github.com/gigamo)/[**mongo_mapper_acts_as…**](https://github.com/gigamo/mongo_mapper_acts_as_versioned)",
+              "Basic MongoMapper port of technoweenie's acts_as_versioned",
+              ""
+            ],
+            [
+              "9",
+              "[@pjaspers](https://github.com/pjaspers)/[**gasoline**](https://github.com/pjaspers/gasoline)",
+              "Gasoline and Propane make Campfire better",
+              ""
+            ],
+            [
+              "9",
+              "[@ys](https://github.com/ys)/[**libraclips**](https://github.com/ys/libraclips)",
+              "They have good critical faculty and are able to stand back and look impartially at matters which call for an impartial judgment to be made on them.",
+              ""
+            ],
+            [
+              "9",
+              "[@sr](https://github.com/sr)/[**rumbster**](https://github.com/sr/rumbster)",
+              "Rumbster is a fake smtp server for email testing in Ruby.",
+              "[:arrow_upper_right:](http://adamesterline.com/2007/03/06/rumbster-ruby-fake-email-server/)"
+            ],
+            [
+              "9",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**devopsdays-checklist**](https://github.com/jedi4ever/devopsdays-checklist)",
+              "Example trello sync for a checklist for devopsdays events",
+              ""
+            ],
+            [
+              "8",
+              "[@ahe](https://github.com/ahe)/[**choco_demo**](https://github.com/ahe/choco_demo)",
+              "Sample Rails 3 app using the Choco Javascript framework",
+              ""
+            ],
+            [
+              "8",
+              "[@ys](https://github.com/ys)/[**apperol**](https://github.com/ys/apperol)",
+              "Heroku button CLI for private apps",
+              ""
+            ],
+            [
+              "8",
+              "[@jandot](https://github.com/jandot)/[**locustree**](https://github.com/jandot/locustree)",
+              "Ruby library to search genomic loci",
+              ""
+            ],
+            [
+              "8",
+              "[@sr](https://github.com/sr)/[**github-calendar**](https://github.com/sr/github-calendar)",
+              "Web service that converts GitHub's activity feeds into iCal. ",
+              ""
+            ],
+            [
+              "8",
+              "[@sr](https://github.com/sr)/[**integrity-irc**](https://github.com/sr/integrity-irc)",
+              "IRC notifier for the Integrity continuous integration server",
+              "[:arrow_upper_right:](http://integrityapp.com)"
+            ],
+            [
+              "8",
+              "[@sr](https://github.com/sr)/[**ape**](https://github.com/sr/ape)",
+              "The Atom Protocol Exerciser",
+              "[:arrow_upper_right:](http://www.tbray.org/ongoing/misc/Software#p-4)"
+            ],
+            [
+              "8",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**wine_dot_com_api_req…**](https://github.com/cmeiklejohn/wine_dot_com_api_request)",
+              "Provides a simple interface to cut down on code duplication when querying the wine.com API.  ",
+              "[:arrow_upper_right:](http://rubygems.org/gems/wine_dot_com_api_request)"
+            ],
+            [
+              "8",
+              "[@dv](https://github.com/dv)/[**Fuzzy-Git**](https://github.com/dv/Fuzzy-Git)",
+              "Add fuzzy finder functionality to git commands.",
+              ""
+            ],
+            [
+              "8",
+              "[@jomz](https://github.com/jomz)/[**gorilla-capistrano-r…**](https://github.com/jomz/gorilla-capistrano-recipes)",
+              "Common capistrano recipes for Gorilla sites",
+              ""
+            ],
+            [
+              "8",
+              "[@petervandenabeele](https://github.com/petervandenabeele)/[**dbd**](https://github.com/petervandenabeele/dbd)",
+              "A data store that (almost) never forgets",
+              ""
+            ],
+            [
+              "7",
+              "[@jomz](https://github.com/jomz)/[**spree-ogone**](https://github.com/jomz/spree-ogone)",
+              "Extension for Spree that adds support for Ogone payments",
+              ""
+            ],
+            [
+              "7",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**theseboots**](https://github.com/jedi4ever/theseboots)",
+              "Bootstrapping code for getting ruby, chef, puppet, ... on a brand new server",
+              ""
+            ],
+            [
+              "7",
+              "[@gigamo](https://github.com/gigamo)/[**aurb**](https://github.com/gigamo/aurb)",
+              "An AUR (Arch User Repository) utility",
+              ""
+            ],
+            [
+              "7",
+              "[@sr](https://github.com/sr)/[**dumbapp**](https://github.com/sr/dumbapp)",
+              "DumbApp is a simple AtomPub (RFC 5023) implementation based on Mongrel and ActiveRecord.",
+              "[:arrow_upper_right:](http://atonie.org/2008/01/dumbapp)"
+            ],
+            [
+              "7",
+              "[@sr](https://github.com/sr)/[**dst**](https://github.com/sr/dst)",
+              "todo-list manager I wrote back in 2008 with the help of Gregory Brown in order to learn Ruby and TDD",
+              "[:arrow_upper_right:](http://atonie.org/2008/dst)"
+            ],
+            [
+              "7",
+              "[@sr](https://github.com/sr)/[**quarkquark**](https://github.com/sr/quarkquark)",
+              "Easily creates an AtomPub server through a DSL.",
+              ""
+            ],
+            [
+              "6",
+              "[@lefred](https://github.com/lefred)/[**vagrant-mha**](https://github.com/lefred/vagrant-mha)",
+              "Vagrant for MySQL MHA",
+              ""
+            ],
+            [
+              "6",
+              "[@blambeau](https://github.com/blambeau)/[**sbyc**](https://github.com/blambeau/sbyc)",
+              "Adding Specialization By Constraint to the Ruby type system",
+              "[:arrow_upper_right:](http://blambeau.github.com/sbyc)"
+            ],
+            [
+              "6",
+              "[@ys](https://github.com/ys)/[**confreaks-dl**](https://github.com/ys/confreaks-dl)",
+              "Get 720p videos from confreaks to watch on your ipad",
+              ""
+            ],
+            [
+              "6",
+              "[@blambeau](https://github.com/blambeau)/[**stamina**](https://github.com/blambeau/stamina)",
+              "Automaton and Induction Tools Written in Ruby",
+              "[:arrow_upper_right:](http://github.com/blambeau/stamina)"
+            ],
+            [
+              "6",
+              "[@blambeau](https://github.com/blambeau)/[**dbagile**](https://github.com/blambeau/dbagile)",
+              "Agile SQL databases and tools for database administrators",
+              "[:arrow_upper_right:](http://github.com/blambeau/dbagile)"
+            ],
+            [
+              "6",
+              "[@lefred](https://github.com/lefred)/[**puppet-cluster**](https://github.com/lefred/puppet-cluster)",
+              "pacemaker / corosync puppet recipe",
+              ""
+            ],
+            [
+              "5",
+              "[@xavier](https://github.com/xavier)/[**live_tabs**](https://github.com/xavier/live_tabs)",
+              "Dynamic in-page tabbed navigation for Rails, supporting both inline and remote content",
+              ""
+            ],
+            [
+              "5",
+              "[@blambeau](https://github.com/blambeau)/[**plwords**](https://github.com/blambeau/plwords)",
+              "http://plwords.herokuapp.com/",
+              ""
+            ],
+            [
+              "5",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**puppet-codeblock**](https://github.com/jedi4ever/puppet-codeblock)",
+              "Execute abritrary codeblocks in Puppet",
+              ""
+            ],
+            [
+              "5",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**mccloud-demo**](https://github.com/jedi4ever/mccloud-demo)",
+              "Demo showing of Mccloud project",
+              ""
+            ],
+            [
+              "5",
+              "[@ys](https://github.com/ys)/[**rubymotion-bars**](https://github.com/ys/rubymotion-bars)",
+              "first rubymotion app calling foursquare",
+              ""
+            ],
+            [
+              "5",
+              "[@jandot](https://github.com/jandot)/[**sprolog**](https://github.com/jandot/sprolog)",
+              "Simple Project Logger",
+              "[:arrow_upper_right:](http://sprolog.rubyforge.org)"
+            ],
+            [
+              "5",
+              "[@sr](https://github.com/sr)/[**loved**](https://github.com/sr/loved)",
+              "Simple tag-based playlist manager for MPD",
+              ""
+            ],
+            [
+              "5",
+              "[@blambeau](https://github.com/blambeau)/[**yargi**](https://github.com/blambeau/yargi)",
+              "Yet Another Ruby Graph Implementation",
+              "[:arrow_upper_right:](https://github.com/blambeau/yargi)"
+            ],
+            [
+              "5",
+              "[@cimm](https://github.com/cimm)/[**missioncontrol**](https://github.com/cimm/missioncontrol)",
+              "Time tracker for freelancers",
+              ""
+            ],
+            [
+              "5",
+              "[@jomz](https://github.com/jomz)/[**radiant-gorilla-blog…**](https://github.com/jomz/radiant-gorilla-blog-extension)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@titouanc](https://github.com/titouanc)/[**rb-sudoku**](https://github.com/titouanc/rb-sudoku)",
+              "Sudoku handler gem",
+              ""
+            ],
+            [
+              "4",
+              "[@dv](https://github.com/dv)/[**iCal2GCal**](https://github.com/dv/iCal2GCal)",
+              "Takes iCal files (.ics) and adds the events to your Google Calendar.",
+              ""
+            ],
+            [
+              "4",
+              "[@pjaspers](https://github.com/pjaspers)/[**stringer**](https://github.com/pjaspers/stringer)",
+              "Wraps genstrings with some brains.",
+              ""
+            ],
+            [
+              "4",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**webshooter**](https://github.com/jedi4ever/webshooter)",
+              "Create webshots using rubyCocoa Webkit",
+              ""
+            ],
+            [
+              "4",
+              "[@jomz](https://github.com/jomz)/[**radiant-future-publi…**](https://github.com/jomz/radiant-future-publishing-extension)",
+              "A tiny Radiant extension that allows you to publish a page at a certain time in the future",
+              "[:arrow_upper_right:](http://jomz.gorilla-webdesign.be)"
+            ],
+            [
+              "4",
+              "[@ahe](https://github.com/ahe)/[**easytitles**](https://github.com/ahe/easytitles)",
+              "Ruby on Rails plugin to easily manage the titles of your pages using YAML files",
+              ""
+            ],
+            [
+              "4",
+              "[@sr](https://github.com/sr)/[**atom-test**](https://github.com/sr/atom-test)",
+              "Atom syndication format test suite for Ruby. ",
+              ""
+            ],
+            [
+              "4",
+              "[@lefred](https://github.com/lefred)/[**facter-mysql**](https://github.com/lefred/facter-mysql)",
+              "mysql facter",
+              ""
+            ],
+            [
+              "4",
+              "[@jomz](https://github.com/jomz)/[**spree-fixed_quantity**](https://github.com/jomz/spree-fixed_quantity)",
+              "This extension changes the input field for line\\_item quantity into a select, with options that are multiples of a product's base_quantity",
+              ""
+            ],
+            [
+              "4",
+              "[@pjaspers](https://github.com/pjaspers)/[**wasko**](https://github.com/pjaspers/wasko)",
+              "The quickest way to set your colorscheme",
+              ""
+            ],
+            [
+              "4",
+              "[@jomz](https://github.com/jomz)/[**radiant-first-reorde…**](https://github.com/jomz/radiant-first-reorder-extension)",
+              "This is a patched version of the original reorder extension (the one with drag&drop reordering on a seperate page)",
+              "[:arrow_upper_right:](-)"
+            ],
+            [
+              "3",
+              "[@xavier](https://github.com/xavier)/[**actionmailer-localiz…**](https://github.com/xavier/actionmailer-localized_preview)",
+              "Extends ActionMailer::Preview to allow email previews in all available locales",
+              ""
+            ],
+            [
+              "3",
+              "[@ys](https://github.com/ys)/[**reverse-auth-rubymot…**](https://github.com/ys/reverse-auth-rubymotion)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ys](https://github.com/ys)/[**heroku-rubymotion**](https://github.com/ys/heroku-rubymotion)",
+              "Rubymotion Iphone app for heroku [WIP]",
+              ""
+            ],
+            [
+              "3",
+              "[@ys](https://github.com/ys)/[**wapero**](https://github.com/ys/wapero)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@fabien](https://github.com/fabien)/[**ultraminx**](https://github.com/fabien/ultraminx)",
+              "A port of Ultrasphinx for Merb",
+              ""
+            ],
+            [
+              "3",
+              "[@fabien](https://github.com/fabien)/[**slices**](https://github.com/fabien/slices)",
+              "All sliced and diced",
+              ""
+            ],
+            [
+              "3",
+              "[@pjaspers](https://github.com/pjaspers)/[**Span**](https://github.com/pjaspers/Span)",
+              "Tool for using SPIC",
+              ""
+            ],
+            [
+              "3",
+              "[@blambeau](https://github.com/blambeau)/[**agora**](https://github.com/blambeau/agora)",
+              "Agile Goal-Oriented Requirement Acquisition",
+              ""
+            ],
+            [
+              "3",
+              "[@blambeau](https://github.com/blambeau)/[**waw**](https://github.com/blambeau/waw)",
+              "A simple and different web framework for ruby",
+              "[:arrow_upper_right:](http://github.com/blambeau/waw)"
+            ],
+            [
+              "3",
+              "[@blambeau](https://github.com/blambeau)/[**anagram**](https://github.com/blambeau/anagram)",
+              "Reusable grammars, parsers and rewriting tools",
+              ""
+            ],
+            [
+              "3",
+              "[@vStone](https://github.com/vStone)/[**puppet-model**](https://github.com/vStone/puppet-model)",
+              "A try out for a puppet-module model with a twist.",
+              ""
+            ],
+            [
+              "3",
+              "[@sr](https://github.com/sr)/[**twitrc**](https://github.com/sr/twitrc)",
+              "a twitter client for IRC in ruby.",
+              ""
+            ],
+            [
+              "3",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**consus**](https://github.com/cmeiklejohn/consus)",
+              "Lighweight prototype Dropbox clone written for Riak CS.",
+              "[:arrow_upper_right:](https://github.com/cmeiklejohn/consus)"
+            ],
+            [
+              "3",
+              "[@sr](https://github.com/sr)/[**bob-test**](https://github.com/sr/bob-test)",
+              "Test helpers for Bob's family",
+              ""
+            ],
+            [
+              "3",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**shipitdudemouse**](https://github.com/cmeiklejohn/shipitdudemouse)",
+              "http://shipitdudemouse.heroku.com",
+              "[:arrow_upper_right:](http://shipitdudemouse.heroku.com)"
+            ],
+            [
+              "3",
+              "[@sr](https://github.com/sr)/[**rack-red**](https://github.com/sr/rack-red)",
+              "RED (http://redbot.org) implemented as a Rack middleware",
+              "[:arrow_upper_right:](http://github.com/sr/rack-red)"
+            ],
+            [
+              "3",
+              "[@jomz](https://github.com/jomz)/[**radiant-reorder_chil…**](https://github.com/jomz/radiant-reorder_children-extension)",
+              "Adds the ability to reorder the children of a certain page with drag and drop.",
+              ""
+            ],
+            [
+              "3",
+              "[@fabien](https://github.com/fabien)/[**memetic**](https://github.com/fabien/memetic)",
+              "Packaging couchdb, lighttpd etc, and library dependencies, as binary gems",
+              ""
+            ],
+            [
+              "3",
+              "[@jomz](https://github.com/jomz)/[**radiant-index-page-e…**](https://github.com/jomz/radiant-index-page-extension)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@xavier](https://github.com/xavier)/[**active_sheet**](https://github.com/xavier/active_sheet)",
+              "An ActiveRecord-like library to process dubious data thrown at you in the form of spreadsheets",
+              ""
+            ],
+            [
+              "3",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**guard-evergreen**](https://github.com/cmeiklejohn/guard-evergreen)",
+              "Continuous testing for evergreen.",
+              "[:arrow_upper_right:](http://criticalpair.com)"
+            ],
+            [
+              "2",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**openstack-box**](https://github.com/jedi4ever/openstack-box)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@blambeau](https://github.com/blambeau)/[**wAw.js**](https://github.com/blambeau/wAw.js)",
+              "web Another way, a web framework in javascript/coffeescript",
+              "[:arrow_upper_right:](https://github.com/blambeau/wAw.js)"
+            ],
+            [
+              "2",
+              "[@blambeau](https://github.com/blambeau)/[**sqlize**](https://github.com/blambeau/sqlize)",
+              "Non-OO manipulation of SQL schemas...",
+              ""
+            ],
+            [
+              "2",
+              "[@blambeau](https://github.com/blambeau)/[**clipreasy**](https://github.com/blambeau/clipreasy)",
+              "Clinical Processes Made Easy",
+              "[:arrow_upper_right:](http://github.com/blambeau/clipreasy)"
+            ],
+            [
+              "2",
+              "[@blambeau](https://github.com/blambeau)/[**rqp2**](https://github.com/blambeau/rqp2)",
+              "The Relational Query Puzzle Platform",
+              ""
+            ],
+            [
+              "2",
+              "[@blambeau](https://github.com/blambeau)/[**polygon**](https://github.com/blambeau/polygon)",
+              "A sinatra-powered web framework for mostly static websites",
+              ""
+            ],
+            [
+              "2",
+              "[@pjaspers](https://github.com/pjaspers)/[**ghrunit**](https://github.com/pjaspers/ghrunit)",
+              "Better output for GHUnit command line builds",
+              ""
+            ],
+            [
+              "2",
+              "[@pjaspers](https://github.com/pjaspers)/[**typeit**](https://github.com/pjaspers/typeit)",
+              "MacRuby variant of Typespeed",
+              ""
+            ],
+            [
+              "2",
+              "[@xavier](https://github.com/xavier)/[**streams**](https://github.com/xavier/streams)",
+              "Streams, the little engine powering my personal website",
+              ""
+            ],
+            [
+              "2",
+              "[@xavier](https://github.com/xavier)/[**active_token**](https://github.com/xavier/active_token)",
+              "A simple way to create cryptographic tokens for an Active Record model.",
+              ""
+            ],
+            [
+              "2",
+              "[@xavier](https://github.com/xavier)/[**bouncer**](https://github.com/xavier/bouncer)",
+              "Rack middleware for simple access filtering by IP address or User Agent",
+              ""
+            ],
+            [
+              "2",
+              "[@blambeau](https://github.com/blambeau)/[**cudd-rb**](https://github.com/blambeau/cudd-rb)",
+              "A ruby bridge to the CU Decision Diagram package (CUDD)",
+              ""
+            ],
+            [
+              "2",
+              "[@jandot](https://github.com/jandot)/[**enfarmer**](https://github.com/jandot/enfarmer)",
+              "Extension of the Enumerable class to allow parallelization of jobs over a farm",
+              ""
+            ],
+            [
+              "2",
+              "[@blambeau](https://github.com/blambeau)/[**rubyrel**](https://github.com/blambeau/rubyrel)",
+              "Ruby and the Relational Model",
+              ""
+            ],
+            [
+              "2",
+              "[@jandot](https://github.com/jandot)/[**ruby-class-extension…**](https://github.com/jandot/ruby-class-extensions)",
+              "Commonly used class extensions",
+              ""
+            ],
+            [
+              "2",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**guard-tddium**](https://github.com/cmeiklejohn/guard-tddium)",
+              "Run your specs with tddium through guard.",
+              "[:arrow_upper_right:](http://criticalpair.com)"
+            ],
+            [
+              "2",
+              "[@dv](https://github.com/dv)/[**taxes**](https://github.com/dv/taxes)",
+              "Calculate your Belgian taxes.",
+              ""
+            ],
+            [
+              "2",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**watchmaker**](https://github.com/cmeiklejohn/watchmaker)",
+              "Extract test setup and factory instantiation into reusable objects. ",
+              "[:arrow_upper_right:](https://github.com/cmeiklejohn/watchmaker)"
+            ],
+            [
+              "2",
+              "[@dv](https://github.com/dv)/[**multiparty**](https://github.com/dv/multiparty)",
+              "A tiny gem to create multiparts.",
+              ""
+            ],
+            [
+              "2",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**seedable**](https://github.com/cmeiklejohn/seedable)",
+              "Allows for quick serialization/deserialization of objects for moving between environments.",
+              "[:arrow_upper_right:](https://github.com/cmeiklejohn/seedable)"
+            ],
+            [
+              "2",
+              "[@dv](https://github.com/dv)/[**opera-chain**](https://github.com/dv/opera-chain)",
+              "Ruby library to access Opera Link",
+              ""
+            ],
+            [
+              "2",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**riaque**](https://github.com/cmeiklejohn/riaque)",
+              "Process background jobs persisted in Riak.",
+              "[:arrow_upper_right:](http://criticalpair.com)"
+            ],
+            [
+              "2",
+              "[@vStone](https://github.com/vStone)/[**puppet-accounts**](https://github.com/vStone/puppet-accounts)",
+              "Manage your (system) user accounts in hiera",
+              ""
+            ],
+            [
+              "2",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**histomatic**](https://github.com/cmeiklejohn/histomatic)",
+              "Quick 'n dirty histograms for ActiveRecord.",
+              "[:arrow_upper_right:](http://github.com/cmeiklejohn/histomatic)"
+            ],
+            [
+              "2",
+              "[@vStone](https://github.com/vStone)/[**vagrant-puppet**](https://github.com/vStone/vagrant-puppet)",
+              "My vagrant setup for puppet development",
+              ""
+            ],
+            [
+              "2",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**future-of-front-end**](https://github.com/cmeiklejohn/future-of-front-end)",
+              "Lunch time tech talk for colleagues on new front-end development technologies.",
+              ""
+            ],
+            [
+              "2",
+              "[@lefred](https://github.com/lefred)/[**pluk-devops**](https://github.com/lefred/pluk-devops)",
+              "MySQL DBADEVOPS",
+              ""
+            ],
+            [
+              "2",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**motorized-bootstrap**](https://github.com/cmeiklejohn/motorized-bootstrap)",
+              "Twitter's bootstrap, as scss, in a rails engine.",
+              "[:arrow_upper_right:](http://github.com/cmeiklejohn/motorized-bootstrap)"
+            ],
+            [
+              "2",
+              "[@lefred](https://github.com/lefred)/[**puppet-fusioninvento…**](https://github.com/lefred/puppet-fusioninventory)",
+              "fusion inventory agent recipe",
+              ""
+            ],
+            [
+              "2",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**riik**](https://github.com/cmeiklejohn/riik)",
+              "Lightweight object mapper for Riak. ",
+              "[:arrow_upper_right:](http://criticalpair.com)"
+            ],
+            [
+              "2",
+              "[@lefred](https://github.com/lefred)/[**puppet-funambol**](https://github.com/lefred/puppet-funambol)",
+              "Funambol puppet recipe",
+              ""
+            ],
+            [
+              "2",
+              "[@cmeiklejohn](https://github.com/cmeiklejohn)/[**cereal_box**](https://github.com/cmeiklejohn/cereal_box)",
+              "Serialization filters for active record.",
+              "[:arrow_upper_right:](http://github.com/cmeiklejohn/cereal_box)"
+            ],
+            [
+              "2",
+              "[@fd](https://github.com/fd)/[**etaps**](https://github.com/fd/etaps)",
+              "Super simple CLI for taps",
+              ""
+            ],
+            [
+              "2",
+              "[@fabien](https://github.com/fabien)/[**spree_simple_invento…**](https://github.com/fabien/spree_simple_inventory)",
+              "Very basic inventory management for Spree",
+              ""
+            ],
+            [
+              "2",
+              "[@fd](https://github.com/fd)/[**be-data-api**](https://github.com/fd/be-data-api)",
+              "API client for data.be",
+              ""
+            ],
+            [
+              "2",
+              "[@fabien](https://github.com/fabien)/[**spree_admin_autocomp…**](https://github.com/fabien/spree_admin_autocomplete)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@gigamo](https://github.com/gigamo)/[**wmii-configs**](https://github.com/gigamo/wmii-configs)",
+              "My wmii configuration (uses Rumai)",
+              ""
+            ],
+            [
+              "2",
+              "[@fabien](https://github.com/fabien)/[**spree_discount**](https://github.com/fabien/spree_discount)",
+              "A simple way to display percentage discounts on products.",
+              ""
+            ],
+            [
+              "2",
+              "[@sr](https://github.com/sr)/[**statig**](https://github.com/sr/statig)",
+              "Thor task to manage a static website tracked with git. Don't expect anything fancy.",
+              ""
+            ],
+            [
+              "2",
+              "[@fabien](https://github.com/fabien)/[**spree_eu_vat**](https://github.com/fabien/spree_eu_vat)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@sr](https://github.com/sr)/[**integrity-queue**](https://github.com/sr/integrity-queue)",
+              "",
+              "[:arrow_upper_right:](http://integrityapp.com)"
+            ],
+            [
+              "2",
+              "[@jedi4ever](https://github.com/jedi4ever)/[**eventbrite-invoicer**](https://github.com/jedi4ever/eventbrite-invoicer)",
+              "Simple Ruby script to generate invoices from Eventbrite Events",
+              ""
+            ],
+            [
+              "2",
+              "[@sr](https://github.com/sr)/[**bobette**](https://github.com/sr/bobette)",
+              "Bob's sister",
+              "[:arrow_upper_right:](http://integrityapp.com)"
+            ],
+            [
+              "2",
+              "[@jomz](https://github.com/jomz)/[**radiant-group_childr…**](https://github.com/jomz/radiant-group_children-extension)",
+              "Adds a Radius tag to iterate over a page's children per n items.",
+              ""
             ]
           ]
         }
