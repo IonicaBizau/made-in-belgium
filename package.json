@@ -49,7 +49,8 @@
           "[JavaScript](#javascript)",
           "[Java](#java)",
           "[C#](#c-1)",
-          "[CSS](#css)"
+          "[CSS](#css)",
+          "[HTML](#html)"
         ]
       },
       {
@@ -2201,6 +2202,27 @@
               "2",
               "[@WartClaes](https://github.com/WartClaes)/[**Base**](https://github.com/WartClaes/Base)",
               "A SCSS framework, combined with usefull HTML en Javascript snippets",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "HTML #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2",
+              "[@LucAllemeersch](https://github.com/LucAllemeersch)/[**OpenVMS-Oracle-Rdb-T…**](https://github.com/LucAllemeersch/OpenVMS-Oracle-Rdb-Toolset)",
+              "Ready to use procedures for a database administrator of Oracle Rdb databases on OpenVMS. Refer to the users guide CPTRDB_USERS_GUIDE.HTML for all related information.",
               ""
             ]
           ]
