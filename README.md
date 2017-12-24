@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -35,6 +36,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4372 | [@bendc](https://github.com/bendc)/[**sprint**](https://github.com/bendc/sprint) | A tiny, lightning fast jQuery-like library for modern browsers. |
@@ -207,7 +209,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@doomhz](https://github.com/doomhz)/[**jQuery-Hash-Form**](https://github.com/doomhz/jQuery-Hash-Form) | Get form values as object. | [:arrow_upper_right:](http://dumitruglavan.com)
 2 | [@TimGeyssens](https://github.com/TimGeyssens)/[**LocatorRazorStyle**](https://github.com/TimGeyssens/LocatorRazorStyle) | Locator package for Umbraco |
 2 | [@doomhz](https://github.com/doomhz)/[**jQuery-Doom-Tooltip**](https://github.com/doomhz/jQuery-Doom-Tooltip) | Display tooltips and bubbles on your site. | [:arrow_upper_right:](http://dumitruglavan.com)
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 807 | [@JeroenMols](https://github.com/JeroenMols)/[**LandscapeVideoCamera**](https://github.com/JeroenMols/LandscapeVideoCamera) | Powerful custom Android Camera with granular control over the video quality and filesize, restricting recordings to landscape only. |
@@ -303,7 +307,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@bendem](https://github.com/bendem)/[**DiceyRpg**](https://github.com/bendem/DiceyRpg) | Irc based rpg game when you kill stuff with dice... |
 2 | [@dries007](https://github.com/dries007)/[**TapeMouse**](https://github.com/dries007/TapeMouse) | Tape + Mouse = TapeMouse |
 2 | [@datablend](https://github.com/datablend)/[**yelp-graph**](https://github.com/datablend/yelp-graph) | Clustering of yelp businesses based upon checkin data  |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 658 | [@IgnaceMaes](https://github.com/IgnaceMaes)/[**MaterialSkin**](https://github.com/IgnaceMaes/MaterialSkin) | Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles. |
@@ -391,16 +397,22 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@KevinDockx](https://github.com/KevinDockx)/[**JsonPatch.Dynamic**](https://github.com/KevinDockx/JsonPatch.Dynamic) | Support for dynamically typed objects for Marvin.JsonPatch (Json Patch Document RFC 6902 implementation for .NET) |
 2 | [@nickvane](https://github.com/nickvane)/[**AionMsBuildTasks**](https://github.com/nickvane/AionMsBuildTasks) | MsBuildTasks for building CA Aion applications |
 2 | [@XamlBrewer](https://github.com/XamlBrewer)/[**UWP-SQLite-EntityFra…**](https://github.com/XamlBrewer/UWP-SQLite-EntityFramework-Sample) | A UWP app demonstrating CRUD operations against a local SQLite database using Entity Framework. |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 11 | [@poltertec](https://github.com/poltertec)/[**basepop-gtk-theme**](https://github.com/poltertec/basepop-gtk-theme) |  |
 2 | [@WartClaes](https://github.com/WartClaes)/[**Base**](https://github.com/WartClaes/Base) | A SCSS framework, combined with usefull HTML en Javascript snippets |
+
 ### HTML #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2 | [@LucAllemeersch](https://github.com/LucAllemeersch)/[**OpenVMS-Oracle-Rdb-T…**](https://github.com/LucAllemeersch/OpenVMS-Oracle-Rdb-Toolset) | Ready to use procedures for a database administrator of Oracle Rdb databases on OpenVMS. Refer to the users guide CPTRDB_USERS_GUIDE.HTML for all related information. |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 107 | [@lucasb-eyer](https://github.com/lucasb-eyer)/[**heatmap**](https://github.com/lucasb-eyer/heatmap) | High performance C heatmap generation library. Supposed to be wrapped by higher-level languages. |
@@ -434,7 +446,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@andyvand](https://github.com/andyvand)/[**AppleDecrypt**](https://github.com/andyvand/AppleDecrypt) | Apple Protected Binary decryption kext for Lion and above. |
 2 | [@andyvand](https://github.com/andyvand)/[**openssl-winopt**](https://github.com/andyvand/openssl-winopt) | OpenSSL Optimized for latest Windows |
 2 | [@andete](https://github.com/andete)/[**ym2413**](https://github.com/andete/ym2413) | openMSX YM2413 reverse engineering project |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 132 | [@glynos](https://github.com/glynos)/[**cpp-netlib**](https://github.com/glynos/cpp-netlib) | The C++ Network Library Project -- header-only, cross-platform, standards compliant networking library. | [:arrow_upper_right:](http://glynos.github.com/cpp-netlib/)
@@ -480,21 +494,27 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@glynos](https://github.com/glynos)/[**fundamentals**](https://github.com/glynos/fundamentals) | Re-learning some fundamentals |
 2 | [@glynos](https://github.com/glynos)/[**uri**](https://github.com/glynos/uri) | cpp-netlib URI | [:arrow_upper_right:](http://cpp-netlib.github.com/)
 2 | [@neuroprod](https://github.com/neuroprod)/[**balancingRobot**](https://github.com/neuroprod/balancingRobot) |  |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 78 | [@luwes](https://github.com/luwes)/[**js-cover-flow**](https://github.com/luwes/js-cover-flow) | A Cover Flow component made for the web | [:arrow_upper_right:](http://luwes.co/projects/js-cover-flow/)
 3 | [@RIAstar](https://github.com/RIAstar)/[**CallOutFx**](https://github.com/RIAstar/CallOutFx) | A Flex/Spark CallOut and CallOutButton for web or desktop applications |
 2 | [@ThibautVDB](https://github.com/ThibautVDB)/[**Chess-interface**](https://github.com/ThibautVDB/Chess-interface) | Unfinished chess interface in AS3 |
 2 | [@luwes](https://github.com/luwes)/[**Zebroid**](https://github.com/luwes/Zebroid) | Simple 2D line drawing library for Flash Stage3D (aka Molehill) |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6 | [@joachimdb](https://github.com/joachimdb)/[**dl4clj**](https://github.com/joachimdb/dl4clj) | Port of some deeplearning4j examples to clojure |
 5 | [@cderoove](https://github.com/cderoove)/[**damp.ekeko.aspectj**](https://github.com/cderoove/damp.ekeko.aspectj) | Ekeko plugin that provides support for Aspectj  |
 5 | [@phochste](https://github.com/phochste)/[**clj-marc**](https://github.com/phochste/clj-marc) | A Clojure MARC parser |
 2 | [@phochste](https://github.com/phochste)/[**clj-layar**](https://github.com/phochste/clj-layar) | Clojure application to push POI's on the internet |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 83 | [@debrouwere](https://github.com/debrouwere)/[**draughtsman**](https://github.com/debrouwere/draughtsman) | Transparent compilation of templates and stylesheets for prototyping HTML interfaces. Also live reloading. |
@@ -514,13 +534,17 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@debrouwere](https://github.com/debrouwere)/[**flatten**](https://github.com/debrouwere/flatten) | A simple command-line utility that flattens and unflattens JSON. |
 2 | [@debrouwere](https://github.com/debrouwere)/[**bones-coffeescript-e…**](https://github.com/debrouwere/bones-coffeescript-example) | A Backbone.js + Bones example app |
 2 | [@debrouwere](https://github.com/debrouwere)/[**put**](https://github.com/debrouwere/put) | Put is a command-line utility to move, rename, copy and symlink files. Uses a simple placeholder syntax to transform input filenames to output filenames. Think of it as an easier-to-use but perhaps less powerful Linux rename. |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@onbings](https://github.com/onbings)/[**ftpsclient**](https://github.com/onbings/ftpsclient) | Another Ftp(s) client package for the go language |
 3 | [@tmbrggmn](https://github.com/tmbrggmn)/[**gosteam**](https://github.com/tmbrggmn/gosteam) | Go library for interacting with Steam/Valve interfaces (server queries, etc.) |
 2 | [@bubblepost](https://github.com/bubblepost)/[**jinx**](https://github.com/bubblepost/jinx) | Continuous integration server |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1310 | [@jaspervdj](https://github.com/jaspervdj)/[**hakyll**](https://github.com/jaspervdj/hakyll) | A static website compiler library in Haskell | [:arrow_upper_right:](jaspervdj.be/hakyll)
@@ -583,7 +607,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@noteed](https://github.com/noteed)/[**tcc**](https://github.com/noteed/tcc) | Haskell bindings to the Tiny C Compiler library (libtcc). |
 2 | [@gertcuykens](https://github.com/gertcuykens)/[**haskell-design**](https://github.com/gertcuykens/haskell-design) | Haskell web design. |
 2 | [@noteed](https://github.com/noteed)/[**snaplet-auth-example**](https://github.com/noteed/snaplet-auth-example) | Example usage of Snap.Snaplet.Auth |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 45 | [@RafaelDeJongh](https://github.com/RafaelDeJongh)/[**cap**](https://github.com/RafaelDeJongh/cap) | Carter Addons Pack Code |
@@ -591,13 +617,17 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 5 | [@FlightControl-Master](https://github.com/FlightControl-Master)/[**MOOSE**](https://github.com/FlightControl-Master/MOOSE) | Mission Object Oriented Scripting Environment (MOOSE) for lua mission scripting design in DCS World |
 2 | [@gogoprog](https://github.com/gogoprog)/[**mechabot**](https://github.com/gogoprog/mechabot) | A shooter game using gengine |
 2 | [@samvdb](https://github.com/samvdb)/[**awesome-config**](https://github.com/samvdb/awesome-config) |  |
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@u0078867](https://github.com/u0078867)/[**ulema-ul-analyzer**](https://github.com/u0078867/ulema-ul-analyzer) | U.L.E.M.A. is a MATLAB-based GUI tool (for Windows) for quickly processing motion capture data (C3D files) relative to upper limb movements |
 4 | [@CyclotronResearchCen…](https://github.com/CyclotronResearchCentre)/[**FASST**](https://github.com/CyclotronResearchCentre/FASST) | FASST, aka. fMRI Artefact rejection and Sleep Scoring Toolbox, public distribution with the latest updates. |
 3 | [@CyclotronResearchCen…](https://github.com/CyclotronResearchCentre)/[**SPM_ClusterSizeThres…**](https://github.com/CyclotronResearchCentre/SPM_ClusterSizeThreshold) | SPM Cluster Size Threshold estimation |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 363 | [@brunow](https://github.com/brunow)/[**BWStatusBarOverlay**](https://github.com/brunow/BWStatusBarOverlay) | BWStatusBarOverlay is a custom status bar overlay window. |
@@ -636,7 +666,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@bartvandendriessche](https://github.com/bartvandendriessche)/[**The-Grid**](https://github.com/bartvandendriessche/The-Grid) |  |
 2 | [@joachimVdH](https://github.com/joachimVdH)/[**myProxiData**](https://github.com/joachimVdH/myProxiData) | An app i created for learning and out of frustration that Proximus didn't had one ( now they do ). All you need is a Proximus data account and login credentials ( https://secure.proximus.be ). | [:arrow_upper_right:](http://www.4d.be/apps/myProxiData)
 2 | [@ValCapri](https://github.com/ValCapri)/[**CSNotificationView-A…**](https://github.com/ValCapri/CSNotificationView-AFNetworking) | A AFNetwork extension that show a notification on error in a task or request (like UIAlertView+AFNetworking) |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 125 | [@hollie](https://github.com/hollie)/[**misterhouse**](https://github.com/hollie/misterhouse) | Perl open source home automation program. It's fun, it's free, and it's entirely geeky. |
@@ -644,7 +676,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 4 | [@hollie](https://github.com/hollie)/[**lpc_usb_flasher**](https://github.com/hollie/lpc_usb_flasher) | Small script to automatically flash the latest bin file onto a bare metal LPC11U24 controller using the built-in USB boot loader  |
 2 | [@nics](https://github.com/nics)/[**Dancer-Plugin-Locale**](https://github.com/nics/Dancer-Plugin-Locale) |  |
 2 | [@hollie](https://github.com/hollie)/[**device-plugwise-perl**](https://github.com/hollie/device-plugwise-perl) | Perl module to interface to Plugwise hardware |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1912 | [@jenssegers](https://github.com/jenssegers)/[**laravel-mongodb**](https://github.com/jenssegers/laravel-mongodb) | A MongoDB based Eloquent model and Query builder for Laravel (Moloquent) | [:arrow_upper_right:](https://jenssegers.com)
@@ -740,7 +774,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@Driesboy](https://github.com/Driesboy)/[**Lightning**](https://github.com/Driesboy/Lightning) | pocketmine plugin (working) |
 2 | [@jenssegers](https://github.com/jenssegers)/[**lean**](https://github.com/jenssegers/lean) | Use the PHP League's Container package with auto-wiring support as the core container in Slim 3 |
 2 | [@mathiasverraes](https://github.com/mathiasverraes)/[**speakingjenkins**](https://github.com/mathiasverraes/speakingjenkins) | Command line PHP app that announces the status of a Jenkins/Hudson CI build using text-to-speech. | [:arrow_upper_right:](http://blog.verraes.net)
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2886 | [@jonathanslenders](https://github.com/jonathanslenders)/[**python-prompt-toolki…**](https://github.com/jonathanslenders/python-prompt-toolkit) | Library for building powerful interactive command lines in Python |
@@ -817,7 +853,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@tcoopman](https://github.com/tcoopman)/[**network-monitor-plas…**](https://github.com/tcoopman/network-monitor-plasmoid) | a plasmoid to monitor your available download and upload quota |
 2 | [@jonathanslenders](https://github.com/jonathanslenders)/[**pymux-test**](https://github.com/jonathanslenders/pymux-test) |  |
 2 | [@fdb](https://github.com/fdb)/[**teamhub**](https://github.com/fdb/teamhub) | A simple web application for collaboration in small teams. |
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 70 | [@yrosseel](https://github.com/yrosseel)/[**lavaan**](https://github.com/yrosseel/lavaan) | an R package for structural equation modeling and more | [:arrow_upper_right:](http://lavaan.org)
@@ -826,7 +864,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 8 | [@jwijffels](https://github.com/jwijffels)/[**ETLUtils**](https://github.com/jwijffels/ETLUtils) | Utilities for easily loading big data from relational databases directly into ffdf objects in R. | [:arrow_upper_right:](https://github.com/jwijffels/ETLUtils/wiki)
 8 | [@jwijffels](https://github.com/jwijffels)/[**Myrrix-R-interface**](https://github.com/jwijffels/Myrrix-R-interface) | Let R talk to Myrrix. Myrrix is a complete, real-time, scalable     clustering and recommender system, evolved from Apache Mahout. |
 4 | [@rogiersbart](https://github.com/rogiersbart)/[**RGLUEANN**](https://github.com/rogiersbart/RGLUEANN) | provides an R implementation of the coupling between general likelihood uncertainty estimation (GLUE) and artificial neural networks (ANN) | [:arrow_upper_right:](http://rogiersbart.blogspot.com/search/label/Science)
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 671 | [@jedi4ever](https://github.com/jedi4ever)/[**sahara**](https://github.com/jedi4ever/sahara) | a plugin for vagrant that allows you manage a sandbox state |
@@ -999,7 +1039,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@jedi4ever](https://github.com/jedi4ever)/[**eventbrite-invoicer**](https://github.com/jedi4ever/eventbrite-invoicer) | Simple Ruby script to generate invoices from Eventbrite Events |
 2 | [@sr](https://github.com/sr)/[**bobette**](https://github.com/sr/bobette) | Bob's sister | [:arrow_upper_right:](http://integrityapp.com)
 2 | [@jomz](https://github.com/jomz)/[**radiant-group_childr…**](https://github.com/jomz/radiant-group_children-extension) | Adds a Radius tag to iterate over a page's children per n items. |
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 18 | [@andypetrella](https://github.com/andypetrella)/[**neo4j-rest-play-plug…**](https://github.com/andypetrella/neo4j-rest-play-plugin) | An attempt to have a plugin for Play 2.0 of Neo4J REST api |
@@ -1016,7 +1058,9 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@andypetrella](https://github.com/andypetrella)/[**play2-steal**](https://github.com/andypetrella/play2-steal) | Library that aims to provide interceptors for Play Actions (composable using Scalaz, type safed using Shapeless) |
 2 | [@andypetrella](https://github.com/andypetrella)/[**gatling-sbt-sample**](https://github.com/andypetrella/gatling-sbt-sample) | A very lightweight sample for HTTP testing using SBT and its Gatling-Tool plugin |
 2 | [@andypetrella](https://github.com/andypetrella)/[**steal-play2**](https://github.com/andypetrella/steal-play2) | A project defining a way to intercept/prepare stuffs before the definition of an action |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 25 | [@erikdubois](https://github.com/erikdubois)/[**Archi3**](https://github.com/erikdubois/Archi3) | Automated script to install i3 and all its programs on Arch Linux |
@@ -1039,12 +1083,16 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 2 | [@BlackIkeEagle](https://github.com/BlackIkeEagle)/[**documents-sync**](https://github.com/BlackIkeEagle/documents-sync) | sync your documents |
 2 | [@Tuinslak](https://github.com/Tuinslak)/[**Misc**](https://github.com/Tuinslak/Misc) | Stuff, configs, docs, etc | [:arrow_upper_right:](https://0x04.com/conf/)
 2 | [@BlackIkeEagle](https://github.com/BlackIkeEagle)/[**black-backup**](https://github.com/BlackIkeEagle/black-backup) | simple backup written in bash |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 4 | [@icapps](https://github.com/icapps)/[**ios-air-rivet**](https://github.com/icapps/ios-air-rivet) | The goal is to make a small requestController that uses generics to make the request reusable. |
 2 | [@Nexmind](https://github.com/Nexmind)/[**Swiftizy**](https://github.com/Nexmind/Swiftizy) |  |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 59 | [@fmoralesc](https://github.com/fmoralesc)/[**vim-tutor-mode**](https://github.com/fmoralesc/vim-tutor-mode) | interactive tutorials for vim |
@@ -1062,6 +1110,7 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 3 | [@fmoralesc](https://github.com/fmoralesc)/[**vim-vitamins**](https://github.com/fmoralesc/vim-vitamins) |  | [:arrow_upper_right:](http://hcalves.deviantart.com/art/Vitamins-Vim-Colorscheme-98630379)
 2 | [@groggemans](https://github.com/groggemans)/[**dot-vim**](https://github.com/groggemans/dot-vim) | My vim configuration - [ Ellipsis package ] |
 2 | [@fmoralesc](https://github.com/fmoralesc)/[**vim-iolang**](https://github.com/fmoralesc/vim-iolang) | io programming language support for vim |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
