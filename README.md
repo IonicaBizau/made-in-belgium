@@ -957,7 +957,7 @@ transforms. A simple and interactive 3D scene using Sprite3D.js |
 6 | [@lefred](https://github.com/lefred)/[**puppet-cluster**](https://github.com/lefred/puppet-cluster) | pacemaker / corosync puppet recipe |
 5 | [@xavier](https://github.com/xavier)/[**live_tabs**](https://github.com/xavier/live_tabs) | Dynamic in-page tabbed navigation for Rails, supporting both inline and remote content |
 5 | [@blambeau](https://github.com/blambeau)/[**plwords**](https://github.com/blambeau/plwords) | http://plwords.herokuapp.com/ |
-5 | [@jedi4ever](https://github.com/jedi4ever)/[**puppet-codeblock**](https://github.com/jedi4ever/puppet-codeblock) | Execute abritrary codeblocks in Puppet |
+5 | [@jedi4ever](https://github.com/jedi4ever)/[**puppet-codeblock**](https://github.com/jedi4ever/puppet-codeblock) | Execute arbitrary codeblocks in Puppet |
 5 | [@jedi4ever](https://github.com/jedi4ever)/[**mccloud-demo**](https://github.com/jedi4ever/mccloud-demo) | Demo showing of Mccloud project |
 5 | [@ys](https://github.com/ys)/[**rubymotion-bars**](https://github.com/ys/rubymotion-bars) | first rubymotion app calling foursquare |
 5 | [@jandot](https://github.com/jandot)/[**sprolog**](https://github.com/jandot/sprolog) | Simple Project Logger | [:arrow_upper_right:](http://sprolog.rubyforge.org)
